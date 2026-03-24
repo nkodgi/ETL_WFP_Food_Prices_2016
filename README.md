@@ -96,4 +96,6 @@ python src/analysis.py
 
 - Rice is consistently one of the most expensive commodities, with certain varieties significantly exceeding others in price  
 - Food prices vary widely across countries, with Bhutan and Somalia showing the highest average prices  
-- Monthly price trends indicate fluctuations in staple food costs, suggesting seasonal or supply-driven effects  
+- Monthly price trends indicate fluctuations in staple food costs, suggesting seasonal or supply-driven effects
+- Cassava-based products remain among the lowest-priced food items, suggesting their role as staple, affordable food sources in many regions.
+- Certain commodities such as buckwheat and bread maintain consistently higher price levels, indicating stronger demand or limited supply stability.
