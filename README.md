@@ -44,3 +44,31 @@ This project implements a modular ETL pipeline:
 ---
 
 ## 📁 Project Structure
+
+```bash
+etl-wfp-food-prices/
+│
+├── data/
+│   ├── raw/
+│   │   └── wfp_food_prices_global_2016.csv   # Original dataset
+│   └── processed/
+│       └── wfp_2016_clean.csv               # Cleaned output (generated)
+│
+├── outputs/
+│   ├── top_commodities.png                  # Visualization
+│   ├── top_countries.png                    # Visualization
+│   └── rice_trend.png                       # Visualization
+│
+├── src/
+│   ├── extract.py                           # Data extraction logic
+│   ├── transform.py                         # Data cleaning & transformation
+│   ├── load.py                              # Save to CSV & SQLite
+│   ├── pipeline.py                          # ETL pipeline runner
+│   └── analysis.py                          # Data analysis & visualization
+│
+├── requirements.txt                         # Dependencies
+├── README.md                                # Project documentation
+└── .gitignore                               # Ignore unnecessary files
+```
+
+
