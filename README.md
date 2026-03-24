@@ -71,4 +71,23 @@ etl-wfp-food-prices/
 └── .gitignore                               # Ignore unnecessary files
 ```
 
+## 🚀 How to Run This Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/nkodgi/ETL_WFP_Food_Prices_2016.git
+cd ETL_WFP_Food_Prices_2016
+```
+
+```bash
+conda create -n etl-wfp python=3.10 -y
+conda activate etl-wfp
+pip install -r requirements.txt
+```
+
+```bash
+python src/pipeline.py
+python src/analysis.py
+```
 
