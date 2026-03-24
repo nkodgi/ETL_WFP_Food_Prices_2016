@@ -1,6 +1,6 @@
 # 🌍 WFP Food Price ETL Pipeline
 
-This project demonstrates a complete **ETL (Extract, Transform, Load) pipeline** using real-world humanitarian data from the World Food Programme (WFP). The pipeline processes global food price data, cleans and standardizes it, and produces analysis-ready outputs along with visualizations.
+This project demonstrates a complete **ETL (Extract, Transform, Load) pipeline** using real-world humanitarian data from the World Food Programme (WFP) from 2016. The pipeline processes global food price data, cleans and standardizes it, and produces analysis-ready outputs along with visualizations.
 
 ---
 
@@ -86,8 +86,14 @@ conda activate etl-wfp
 pip install -r requirements.txt
 ```
 
+
 ```bash
 python src/pipeline.py
 python src/analysis.py
 ```
 
+## 📊 Key Insights
+
+- Rice is consistently one of the most expensive commodities, with certain varieties significantly exceeding others in price  
+- Food prices vary widely across countries, with Bhutan and Somalia showing the highest average prices  
+- Monthly price trends indicate fluctuations in staple food costs, suggesting seasonal or supply-driven effects  
