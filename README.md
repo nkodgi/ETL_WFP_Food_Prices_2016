@@ -73,20 +73,21 @@ etl-wfp-food-prices/
 
 ## 🚀 How to Run This Project
 
-### 1. Clone the repository
+### 1. Clone the repository.
 
 ```bash
 git clone https://github.com/nkodgi/ETL_WFP_Food_Prices_2016.git
 cd ETL_WFP_Food_Prices_2016
 ```
 
+### 2. Create conda environment and install packages.
 ```bash
 conda create -n etl-wfp python=3.10 -y
 conda activate etl-wfp
 pip install -r requirements.txt
 ```
 
-
+### 3. Run pipeline and visualization scripts.
 ```bash
 python src/pipeline.py
 python src/analysis.py
