@@ -1,0 +1,4069 @@
+countryiso3,commodity,month,avg_usdprice
+AFG,Bread,1,0.665
+AFG,Bread,2,0.68
+AFG,Bread,3,0.6333333333333333
+AFG,Bread,4,0.6359999999999999
+AFG,Bread,5,0.6566666666666666
+AFG,Bread,6,0.6166666666666667
+AFG,Bread,7,0.674
+AFG,Bread,8,0.65
+AFG,Bread,9,0.7600000000000001
+AFG,Bread,10,0.6900000000000001
+AFG,Bread,11,0.6749999999999999
+AFG,Bread,12,0.678
+AFG,Rice (low quality),1,0.535
+AFG,Rice (low quality),2,0.5816666666666667
+AFG,Rice (low quality),3,0.6333333333333333
+AFG,Rice (low quality),4,0.7233333333333333
+AFG,Rice (low quality),5,0.545
+AFG,Rice (low quality),6,0.6316666666666667
+AFG,Rice (low quality),7,0.6699999999999999
+AFG,Rice (low quality),8,0.6457142857142858
+AFG,Rice (low quality),9,0.6433333333333334
+AFG,Rice (low quality),10,0.5933333333333334
+AFG,Rice (low quality),11,0.6216666666666667
+AFG,Rice (low quality),12,0.5933333333333334
+AFG,Wheat,1,0.3525
+AFG,Wheat,2,0.385
+AFG,Wheat,3,0.3666666666666667
+AFG,Wheat,4,0.35285714285714287
+AFG,Wheat,5,0.37333333333333335
+AFG,Wheat,6,0.36999999999999994
+AFG,Wheat,7,0.374
+AFG,Wheat,8,0.345
+AFG,Wheat,9,0.3525
+AFG,Wheat,10,0.32
+AFG,Wheat,11,0.372
+AFG,Wheat,12,0.3275
+AFG,Wheat flour,1,0.4075
+AFG,Wheat flour,2,0.395
+AFG,Wheat flour,3,0.42000000000000004
+AFG,Wheat flour,4,0.3875
+AFG,Wheat flour,5,0.3925
+AFG,Wheat flour,6,0.395
+AFG,Wheat flour,7,0.4066666666666667
+AFG,Wheat flour,8,0.395
+AFG,Wheat flour,9,0.42
+AFG,Wheat flour,10,0.4125
+AFG,Wheat flour,11,0.41333333333333333
+AFG,Wheat flour,12,0.4166666666666667
+AGO,Cassava flour,2,6.4e-05
+AGO,Cassava flour,3,6.3e-05
+AGO,Cassava flour,4,6.1e-05
+AGO,Cassava flour,5,6.1e-05
+AGO,Cassava flour,6,6.1e-05
+AGO,Cassava flour,7,6.1e-05
+AGO,Cassava flour,8,6.1e-05
+AGO,Cassava flour,9,6.1e-05
+AGO,Cassava flour,10,6.1e-05
+AGO,Maize meal (yellow),5,1.51
+AGO,Maize meal (yellow),7,1.82
+AGO,Maize meal (yellow),8,1.82
+AGO,Maize meal (yellow),9,2.42
+AGO,"Rice (white, imported)",3,0.63
+AGO,"Rice (white, imported)",5,2.12
+AGO,"Rice (white, imported)",6,2.42
+AGO,"Rice (white, imported)",7,2.42
+AGO,"Rice (white, imported)",9,3.03
+ARG,Bread,4,2.13
+ARG,Bread,5,2.18
+ARG,Bread,6,2.37
+ARG,Bread,7,2.22
+ARG,Bread,8,2.32
+ARG,Bread,9,2.28
+ARG,Bread,10,2.24
+ARG,Bread,11,2.19
+ARG,Bread,12,2.15
+ARG,Maize (yellow),1,0.15
+ARG,Maize (yellow),2,0.15
+ARG,Maize (yellow),3,0.15
+ARG,Maize (yellow),4,0.17
+ARG,Maize (yellow),5,0.18
+ARG,Maize (yellow),7,0.18
+ARG,Maize (yellow),11,0.17
+ARG,Maize (yellow),12,0.16
+ARG,Potatoes,4,0.66
+ARG,Potatoes,5,0.67
+ARG,Potatoes,6,0.81
+ARG,Potatoes,7,0.8
+ARG,Potatoes,8,0.8
+ARG,Potatoes,9,0.79
+ARG,Potatoes,10,0.83
+ARG,Potatoes,11,0.76
+ARG,Potatoes,12,0.73
+ARG,Rice (white),4,1.16
+ARG,Rice (white),5,1.15
+ARG,Rice (white),7,1.13
+ARG,Rice (white),8,1.18
+ARG,Rice (white),10,1.22
+ARG,Rice (white),11,1.22
+ARG,Wheat,1,0.14
+ARG,Wheat,2,0.14
+ARG,Wheat,3,0.15
+ARG,Wheat,4,0.16
+ARG,Wheat,5,0.18
+ARG,Wheat,6,0.2
+ARG,Wheat,8,0.17
+ARG,Wheat,9,0.15
+ARG,Wheat,10,0.15
+ARG,Wheat,12,0.14
+ARG,Wheat flour,1,0.27
+ARG,Wheat flour,2,0.24
+ARG,Wheat flour,3,0.25
+ARG,Wheat flour,4,0.435
+ARG,Wheat flour,5,0.45499999999999996
+ARG,Wheat flour,6,0.515
+ARG,Wheat flour,7,0.49
+ARG,Wheat flour,8,0.5349999999999999
+ARG,Wheat flour,9,0.5349999999999999
+ARG,Wheat flour,10,0.5249999999999999
+ARG,Wheat flour,11,0.53
+ARG,Wheat flour,12,0.515
+ARM,Bread (first grade flour),1,0.9433333333333334
+ARM,Bread (first grade flour),2,0.9166666666666666
+ARM,Bread (first grade flour),3,0.94
+ARM,Bread (first grade flour),4,0.94
+ARM,Bread (first grade flour),5,0.954
+ARM,Bread (first grade flour),6,0.9466666666666667
+ARM,Bread (first grade flour),7,0.97
+ARM,Bread (first grade flour),9,0.935
+ARM,Bread (first grade flour),10,0.9033333333333333
+ARM,Bread (first grade flour),11,0.96
+ARM,Bread (first grade flour),12,0.916
+ARM,Bread (high grade flour),1,1.0066666666666666
+ARM,Bread (high grade flour),2,0.99
+ARM,Bread (high grade flour),3,1.0075
+ARM,Bread (high grade flour),4,1.02
+ARM,Bread (high grade flour),5,1.0275
+ARM,Bread (high grade flour),6,1.0433333333333332
+ARM,Bread (high grade flour),7,1.03
+ARM,Bread (high grade flour),9,1.0266666666666666
+ARM,Bread (high grade flour),10,1.0075
+ARM,Bread (high grade flour),11,1.016
+ARM,Bread (high grade flour),12,1.0366666666666668
+ARM,Pasta,1,1.3
+ARM,Pasta,2,1.0266666666666666
+ARM,Pasta,3,0.98
+ARM,Pasta,4,0.99
+ARM,Pasta,5,1.0350000000000001
+ARM,Pasta,6,0.97
+ARM,Pasta,9,1.0366666666666668
+ARM,Pasta,10,1.065
+ARM,Pasta,11,1.1166666666666667
+ARM,Pasta,12,1.06
+ARM,Potatoes,1,0.39999999999999997
+ARM,Potatoes,2,0.41
+ARM,Potatoes,3,0.398
+ARM,Potatoes,4,0.4375
+ARM,Potatoes,5,0.5433333333333333
+ARM,Potatoes,6,0.5425
+ARM,Potatoes,7,0.39
+ARM,Potatoes,9,0.3825
+ARM,Potatoes,10,0.31799999999999995
+ARM,Potatoes,11,0.29
+ARM,Potatoes,12,0.375
+ARM,Rice (white),2,0.96
+ARM,Rice (white),4,1.12
+ARM,Rice (white),5,1.05
+ARM,Rice (white),6,1.115
+ARM,Rice (white),7,1.13
+ARM,Rice (white),10,1.13
+ARM,Rice (white),11,1.24
+ARM,Wheat flour,1,0.51
+ARM,Wheat flour,2,0.45
+ARM,Wheat flour,3,0.4666666666666666
+ARM,Wheat flour,4,0.48
+ARM,Wheat flour,5,0.4766666666666666
+ARM,Wheat flour,6,0.475
+ARM,Wheat flour,7,0.47333333333333333
+ARM,Wheat flour,9,0.475
+ARM,Wheat flour,10,0.565
+ARM,Wheat flour,12,0.4725
+BDI,Cassava flour,1,0.46588235294117647
+BDI,Cassava flour,2,0.49466666666666664
+BDI,Cassava flour,3,0.5225000000000001
+BDI,Cassava flour,4,0.48210526315789476
+BDI,Cassava flour,5,0.5153846153846154
+BDI,Cassava flour,6,0.4525
+BDI,Cassava flour,7,0.4327272727272727
+BDI,Cassava flour,8,0.45375
+BDI,Cassava flour,9,0.4473333333333333
+BDI,Cassava flour,10,0.4842222222222222
+BDI,Cassava flour,11,0.54725
+BDI,Cassava flour,12,0.6123684210526316
+BDI,Maize,2,0.57
+BDI,Maize,4,0.43
+BDI,Maize,6,0.32
+BDI,Maize,7,0.39
+BDI,Maize,8,0.45
+BDI,Maize,9,0.48
+BDI,Maize,10,0.49
+BDI,Maize,11,0.5499999999999999
+BDI,Maize,12,0.3
+BDI,Maize (white),1,0.5438461538461539
+BDI,Maize (white),2,0.4788888888888889
+BDI,Maize (white),3,0.35000000000000003
+BDI,Maize (white),4,0.3426666666666666
+BDI,Maize (white),5,0.3738461538461539
+BDI,Maize (white),6,0.36357142857142855
+BDI,Maize (white),7,0.425
+BDI,Maize (white),8,0.488
+BDI,Maize (white),9,0.484
+BDI,Maize (white),10,0.5885714285714286
+BDI,Maize (white),11,0.6676666666666667
+BDI,Maize (white),12,0.7235714285714286
+BDI,Maize flour,1,0.6590909090909091
+BDI,Maize flour,2,0.5641666666666666
+BDI,Maize flour,3,0.5378571428571429
+BDI,Maize flour,4,0.49058823529411766
+BDI,Maize flour,5,0.483
+BDI,Maize flour,6,0.4857142857142857
+BDI,Maize flour,7,0.5009090909090909
+BDI,Maize flour,8,0.5726666666666667
+BDI,Maize flour,9,0.6045454545454546
+BDI,Maize flour,10,0.6637777777777778
+BDI,Maize flour,11,0.7546666666666667
+BDI,Maize flour,12,0.8426190476190476
+BDI,Potatoes (Irish),1,0.3564705882352941
+BDI,Potatoes (Irish),2,0.39083333333333337
+BDI,Potatoes (Irish),3,0.4525
+BDI,Potatoes (Irish),4,0.49615384615384617
+BDI,Potatoes (Irish),5,0.458
+BDI,Potatoes (Irish),6,0.46636363636363637
+BDI,Potatoes (Irish),7,0.43785714285714283
+BDI,Potatoes (Irish),8,0.372
+BDI,Potatoes (Irish),9,0.37777777777777777
+BDI,Potatoes (Irish),10,0.38525
+BDI,Potatoes (Irish),11,0.41289473684210526
+BDI,Potatoes (Irish),12,0.46540540540540537
+BDI,"Rice (high quality, local)",1,1.099375
+BDI,"Rice (high quality, local)",2,1.1025
+BDI,"Rice (high quality, local)",3,1.1370588235294117
+BDI,"Rice (high quality, local)",4,1.0810526315789473
+BDI,"Rice (high quality, local)",5,0.9966666666666666
+BDI,"Rice (high quality, local)",6,0.896
+BDI,"Rice (high quality, local)",7,0.9583333333333334
+BDI,"Rice (high quality, local)",8,0.9869230769230769
+BDI,"Rice (high quality, local)",9,0.985
+BDI,"Rice (high quality, local)",10,0.998125
+BDI,"Rice (high quality, local)",11,1.0931428571428572
+BDI,"Rice (high quality, local)",12,1.1312903225806452
+BDI,"Rice (imported, Tanzanian)",1,1.42
+BDI,"Rice (imported, Tanzanian)",3,1.43
+BDI,"Rice (imported, Tanzanian)",4,1.42
+BDI,"Rice (imported, Tanzanian)",5,1.44
+BDI,"Rice (imported, Tanzanian)",6,1.22
+BDI,"Rice (imported, Tanzanian)",7,1.33
+BDI,"Rice (low quality, local)",1,0.9485714285714286
+BDI,"Rice (low quality, local)",2,0.9428571428571428
+BDI,"Rice (low quality, local)",3,0.9694117647058824
+BDI,"Rice (low quality, local)",4,0.9141176470588235
+BDI,"Rice (low quality, local)",5,0.83
+BDI,"Rice (low quality, local)",6,0.7466666666666667
+BDI,"Rice (low quality, local)",7,0.7935294117647059
+BDI,"Rice (low quality, local)",8,0.8307692307692308
+BDI,"Rice (low quality, local)",9,0.8329411764705883
+BDI,"Rice (low quality, local)",10,0.8656097560975611
+BDI,"Rice (low quality, local)",11,0.9455
+BDI,"Rice (low quality, local)",12,1.01125
+BDI,Sorghum,1,0.5785714285714285
+BDI,Sorghum,2,0.53
+BDI,Sorghum,3,0.48000000000000004
+BDI,Sorghum,4,0.49000000000000005
+BDI,Sorghum,5,0.47500000000000003
+BDI,Sorghum,6,0.38533333333333336
+BDI,Sorghum,7,0.426
+BDI,Sorghum,8,0.4855555555555556
+BDI,Sorghum,9,0.4518181818181818
+BDI,Sorghum,10,0.5033333333333333
+BDI,Sorghum,11,0.6102941176470589
+BDI,Sorghum,12,0.6781081081081081
+BDI,Sweet potatoes,1,0.20795238095238094
+BDI,Sweet potatoes,2,0.212
+BDI,Sweet potatoes,3,0.20205555555555554
+BDI,Sweet potatoes,4,0.1505625
+BDI,Sweet potatoes,5,0.16333333333333336
+BDI,Sweet potatoes,6,0.1336842105263158
+BDI,Sweet potatoes,7,0.16666666666666666
+BDI,Sweet potatoes,8,0.17284210526315788
+BDI,Sweet potatoes,9,0.1975
+BDI,Sweet potatoes,10,0.24433333333333335
+BDI,Sweet potatoes,11,0.27994871794871795
+BDI,Sweet potatoes,12,0.35555555555555557
+BEN,Cassava meal (gari),1,0.41555555555555557
+BEN,Cassava meal (gari),2,0.40545454545454546
+BEN,Cassava meal (gari),3,0.40923076923076923
+BEN,Cassava meal (gari),4,0.4730769230769231
+BEN,Cassava meal (gari),5,0.5066666666666667
+BEN,Cassava meal (gari),6,0.5075
+BEN,Cassava meal (gari),7,0.5276923076923077
+BEN,Cassava meal (gari),8,0.4935714285714286
+BEN,Cassava meal (gari),9,0.466
+BEN,Cassava meal (gari),10,0.5042857142857142
+BEN,Cassava meal (gari),11,0.4772222222222222
+BEN,Cassava meal (gari),12,0.61
+BEN,Maize,3,0.385
+BEN,Maize (white),1,0.2777777777777778
+BEN,Maize (white),2,0.1781818181818182
+BEN,Maize (white),3,0.29454545454545455
+BEN,Maize (white),4,0.3392857142857143
+BEN,Maize (white),5,0.31083333333333335
+BEN,Maize (white),6,0.356
+BEN,Maize (white),7,0.28900000000000003
+BEN,Maize (white),8,0.2681818181818182
+BEN,Maize (white),9,0.25857142857142856
+BEN,Maize (white),10,0.25833333333333336
+BEN,Maize (white),11,0.2507692307692308
+BEN,Rice (imported),1,0.825
+BEN,Rice (imported),2,0.8485714285714285
+BEN,Rice (imported),3,0.8285714285714285
+BEN,Rice (imported),4,0.8381818181818183
+BEN,Rice (imported),5,0.8271428571428572
+BEN,Rice (imported),6,0.8407142857142856
+BEN,Rice (imported),7,0.841
+BEN,Rice (imported),8,0.833076923076923
+BEN,Rice (imported),9,0.817
+BEN,Rice (imported),10,0.8218181818181818
+BEN,Rice (imported),11,0.8150000000000001
+BEN,Rice (imported),12,0.81
+BEN,Sorghum,1,0.417
+BEN,Sorghum,2,0.3473333333333333
+BEN,Sorghum,3,0.425
+BEN,Sorghum,4,0.39076923076923076
+BEN,Sorghum,5,0.4258333333333333
+BEN,Sorghum,6,0.4354545454545455
+BEN,Sorghum,7,0.3853846153846154
+BEN,Sorghum,8,0.395
+BEN,Sorghum,9,0.46399999999999997
+BEN,Sorghum,10,0.43249999999999994
+BEN,Sorghum,11,0.38727272727272727
+BEN,Sorghum,12,0.64
+BEN,Yam,3,0.5166666666666667
+BEN,Yam,12,0.71
+BFA,Maize (white),1,0.2372972972972973
+BFA,Maize (white),2,0.2518421052631579
+BFA,Maize (white),3,0.25810810810810814
+BFA,Maize (white),4,0.2665
+BFA,Maize (white),5,0.2777777777777778
+BFA,Maize (white),6,0.28800000000000003
+BFA,Maize (white),7,0.27153846153846156
+BFA,Maize (white),8,0.2732352941176471
+BFA,Maize (white),9,0.2723684210526316
+BFA,Maize (white),10,0.2545945945945946
+BFA,Maize (white),11,0.2303125
+BFA,Maize (white),12,0.22968750000000002
+BFA,Millet,1,0.2905714285714286
+BFA,Millet,2,0.29541666666666666
+BFA,Millet,3,0.30527777777777776
+BFA,Millet,4,0.31813953488372093
+BFA,Millet,5,0.3286046511627907
+BFA,Millet,6,0.325
+BFA,Millet,7,0.3191891891891892
+BFA,Millet,8,0.3202439024390244
+BFA,Millet,9,0.3264705882352941
+BFA,Millet,10,0.3044117647058823
+BFA,Millet,11,0.30583333333333335
+BFA,Millet,12,0.29274999999999995
+BFA,Rice (imported),1,0.63875
+BFA,Rice (imported),2,0.6466666666666667
+BFA,Rice (imported),3,0.664
+BFA,Rice (imported),4,0.66875
+BFA,Rice (imported),5,0.6544444444444444
+BFA,Rice (imported),6,0.6711111111111111
+BFA,Rice (imported),7,0.622
+BFA,Rice (imported),8,0.6833333333333332
+BFA,Rice (imported),9,0.6444444444444444
+BFA,Rice (imported),10,0.639
+BFA,Rice (imported),11,0.6245454545454545
+BFA,Rice (imported),12,0.5955555555555556
+BFA,Rice (local),1,0.47800000000000004
+BFA,Rice (local),2,0.49352941176470594
+BFA,Rice (local),3,0.48875
+BFA,Rice (local),4,0.49222222222222217
+BFA,Rice (local),5,0.5235294117647059
+BFA,Rice (local),6,0.5153333333333333
+BFA,Rice (local),7,0.5155555555555555
+BFA,Rice (local),8,0.518125
+BFA,Rice (local),9,0.5323076923076923
+BFA,Rice (local),10,0.5038888888888889
+BFA,Rice (local),11,0.49105263157894735
+BFA,Rice (local),12,0.4785714285714286
+BFA,Sorghum (white),1,0.24085714285714285
+BFA,Sorghum (white),2,0.25057142857142856
+BFA,Sorghum (white),3,0.262
+BFA,Sorghum (white),4,0.27903225806451615
+BFA,Sorghum (white),5,0.2774358974358974
+BFA,Sorghum (white),6,0.2837142857142857
+BFA,Sorghum (white),7,0.27153846153846156
+BFA,Sorghum (white),8,0.2818918918918919
+BFA,Sorghum (white),9,0.2833333333333333
+BFA,Sorghum (white),10,0.25894736842105265
+BFA,Sorghum (white),11,0.24472222222222223
+BFA,Sorghum (white),12,0.23444444444444443
+BGD,Rice (coarse),1,0.33999999999999997
+BGD,Rice (coarse),2,0.35000000000000003
+BGD,Rice (coarse),3,0.3433333333333333
+BGD,Rice (coarse),4,0.324
+BGD,Rice (coarse),5,0.3133333333333333
+BGD,Rice (coarse),6,0.328
+BGD,Rice (coarse),7,0.35
+BGD,Rice (coarse),8,0.378
+BGD,Rice (coarse),9,0.41
+BGD,Rice (coarse),10,0.445
+BGD,Rice (coarse),11,0.45
+BGD,Rice (coarse),12,0.4366666666666667
+BGD,"Rice (coarse, BR-8/ 11/, Guti Sharna)",2,0.37
+BGD,"Rice (coarse, BR-8/ 11/, Guti Sharna)",3,0.36
+BGD,"Rice (coarse, BR-8/ 11/, Guti Sharna)",4,0.34
+BGD,"Rice (coarse, BR-8/ 11/, Guti Sharna)",6,0.36
+BGD,"Rice (coarse, BR-8/ 11/, Guti Sharna)",8,0.43
+BGD,"Rice (coarse, BR-8/ 11/, Guti Sharna)",10,0.5
+BGD,"Rice (coarse, BR-8/ 11/, Guti Sharna)",11,0.49
+BGD,"Rice (coarse, Guti Sharna)",1,0.38
+BGD,"Rice (coarse, Guti Sharna)",2,0.37
+BGD,"Rice (coarse, Guti Sharna)",3,0.36
+BGD,"Rice (coarse, Guti Sharna)",5,0.34
+BGD,"Rice (coarse, Guti Sharna)",6,0.36
+BGD,"Rice (coarse, Guti Sharna)",7,0.4
+BGD,"Rice (coarse, Guti Sharna)",9,0.46
+BGD,"Rice (coarse, Guti Sharna)",10,0.5
+BGD,"Rice (coarse, Guti Sharna)",11,0.49
+BGD,"Rice (coarse, Guti Sharna)",12,0.46
+BGD,Rice (medium grain),1,0.45
+BGD,Rice (medium grain),2,0.46
+BGD,Rice (medium grain),3,0.44
+BGD,Rice (medium grain),4,0.45
+BGD,Rice (medium grain),5,0.43
+BGD,Rice (medium grain),6,0.44
+BGD,Rice (medium grain),9,0.5
+BGD,Rice (medium grain),10,0.52
+BGD,Rice (medium grain),11,0.51
+BGD,Rice (medium grain),12,0.5
+BGD,Wheat,2,0.39
+BGD,Wheat,3,0.35
+BGD,Wheat,4,0.34
+BGD,Wheat,5,0.36
+BGD,Wheat,6,0.37
+BGD,Wheat,7,0.36
+BGD,Wheat,8,0.37
+BGD,Wheat,9,0.38
+BGD,Wheat,10,0.39
+BGD,Wheat,11,0.38
+BGD,Wheat,12,0.38
+BGD,Wheat flour,1,0.422
+BGD,Wheat flour,2,0.39999999999999997
+BGD,Wheat flour,3,0.395
+BGD,Wheat flour,4,0.3875
+BGD,Wheat flour,5,0.386
+BGD,Wheat flour,6,0.386
+BGD,Wheat flour,7,0.378
+BGD,Wheat flour,8,0.382
+BGD,Wheat flour,9,0.3666666666666667
+BGD,Wheat flour,10,0.3825
+BGD,Wheat flour,11,0.38666666666666666
+BGD,Wheat flour,12,0.385
+BLR,Bread (high grade flour),1,1.16
+BLR,Bread (high grade flour),2,1.03
+BLR,Bread (high grade flour),3,1.09
+BLR,Bread (high grade flour),4,1.16
+BLR,Bread (high grade flour),5,1.18
+BLR,Bread (high grade flour),6,1.05
+BLR,Bread (high grade flour),7,1.16
+BLR,Bread (high grade flour),8,1.24
+BLR,Bread (high grade flour),9,1.24
+BLR,Bread (high grade flour),10,1.23
+BLR,Bread (high grade flour),11,1.22
+BLR,Bread (high grade flour),12,1.19
+BLR,Potatoes,1,0.3
+BLR,Potatoes,2,0.28
+BLR,Potatoes,3,0.28
+BLR,Potatoes,4,0.25
+BLR,Potatoes,5,0.25
+BLR,Potatoes,6,0.32
+BLR,Potatoes,7,0.36
+BLR,Potatoes,8,0.27
+BLR,Potatoes,9,0.21
+BLR,Potatoes,10,0.21
+BLR,Potatoes,11,0.22
+BLR,Potatoes,12,0.24
+BLR,Wheat flour,1,0.47
+BLR,Wheat flour,2,0.43
+BLR,Wheat flour,3,0.45
+BLR,Wheat flour,4,0.46
+BLR,Wheat flour,5,0.47
+BLR,Wheat flour,6,0.47
+BLR,Wheat flour,7,0.48
+BLR,Wheat flour,8,0.51
+BLR,Wheat flour,9,0.5
+BLR,Wheat flour,10,0.52
+BLR,Wheat flour,11,0.52
+BLR,Wheat flour,12,0.5
+BOL,Noodles (short),1,1.3175
+BOL,Noodles (short),2,1.4460000000000002
+BOL,Noodles (short),3,1.5139999999999998
+BOL,Noodles (short),4,1.335
+BOL,Noodles (short),5,1.506
+BOL,Noodles (short),6,1.52
+BOL,Noodles (short),7,1.3119999999999998
+BOL,Noodles (short),8,1.4933333333333334
+BOL,Noodles (short),9,1.43
+BOL,Noodles (short),10,1.484
+BOL,Noodles (short),12,1.36
+BOL,"Potatoes (Irish, imilla)",1,0.835
+BOL,"Potatoes (Irish, imilla)",2,0.8433333333333334
+BOL,"Potatoes (Irish, imilla)",3,0.8433333333333333
+BOL,"Potatoes (Irish, imilla)",4,1.12
+BOL,"Potatoes (Irish, imilla)",5,0.8266666666666667
+BOL,"Potatoes (Irish, imilla)",6,0.96
+BOL,"Potatoes (Irish, imilla)",7,0.68
+BOL,"Potatoes (Irish, imilla)",8,1.08
+BOL,"Potatoes (Irish, imilla)",9,0.89
+BOL,"Potatoes (Irish, imilla)",10,0.88
+BOL,"Potatoes (Irish, imilla)",11,0.87
+BOL,"Potatoes (Irish, imilla)",12,0.91
+BOL,Rice (Grano de Oro),1,1.31
+BOL,Rice (Grano de Oro),2,1.32
+BOL,Rice (Grano de Oro),3,1.2825
+BOL,Rice (Grano de Oro),4,1.2650000000000001
+BOL,Rice (Grano de Oro),5,1.27
+BOL,Rice (Grano de Oro),6,1.3250000000000002
+BOL,Rice (Grano de Oro),7,1.2775
+BOL,Rice (Grano de Oro),8,1.3
+BOL,Rice (Grano de Oro),9,1.2433333333333334
+BOL,Rice (Grano de Oro),10,1.21
+BOL,Rice (Grano de Oro),11,1.3033333333333335
+BOL,Rice (Grano de Oro),12,1.3050000000000002
+BOL,Rice (carolina 2da),1,0.88
+BOL,Rice (carolina 2da),3,0.88
+BOL,Rice (carolina 2da),4,0.87
+BOL,Rice (carolina 2da),5,0.87
+BOL,Rice (carolina 2da),6,0.89
+BOL,Rice (carolina 2da),7,0.88
+BOL,Rice (carolina 2da),8,0.87
+BOL,Rice (carolina 2da),10,0.87
+BOL,Rice (carolina 2da),11,0.87
+BOL,"Rice (carolina, 1st)",1,1.04
+BOL,"Rice (carolina, 1st)",2,1.04
+BOL,"Rice (carolina, 1st)",4,1.04
+BOL,"Rice (carolina, 1st)",6,1.05
+BOL,"Rice (carolina, 1st)",7,1.05
+BOL,"Rice (carolina, 1st)",8,1.05
+BOL,"Rice (carolina, 1st)",10,1.05
+BOL,Rice (estaquilla),1,1.12
+BOL,Rice (estaquilla),2,1.1433333333333333
+BOL,Rice (estaquilla),4,1.1333333333333335
+BOL,Rice (estaquilla),5,1.2
+BOL,Rice (estaquilla),6,1.14
+BOL,Rice (estaquilla),7,1.21
+BOL,Rice (estaquilla),8,1.09
+BOL,Rice (estaquilla),9,1.145
+BOL,Rice (estaquilla),10,1.135
+BOL,Rice (estaquilla),11,1.08
+BOL,Rice (estaquilla),12,1.1066666666666667
+BOL,Rice (good quality),2,1.35
+BOL,Rice (good quality),4,1.31
+BOL,Rice (good quality),5,1.32
+BOL,Rice (good quality),7,1.35
+BOL,Rice (good quality),8,1.34
+BOL,Rice (good quality),10,1.35
+BOL,Rice (good quality),12,1.35
+BOL,Rice (long grain),2,1.04
+BOL,Rice (long grain),3,1.025
+BOL,Rice (long grain),4,1.1
+BOL,Rice (long grain),5,1.11
+BOL,Rice (long grain),6,1.045
+BOL,Rice (long grain),7,1.06
+BOL,Rice (long grain),8,0.945
+BOL,Rice (long grain),9,1.02
+BOL,Rice (long grain),10,0.95
+BOL,Rice (long grain),11,0.935
+BOL,Rice (long grain),12,1.0366666666666666
+BOL,Rice (medium grain),1,0.74
+BOL,Rice (medium grain),2,0.75
+BOL,Rice (medium grain),3,0.76
+BOL,Rice (medium grain),4,0.75
+BOL,Rice (medium grain),5,0.76
+BOL,Rice (medium grain),6,0.77
+BOL,Rice (medium grain),7,0.81
+BOL,Rice (medium grain),8,0.89
+BOL,Rice (medium grain),9,1.06
+BOL,Rice (medium grain),12,1.08
+BOL,Rice (white),3,1.0
+BOL,Rice (white),5,0.99
+BOL,Rice (white),8,0.96
+BOL,Rice (white),10,0.98
+BOL,Wheat flour,1,0.7928571428571428
+BOL,Wheat flour,2,0.7957142857142857
+BOL,Wheat flour,3,0.79
+BOL,Wheat flour,4,0.7525
+BOL,Wheat flour,5,0.7742857142857142
+BOL,Wheat flour,6,0.815
+BOL,Wheat flour,7,0.8275
+BOL,Wheat flour,8,0.8275
+BOL,Wheat flour,9,0.8216666666666667
+BOL,Wheat flour,10,0.8119999999999999
+BOL,Wheat flour,11,0.7842857142857144
+BOL,Wheat flour,12,0.7999999999999999
+BTN,Rice (local),3,41.06
+BTN,Rice (local),5,55.87
+BTN,Rice (red),3,38.27
+BTN,Rice (red),7,37.71
+BTN,Rice (red),8,36.31
+BTN,Rice (red),10,51.33
+BTN,Rice (red),12,37.91
+BTN,Wheat flour,3,26.54
+BTN,Wheat flour,4,25.14
+BTN,Wheat flour,5,27.93
+BTN,Wheat flour,6,25.14
+BTN,Wheat flour,7,29.33
+BTN,Wheat flour,8,27.23
+BTN,Wheat flour,9,27.93
+BTN,Wheat flour,10,29.33
+BTN,Wheat flour,11,29.33
+CAF,Cassava,1,0.36
+CAF,Cassava,2,0.37
+CAF,Cassava,4,0.36
+CAF,Cassava,7,0.35
+CAF,Cassava,9,0.43
+CAF,Cassava,11,0.39
+CAF,Cassava,12,0.37
+CAF,Cassava (cossette),9,0.242
+CAF,Cassava (cossette),11,0.21383333333333332
+CAF,Cassava (cossette),12,0.23333333333333334
+CAF,Maize,1,0.56
+CAF,Maize,2,0.68
+CAF,Maize,3,0.68
+CAF,Maize,5,0.62
+CAF,Maize,8,0.6
+CAF,Maize,9,0.3466666666666667
+CAF,Maize,10,0.67
+CAF,Maize,11,0.205
+CAF,Maize,12,0.305
+CAF,Millet,1,0.75
+CAF,Millet,3,0.6
+CAF,Millet,4,0.61
+CAF,Millet,7,0.6
+CAF,Millet,8,0.61
+CAF,Millet,9,0.4033333333333333
+CAF,Millet,11,0.3333333333333333
+CAF,Millet,12,0.44499999999999995
+CAF,Rice,9,1.0859999999999999
+CAF,Rice,11,1.25
+CAF,Rice,12,0.6585714285714286
+CAF,Wheat flour,1,1.28
+CAF,Wheat flour,2,1.18
+CAF,Wheat flour,4,1.23
+CAF,Wheat flour,5,1.25
+CAF,Wheat flour,8,1.47
+CAF,Wheat flour,11,1.16
+CAF,Wheat flour,12,1.09
+CHN,Maize,1,0.26666666666666666
+CHN,Maize,2,0.26333333333333336
+CHN,Maize,3,0.26333333333333336
+CHN,Maize,4,0.25333333333333335
+CHN,Maize,5,0.25
+CHN,Maize,6,0.26
+CHN,Maize,7,0.26
+CHN,Maize,8,0.26
+CHN,Maize,9,0.235
+CHN,Maize,10,0.22499999999999998
+CHN,Maize,11,0.22999999999999998
+CHN,Maize,12,0.21500000000000002
+CHN,Rice (Indica),1,0.6
+CHN,Rice (Indica),2,0.62
+CHN,Rice (Indica),3,0.62
+CHN,Rice (Indica),4,0.6133333333333333
+CHN,Rice (Indica),5,0.61
+CHN,Rice (Indica),6,0.605
+CHN,Rice (Indica),7,0.6
+CHN,Rice (Indica),8,0.6033333333333334
+CHN,Rice (Indica),9,0.605
+CHN,Rice (Indica),10,0.6
+CHN,Rice (Indica),11,0.605
+CHN,Rice (Indica),12,0.5833333333333334
+CHN,Rice (Japonica),1,0.6925
+CHN,Rice (Japonica),2,0.7025
+CHN,Rice (Japonica),3,0.7025
+CHN,Rice (Japonica),4,0.705
+CHN,Rice (Japonica),5,0.7
+CHN,Rice (Japonica),6,0.6950000000000001
+CHN,Rice (Japonica),7,0.6825
+CHN,Rice (Japonica),8,0.69
+CHN,Rice (Japonica),9,0.69
+CHN,Rice (Japonica),10,0.675
+CHN,Rice (Japonica),11,0.6625
+CHN,Rice (Japonica),12,0.68
+CHN,Wheat,1,0.36000000000000004
+CHN,Wheat,2,0.3666666666666667
+CHN,Wheat,3,0.3666666666666667
+CHN,Wheat,4,0.37333333333333335
+CHN,Wheat,5,0.37666666666666665
+CHN,Wheat,6,0.35000000000000003
+CHN,Wheat,7,0.35
+CHN,Wheat,8,0.35000000000000003
+CHN,Wheat,9,0.355
+CHN,Wheat,10,0.3566666666666667
+CHN,Wheat,11,0.35
+CHN,Wheat,12,0.3566666666666667
+CHN,Wheat flour (first grade),1,0.5
+CHN,Wheat flour (first grade),2,0.51
+CHN,Wheat flour (first grade),3,0.51
+CHN,Wheat flour (first grade),4,0.485
+CHN,Wheat flour (first grade),5,0.51
+CHN,Wheat flour (first grade),7,0.4766666666666666
+CHN,Wheat flour (first grade),8,0.475
+CHN,Wheat flour (first grade),9,0.49
+CHN,Wheat flour (first grade),10,0.5
+CHN,Wheat flour (first grade),11,0.47
+CHN,Wheat flour (first grade),12,0.48666666666666664
+CIV,Cassava (fresh),1,0.2475
+CIV,Cassava (fresh),2,0.33999999999999997
+CIV,Cassava (fresh),3,0.19999999999999998
+CIV,Cassava (fresh),4,0.3033333333333333
+CIV,Cassava (fresh),5,0.21
+CIV,Cassava (fresh),6,0.21
+CIV,Cassava (fresh),7,0.27666666666666667
+CIV,Cassava (fresh),8,0.38
+CIV,Cassava (fresh),9,0.47
+CIV,Cassava (fresh),10,0.36
+CIV,Cassava (fresh),11,0.38
+CIV,Cassava (fresh),12,0.14
+CIV,Cassava meal (attieke),1,0.79
+CIV,Cassava meal (attieke),2,0.82
+CIV,Cassava meal (attieke),3,1.12
+CIV,Cassava meal (attieke),6,1.06
+CIV,Cassava meal (attieke),7,1.07
+CIV,Cassava meal (attieke),8,0.89
+CIV,Cassava meal (attieke),11,0.79
+CIV,Cassava meal (attieke),12,0.69
+CIV,Cornstarch,1,0.66
+CIV,Cornstarch,2,1.14
+CIV,Cornstarch,3,0.97
+CIV,Cornstarch,5,0.7033333333333333
+CIV,Cornstarch,6,0.7
+CIV,Cornstarch,7,0.6833333333333332
+CIV,Cornstarch,12,0.535
+CIV,Maize,1,0.52
+CIV,Maize,2,0.53
+CIV,Maize,3,0.53
+CIV,Maize,4,0.59
+CIV,Maize,5,0.6033333333333334
+CIV,Maize,6,0.6
+CIV,Maize,7,0.61
+CIV,Maize,12,0.22999999999999998
+CIV,"Rice (denikassia, imported)",1,0.6133333333333333
+CIV,"Rice (denikassia, imported)",2,0.6333333333333333
+CIV,"Rice (denikassia, imported)",4,0.62
+CIV,"Rice (denikassia, imported)",5,0.6366666666666667
+CIV,"Rice (denikassia, imported)",6,0.635
+CIV,"Rice (denikassia, imported)",7,0.6166666666666667
+CIV,"Rice (denikassia, imported)",12,0.61
+CIV,Rice (imported),2,0.61
+CIV,Rice (imported),3,0.63
+CIV,Rice (imported),4,0.62
+CIV,Rice (imported),6,0.64
+CIV,Rice (imported),8,0.63
+CIV,Rice (imported),9,0.64
+CIV,Rice (imported),10,0.63
+CIV,Rice (imported),12,0.59
+CIV,Rice (local),1,0.71
+CIV,Rice (local),2,0.6933333333333334
+CIV,Rice (local),3,0.7649999999999999
+CIV,Rice (local),4,0.7466666666666667
+CIV,Rice (local),5,0.7566666666666667
+CIV,Rice (local),6,0.69
+CIV,Rice (local),7,0.6633333333333333
+CIV,Rice (local),8,0.8
+CIV,Rice (local),11,0.82
+CIV,Rice (local),12,0.6175
+CIV,Yam,3,1.04
+CIV,Yam,4,1.2
+CIV,Yam,5,1.32
+CIV,Yam,6,0.96
+CIV,Yam,7,1.52
+CIV,Yam,8,1.33
+CIV,Yam,9,1.29
+CIV,Yam,10,1.22
+CIV,Yam,11,0.83
+CIV,Yam,12,0.99
+CIV,Yam (florido),12,0.33499999999999996
+CMR,Maize (white),1,0.35
+CMR,Maize (white),2,0.28
+CMR,Maize (white),3,0.5133333333333333
+CMR,Maize (white),4,0.45499999999999996
+CMR,Maize (white),5,0.48
+CMR,Maize (white),6,0.445
+CMR,Maize (white),7,0.4275
+CMR,Maize (white),8,0.48
+CMR,Maize (white),9,0.42000000000000004
+CMR,Maize (white),10,0.41500000000000004
+CMR,Maize (white),11,0.3566666666666667
+CMR,Maize (white),12,0.435
+CMR,Maize (yellow),1,0.47250000000000003
+CMR,Maize (yellow),2,0.455
+CMR,Maize (yellow),3,0.52
+CMR,Maize (yellow),4,0.45199999999999996
+CMR,Maize (yellow),5,0.54
+CMR,Maize (yellow),6,0.5125
+CMR,Maize (yellow),7,0.454
+CMR,Maize (yellow),8,0.43
+CMR,Maize (yellow),9,0.48000000000000004
+CMR,Maize (yellow),10,0.37
+CMR,Maize (yellow),11,0.44333333333333336
+CMR,Maize (yellow),12,0.385
+CMR,"Rice (long grain, imported)",1,0.5933333333333333
+CMR,"Rice (long grain, imported)",2,0.6
+CMR,"Rice (long grain, imported)",3,0.59
+CMR,"Rice (long grain, imported)",4,0.6
+CMR,"Rice (long grain, imported)",5,0.59
+CMR,"Rice (long grain, imported)",6,0.5666666666666668
+CMR,"Rice (long grain, imported)",7,0.5633333333333334
+CMR,"Rice (long grain, imported)",8,0.6
+CMR,"Rice (long grain, imported)",9,0.6
+CMR,"Rice (long grain, imported)",10,0.59
+CMR,"Rice (long grain, imported)",11,0.61
+CMR,"Rice (long grain, imported)",12,0.576
+CMR,Wheat flour,1,0.58
+CMR,Wheat flour,2,0.6
+CMR,Wheat flour,3,0.59
+CMR,Wheat flour,4,0.6
+CMR,Wheat flour,5,0.6
+CMR,Wheat flour,6,0.6
+CMR,Wheat flour,7,0.59
+CMR,Wheat flour,8,0.6
+CMR,Wheat flour,9,0.6
+CMR,Wheat flour,10,0.59
+CMR,Wheat flour,11,0.57
+CMR,Wheat flour,12,0.56
+COD,Cassava (chikwangue),1,0.565
+COD,Cassava (chikwangue),2,0.6766666666666667
+COD,Cassava (chikwangue),3,0.5800000000000001
+COD,Cassava (chikwangue),4,0.642
+COD,Cassava (chikwangue),5,0.63
+COD,Cassava (chikwangue),6,0.662
+COD,Cassava (chikwangue),7,0.6
+COD,Cassava (chikwangue),8,0.595
+COD,Cassava (chikwangue),10,0.5866666666666667
+COD,Cassava (cossette),1,0.48142857142857143
+COD,Cassava (cossette),2,0.4828571428571428
+COD,Cassava (cossette),3,0.465
+COD,Cassava (cossette),4,0.455
+COD,Cassava (cossette),5,0.5800000000000001
+COD,Cassava (cossette),6,0.49833333333333335
+COD,Cassava (cossette),7,0.505
+COD,Cassava (cossette),8,0.5966666666666667
+COD,Cassava (cossette),9,0.3466666666666667
+COD,Cassava (cossette),10,0.4675
+COD,Cassava (cossette),11,0.34
+COD,Cassava (cossette),12,0.38000000000000006
+COD,Cassava flour,1,0.625
+COD,Cassava flour,2,0.5940000000000001
+COD,Cassava flour,3,0.4816666666666667
+COD,Cassava flour,4,0.5983333333333333
+COD,Cassava flour,5,0.5700000000000001
+COD,Cassava flour,6,0.5425
+COD,Cassava flour,7,0.5487500000000001
+COD,Cassava flour,8,0.57
+COD,Cassava flour,9,0.502
+COD,Cassava flour,10,0.5166666666666667
+COD,Cassava flour,11,0.54
+COD,Cassava flour,12,0.485
+COD,Maize,1,0.532
+COD,Maize,2,0.61
+COD,Maize,3,0.4275
+COD,Maize,4,0.3933333333333333
+COD,Maize,5,0.48
+COD,Maize,6,0.5075000000000001
+COD,Maize,7,0.43600000000000005
+COD,Maize,8,0.455
+COD,Maize,9,0.38
+COD,Maize,10,0.47000000000000003
+COD,Maize,11,0.42000000000000004
+COD,Maize,12,0.3
+COD,Maize flour,1,0.63
+COD,Maize flour,2,0.57
+COD,Maize flour,3,0.57
+COD,Maize flour,5,0.63
+COD,Maize flour,6,0.5575
+COD,Maize flour,7,0.55
+COD,Maize flour,8,0.595
+COD,Maize flour,9,0.7633333333333333
+COD,Maize flour,10,0.7575000000000001
+COD,Maize flour,12,0.645
+COD,Maize meal,1,0.7271428571428571
+COD,Maize meal,2,0.7000000000000001
+COD,Maize meal,4,0.666
+COD,Maize meal,5,0.6033333333333334
+COD,Maize meal,6,0.738
+COD,Maize meal,7,0.655
+COD,Maize meal,8,0.5583333333333333
+COD,Maize meal,9,0.57
+COD,Maize meal,10,0.6616666666666667
+COD,Maize meal,11,0.52
+COD,Maize meal,12,0.624
+COD,Potatoes,1,0.18
+COD,Potatoes,2,0.18
+COD,Rice (imported),1,1.355
+COD,Rice (imported),2,1.2466666666666668
+COD,Rice (imported),3,1.07
+COD,Rice (imported),4,1.192
+COD,Rice (imported),5,1.09
+COD,Rice (imported),6,1.098
+COD,Rice (imported),7,0.9860000000000001
+COD,Rice (imported),8,1.0766666666666667
+COD,Rice (imported),9,1.1440000000000001
+COD,Rice (imported),10,1.0633333333333332
+COD,Rice (imported),11,1.115
+COD,Rice (imported),12,0.9325
+COD,Rice (local),1,0.98
+COD,Rice (local),2,0.8225
+COD,Rice (local),3,0.7633333333333333
+COD,Rice (local),4,0.8925000000000001
+COD,Rice (local),5,0.7925
+COD,Rice (local),6,1.0
+COD,Rice (local),7,0.9175
+COD,Rice (local),8,0.7725
+COD,Rice (local),9,1.04
+COD,Rice (local),10,0.7875
+COD,Rice (local),11,0.9366666666666666
+COD,Rice (local),12,0.85
+COD,Sweet potatoes,3,0.22
+COD,Sweet potatoes,4,0.18
+COD,Sweet potatoes,8,0.4
+COD,Sweet potatoes,10,0.4
+COD,Sweet potatoes,12,0.33
+COD,Wheat flour,1,1.3966666666666665
+COD,Wheat flour,2,1.1600000000000001
+COD,Wheat flour,3,1.1225
+COD,Wheat flour,4,1.1900000000000002
+COD,Wheat flour,5,1.24
+COD,Wheat flour,6,1.1275
+COD,Wheat flour,7,1.0933333333333335
+COD,Wheat flour,8,1.1025
+COD,Wheat flour,10,1.1925
+COD,Wheat flour,11,1.22
+COD,Wheat flour,12,1.02
+COG,Bread,1,1.9966666666666668
+COG,Bread,2,1.475
+COG,Bread,3,1.72
+COG,Bread,4,1.6066666666666667
+COG,Bread,5,1.7666666666666666
+COG,Bread,6,2.0575
+COG,Bread,7,1.5533333333333335
+COG,Bread,8,1.63
+COG,Bread,9,2.0033333333333334
+COG,Bread,10,1.9666666666666666
+COG,Bread,11,1.61
+COG,Bread,12,1.582
+COG,Cassava (fresh),1,0.685
+COG,Cassava (fresh),2,0.7633333333333333
+COG,Cassava (fresh),3,0.6950000000000001
+COG,Cassava (fresh),4,1.0266666666666666
+COG,Cassava (fresh),5,0.6519999999999999
+COG,Cassava (fresh),6,0.6466666666666666
+COG,Cassava (fresh),7,0.67
+COG,Cassava (fresh),8,0.626
+COG,Cassava (fresh),9,0.505
+COG,Cassava (fresh),10,0.6575
+COG,Cassava (fresh),11,0.725
+COG,Cassava (fresh),12,0.7083333333333334
+COG,Cassava flour,1,1.2833333333333332
+COG,Cassava flour,2,1.4066666666666665
+COG,Cassava flour,3,1.052
+COG,Cassava flour,4,0.8833333333333333
+COG,Cassava flour,5,1.3642857142857143
+COG,Cassava flour,6,1.488
+COG,Cassava flour,7,0.9075
+COG,Cassava flour,8,0.435
+COG,Cassava flour,9,0.7525000000000001
+COG,Cassava flour,10,0.6866666666666666
+COG,Cassava flour,11,0.73
+COG,Cassava flour,12,0.8320000000000001
+COG,"Rice (mixed, low quality)",1,0.885
+COG,"Rice (mixed, low quality)",2,0.9199999999999999
+COG,"Rice (mixed, low quality)",3,1.01
+COG,"Rice (mixed, low quality)",4,0.9099999999999999
+COG,"Rice (mixed, low quality)",5,0.992
+COG,"Rice (mixed, low quality)",6,1.018
+COG,"Rice (mixed, low quality)",7,0.9375
+COG,"Rice (mixed, low quality)",8,1.0766666666666667
+COG,"Rice (mixed, low quality)",9,0.9466666666666667
+COG,"Rice (mixed, low quality)",10,0.9199999999999999
+COG,"Rice (mixed, low quality)",12,1.17
+COG,Wheat flour,3,0.98
+COG,Wheat flour,5,0.86
+COG,Wheat flour,6,0.94
+COG,Wheat flour,7,0.84
+COG,Wheat flour,10,0.84
+COG,Wheat flour,12,0.97
+COL,Cassava (dry),1,0.39
+COL,Cassava (dry),2,0.32
+COL,Cassava (dry),3,0.4666666666666666
+COL,Cassava (dry),4,0.41333333333333333
+COL,Cassava (dry),5,0.4266666666666667
+COL,Cassava (dry),6,0.38
+COL,Cassava (dry),7,0.52
+COL,Cassava (dry),8,0.41000000000000003
+COL,Cassava (dry),9,0.48
+COL,Cassava (dry),10,0.4166666666666667
+COL,Cassava (dry),11,0.3866666666666667
+COL,Cassava (dry),12,0.4566666666666667
+COL,Maize (white),1,0.58
+COL,Maize (white),2,0.56
+COL,Maize (white),3,0.6
+COL,Maize (white),4,0.51
+COL,Maize (white),5,0.4
+COL,Maize (white),7,0.65
+COL,Maize (white),8,0.55
+COL,Maize (white),9,0.65
+COL,Maize (white),12,0.52
+COL,Maize (yellow),1,0.38000000000000006
+COL,Maize (yellow),2,0.3433333333333333
+COL,Maize (yellow),3,0.35333333333333333
+COL,Maize (yellow),4,0.4
+COL,Maize (yellow),5,0.395
+COL,Maize (yellow),6,0.37
+COL,Maize (yellow),7,0.38
+COL,Maize (yellow),8,0.45
+COL,Maize (yellow),9,0.42
+COL,Maize (yellow),10,0.365
+COL,Maize (yellow),11,0.39
+COL,Maize (yellow),12,0.355
+COL,Maize flour,1,0.61
+COL,Maize flour,2,0.59
+COL,Maize flour,3,0.63
+COL,Maize flour,4,0.67
+COL,Maize flour,5,0.66
+COL,Maize flour,6,0.67
+COL,Maize flour,8,0.68
+COL,Maize flour,11,0.64
+COL,Maize flour,12,0.67
+COL,Potatoes,1,0.52
+COL,Potatoes,2,0.42000000000000004
+COL,Potatoes,3,0.475
+COL,Potatoes,4,0.505
+COL,Potatoes,5,0.6
+COL,Potatoes,6,0.585
+COL,Potatoes,7,0.48
+COL,Potatoes,9,0.22999999999999998
+COL,Potatoes,10,0.21
+COL,Potatoes,11,0.21
+COL,Potatoes,12,0.25
+COL,Rice (high quality),1,0.8975
+COL,Rice (high quality),2,0.9550000000000001
+COL,Rice (high quality),3,1.01
+COL,Rice (high quality),4,1.05
+COL,Rice (high quality),5,0.99
+COL,Rice (high quality),6,0.9833333333333334
+COL,Rice (high quality),7,1.0
+COL,Rice (high quality),8,0.985
+COL,Rice (high quality),9,0.9375
+COL,Rice (high quality),10,0.8899999999999999
+COL,Rice (high quality),11,0.85
+COL,Rice (high quality),12,0.9
+COL,"Rice (ordinary, second quality)",1,0.835
+COL,"Rice (ordinary, second quality)",2,0.87
+COL,"Rice (ordinary, second quality)",3,0.94
+COL,"Rice (ordinary, second quality)",5,0.94
+COL,"Rice (ordinary, second quality)",6,0.9099999999999999
+COL,"Rice (ordinary, second quality)",8,0.88
+COL,"Rice (ordinary, second quality)",9,0.83
+COL,"Rice (ordinary, second quality)",10,0.79
+COL,"Rice (ordinary, second quality)",11,0.73
+COL,"Rice (ordinary, second quality)",12,0.74
+COL,Wheat flour,1,0.47
+COL,Wheat flour,2,0.44
+COL,Wheat flour,3,0.49
+COL,Wheat flour,4,0.48
+COL,Wheat flour,5,0.48
+COL,Wheat flour,6,0.48
+COL,Wheat flour,7,0.5066666666666667
+COL,Wheat flour,9,0.51
+COL,Wheat flour,10,0.49333333333333335
+COL,Wheat flour,11,0.48
+COL,Wheat flour,12,0.48666666666666664
+CPV,Cassava,6,1.305
+CPV,Cassava,8,1.2799999999999998
+CPV,Cassava,9,1.325
+CPV,Cassava,10,1.37
+CPV,Cassava,11,1.39
+CPV,Cassava,12,1.37
+CPV,Maize (local),1,1.25
+CPV,Maize (local),3,1.1400000000000001
+CPV,Maize (local),6,1.1800000000000002
+CPV,Maize (local),7,1.02
+CPV,Maize (local),8,1.01
+CPV,Maize (local),9,1.03
+CPV,Maize (local),10,1.13
+CPV,Maize (local),11,1.34
+CPV,Maize (local),12,1.13
+CPV,Maize (yellow),1,0.5
+CPV,Maize (yellow),2,0.52
+CPV,Maize (yellow),3,0.51
+CPV,Maize (yellow),5,0.6
+CPV,Maize (yellow),6,0.51
+CPV,Maize (yellow),7,0.51
+CPV,Maize (yellow),8,0.505
+CPV,Maize (yellow),9,0.52
+CPV,Maize (yellow),10,0.5
+CPV,Maize (yellow),11,0.49
+CPV,Maize (yellow),12,0.48000000000000004
+CPV,Rice (long grain),1,0.845
+CPV,Rice (long grain),2,0.91
+CPV,Rice (long grain),3,0.8600000000000001
+CPV,Rice (long grain),5,0.865
+CPV,Rice (long grain),8,0.88
+CPV,Rice (long grain),9,0.9
+CPV,Rice (long grain),10,0.815
+CPV,Rice (long grain),11,0.81
+CPV,Rice (long grain),12,0.73
+CPV,Rice (medium grain),1,0.9550000000000001
+CPV,Rice (medium grain),2,0.97
+CPV,Rice (medium grain),3,0.97
+CPV,Rice (medium grain),5,0.995
+CPV,Rice (medium grain),6,0.9750000000000001
+CPV,Rice (medium grain),7,0.97
+CPV,Rice (medium grain),8,0.92
+CPV,Rice (medium grain),9,0.94
+CPV,Rice (medium grain),10,0.95
+CPV,Rice (medium grain),11,0.9299999999999999
+CPV,Rice (medium grain),12,0.89
+CPV,Wheat flour,2,0.66
+CPV,Wheat flour,3,0.61
+CPV,Wheat flour,6,0.61
+CPV,Wheat flour,7,0.65
+CPV,Wheat flour,8,0.66
+CPV,Wheat flour,9,0.61
+CPV,Wheat flour,10,0.67
+CPV,Wheat flour,12,0.63
+DJI,Millet,1,0.9
+DJI,Millet,2,0.9
+DJI,Millet,3,0.79
+DJI,Millet,5,0.9
+DJI,Millet,6,0.91
+DJI,Millet,7,0.7666666666666666
+DJI,Millet,8,0.7966666666666667
+DJI,Millet,9,0.7366666666666667
+DJI,Pasta,1,1.0724999999999998
+DJI,Pasta,2,1.0533333333333332
+DJI,Pasta,3,1.0724999999999998
+DJI,Pasta,5,1.0733333333333333
+DJI,Pasta,6,1.0875
+DJI,Pasta,7,1.0
+DJI,Pasta,8,1.045
+DJI,Pasta,9,1.0166666666666666
+DJI,Pasta,12,1.0875
+DJI,Rice (imported),1,0.675
+DJI,Rice (imported),2,0.68
+DJI,Rice (imported),3,0.7233333333333333
+DJI,Rice (imported),5,0.625
+DJI,Rice (imported),6,0.6066666666666666
+DJI,Rice (imported),7,0.6066666666666666
+DJI,Rice (imported),8,0.6325
+DJI,Rice (imported),9,0.6166666666666666
+DJI,Rice (imported),12,0.6566666666666667
+DJI,Sorghum (red),1,0.6966666666666667
+DJI,Sorghum (red),2,0.85
+DJI,Sorghum (red),3,0.6950000000000001
+DJI,Sorghum (red),5,0.6950000000000001
+DJI,Sorghum (red),6,0.6950000000000001
+DJI,Sorghum (red),7,0.6950000000000001
+DJI,Sorghum (red),8,0.7366666666666667
+DJI,Sorghum (red),9,0.905
+DJI,Sorghum (red),12,0.8475
+DJI,Sorghum (white),1,1.015
+DJI,Sorghum (white),2,0.895
+DJI,Sorghum (white),3,0.905
+DJI,Sorghum (white),5,0.905
+DJI,Sorghum (white),6,1.13
+DJI,Sorghum (white),7,0.905
+DJI,Sorghum (white),8,0.905
+DJI,Sorghum (white),9,0.68
+DJI,Sorghum (white),12,0.905
+DJI,Wheat flour,1,0.642
+DJI,Wheat flour,2,0.625
+DJI,Wheat flour,3,0.6639999999999999
+DJI,Wheat flour,5,0.614
+DJI,Wheat flour,6,0.625
+DJI,Wheat flour,7,0.614
+DJI,Wheat flour,8,0.5974999999999999
+DJI,Wheat flour,9,0.624
+DJI,Wheat flour,12,0.6566666666666667
+DZA,Potatoes,2,0.7366666666666667
+DZA,Potatoes,3,0.6975
+DZA,Potatoes,7,0.6042857142857142
+DZA,Potatoes,8,0.6525
+DZA,Potatoes,9,0.62
+DZA,Potatoes,10,0.7050000000000001
+DZA,Rice,1,0.8233333333333333
+DZA,Rice,2,0.9483333333333333
+DZA,Rice,3,0.91
+DZA,Rice,7,1.0450000000000002
+DZA,Rice,8,0.91
+DZA,Rice,9,1.0233333333333334
+DZA,Rice,10,1.054
+ECU,Maize,1,0.5299999999999999
+ECU,Maize,2,0.565
+ECU,Maize,3,0.7566666666666667
+ECU,Maize,4,0.69
+ECU,Maize,5,0.4880000000000001
+ECU,Maize,6,0.31
+ECU,Maize,7,0.4525
+ECU,Maize,8,0.41
+ECU,Maize,9,0.51
+ECU,Maize,10,0.61
+ECU,Maize,11,0.51
+ECU,Maize,12,0.655
+ECU,Potatoes,1,0.47333333333333333
+ECU,Potatoes,2,0.39999999999999997
+ECU,Potatoes,3,0.425
+ECU,Potatoes,4,0.4575
+ECU,Potatoes,5,0.48750000000000004
+ECU,Potatoes,6,0.48750000000000004
+ECU,Potatoes,7,0.47250000000000003
+ECU,Potatoes,8,0.45
+ECU,Potatoes,9,0.4266666666666667
+ECU,Potatoes,10,0.44333333333333336
+ECU,Potatoes,11,0.44
+ECU,Potatoes,12,0.45999999999999996
+ECU,Rice (long grain),1,1.0733333333333333
+ECU,Rice (long grain),2,1.095
+ECU,Rice (long grain),3,1.0833333333333333
+ECU,Rice (long grain),4,1.125
+ECU,Rice (long grain),5,0.97
+ECU,Rice (long grain),6,1.0866666666666667
+ECU,Rice (long grain),7,1.0999999999999999
+ECU,Rice (long grain),8,1.0233333333333334
+ECU,Rice (long grain),9,1.03
+ECU,Rice (long grain),10,1.17
+ECU,Rice (long grain),11,1.04
+ECU,Rice (long grain),12,1.15
+ECU,Wheat flour,1,0.74
+ECU,Wheat flour,3,0.75
+ECU,Wheat flour,4,0.76
+ECU,Wheat flour,7,0.69
+ECU,Wheat flour,8,0.73
+ECU,Wheat flour,9,0.69
+ECU,Wheat flour,10,0.72
+ECU,Wheat flour,11,0.73
+ECU,Wheat flour,12,0.72
+EGY,Pasta,1,0.55
+EGY,Pasta,2,0.55
+EGY,Pasta,3,0.54
+EGY,Pasta,4,0.55
+EGY,Pasta,5,0.55
+EGY,Pasta,6,0.55
+EGY,Pasta,7,0.55
+EGY,Pasta,8,0.55
+EGY,Pasta,9,0.55
+EGY,Pasta,10,0.6
+EGY,Pasta,11,0.42
+EGY,Pasta,12,0.39
+EGY,Potatoes,1,0.68
+EGY,Potatoes,2,0.65
+EGY,Potatoes,3,0.57
+EGY,Potatoes,4,0.59
+EGY,Potatoes,5,0.6
+EGY,Potatoes,6,0.61
+EGY,Potatoes,8,0.66
+EGY,Potatoes,10,0.75
+EGY,Potatoes,12,0.4
+EGY,Rice,2,0.8
+EGY,Rice,3,0.73
+EGY,Rice,4,0.77
+EGY,Rice,5,0.77
+EGY,Rice,8,0.77
+EGY,Rice,9,0.65
+EGY,Rice,11,0.38
+EGY,Wheat flour,1,0.5
+EGY,Wheat flour,3,0.44
+EGY,Wheat flour,5,0.44
+EGY,Wheat flour,6,0.44
+EGY,Wheat flour,7,0.44
+EGY,Wheat flour,8,0.44
+EGY,Wheat flour,9,0.44
+ETH,"Corn Soy Blend (CSB++, food aid)",2,0.94
+ETH,Pasta,1,1.04
+ETH,Pasta,4,1.15
+ETH,Pasta,5,1.03
+ETH,Pasta,6,1.1600000000000001
+ETH,Pasta,7,1.28
+ETH,Pasta,9,1.19
+ETH,Pasta,10,1.23
+ETH,Pasta,12,1.21
+ETH,Rice (imported),1,0.875
+ETH,Rice (imported),2,0.8
+ETH,Rice (imported),4,1.03
+ETH,Rice (imported),5,0.89
+ETH,Rice (imported),7,0.83
+ETH,Rice (imported),10,0.61
+ETH,Rice (imported),11,0.6950000000000001
+ETH,Rice (imported),12,0.72
+ETH,Sorghum,1,0.365
+ETH,Sorghum,2,0.4525
+ETH,Sorghum,3,0.37333333333333335
+ETH,Sorghum,4,0.5575
+ETH,Sorghum,5,0.345
+ETH,Sorghum,6,0.5599999999999999
+ETH,Sorghum,7,0.41
+ETH,Sorghum,8,0.42
+ETH,Sorghum,9,0.395
+ETH,Sorghum,10,0.42
+ETH,Sorghum,12,0.515
+ETH,Sweet potatoes,2,0.24
+GAB,Cassava,1,0.96
+GAB,Cassava,2,0.93
+GAB,Cassava,3,1.09
+GAB,Cassava,4,1.25
+GAB,Cassava,5,1.43
+GAB,Cassava,6,1.41
+GAB,Cassava,7,1.5
+GAB,Cassava,8,1.58
+GAB,Cassava,9,1.31
+GAB,Cassava,10,1.33
+GAB,Cassava,11,1.22
+GAB,Cassava,12,1.21
+GAB,Rice,1,0.92
+GAB,Rice,2,0.95
+GAB,Rice,3,0.93
+GAB,Rice,4,0.99
+GAB,Rice,5,0.95
+GAB,Rice,6,0.94
+GAB,Rice,7,0.9
+GAB,Rice,8,0.9
+GAB,Rice,9,0.99
+GAB,Rice,10,0.96
+GAB,Rice,11,0.88
+GAB,Rice,12,0.89
+GAB,Wheat flour,1,1.69
+GAB,Wheat flour,2,1.76
+GAB,Wheat flour,3,2.12
+GAB,Wheat flour,4,2.04
+GAB,Wheat flour,5,2.08
+GAB,Wheat flour,6,2.27
+GAB,Wheat flour,7,1.75
+GAB,Wheat flour,8,1.74
+GAB,Wheat flour,9,1.83
+GAB,Wheat flour,10,1.94
+GAB,Wheat flour,11,1.86
+GAB,Wheat flour,12,2.0
+GIN,Cassava meal (gari),1,0.5900000000000001
+GIN,Cassava meal (gari),2,0.6166666666666667
+GIN,Cassava meal (gari),5,0.42
+GIN,Cassava meal (gari),6,0.6466666666666666
+GIN,Cassava meal (gari),7,0.3466666666666667
+GIN,Cassava meal (gari),8,0.41
+GIN,Cassava meal (gari),9,0.525
+GIN,Cassava meal (gari),10,0.5133333333333333
+GIN,Cassava meal (gari),11,0.51
+GIN,Cassava meal (gari),12,0.4575
+GIN,Maize flour,1,1.34
+GIN,Maize flour,2,1.32
+GIN,Maize flour,5,1.43
+GIN,Maize flour,6,1.43
+GIN,Maize flour,7,1.14
+GIN,Maize flour,8,1.13
+GIN,Maize flour,9,1.16
+GIN,Maize flour,10,1.18
+GIN,Maize flour,11,1.17
+GIN,Rice (imported),1,0.58
+GIN,Rice (imported),2,0.626
+GIN,Rice (imported),3,0.65
+GIN,Rice (imported),4,0.66
+GIN,Rice (imported),5,0.6666666666666666
+GIN,Rice (imported),6,0.6966666666666667
+GIN,Rice (imported),7,0.5825
+GIN,Rice (imported),8,0.585
+GIN,Rice (imported),9,0.595
+GIN,Rice (imported),10,0.55
+GIN,Rice (imported),11,0.554
+GIN,Rice (imported),12,0.545
+GIN,Rice (local),1,0.745
+GIN,Rice (local),2,0.77
+GIN,Rice (local),3,0.97
+GIN,Rice (local),5,0.8475
+GIN,Rice (local),6,0.9266666666666667
+GIN,Rice (local),7,0.7575000000000001
+GIN,Rice (local),8,0.762
+GIN,Rice (local),9,0.7200000000000001
+GIN,Rice (local),10,0.79
+GIN,Rice (local),11,0.7866666666666666
+GIN,Rice (local),12,0.6325
+GMB,Bread,1,0.808
+GMB,Bread,3,0.7885714285714285
+GMB,Bread,4,0.784
+GMB,Bread,5,0.766
+GMB,Bread,6,0.7942857142857143
+GMB,Bread,7,0.79
+GMB,Bread,8,0.82
+GMB,Bread,9,0.785
+GMB,Bread,10,0.8
+GMB,Bread,11,0.8459999999999999
+GMB,Bread,12,0.82
+GMB,Cassava,1,0.5283333333333333
+GMB,Cassava,3,0.6416666666666667
+GMB,Cassava,4,0.5099999999999999
+GMB,Cassava,5,0.51
+GMB,Cassava,6,0.5916666666666667
+GMB,Cassava,7,0.6
+GMB,Cassava,8,0.47333333333333333
+GMB,Cassava,9,0.6666666666666666
+GMB,Cassava,10,0.48
+GMB,Cassava,11,0.6900000000000001
+GMB,Cassava,12,0.865
+GMB,Maize,1,0.52
+GMB,Maize,3,0.48875
+GMB,Maize,4,0.44875
+GMB,Maize,5,0.48
+GMB,Maize,6,0.41
+GMB,Maize,7,0.4716666666666667
+GMB,Maize,8,0.39666666666666667
+GMB,Maize,9,0.5
+GMB,Maize,10,0.385
+GMB,Maize,11,0.48142857142857143
+GMB,Maize,12,0.5114285714285715
+GMB,Maize flour,1,0.81
+GMB,Maize flour,3,1.16
+GMB,Maize flour,4,0.9500000000000001
+GMB,Maize flour,5,0.9233333333333333
+GMB,Maize flour,6,0.9175
+GMB,Maize flour,7,1.0150000000000001
+GMB,Maize flour,8,1.3
+GMB,Maize flour,9,0.942
+GMB,Maize flour,10,0.725
+GMB,Maize flour,11,0.8624999999999999
+GMB,Maize flour,12,0.95
+GMB,Millet,1,0.52
+GMB,Millet,3,0.496
+GMB,Millet,4,0.4
+GMB,Millet,5,0.4057142857142857
+GMB,Millet,6,0.3875
+GMB,Millet,7,0.4066666666666667
+GMB,Millet,8,0.37
+GMB,Millet,9,0.536
+GMB,Millet,10,0.25
+GMB,Millet,11,0.47000000000000003
+GMB,Millet,12,0.41
+GMB,Potatoes (Irish),1,1.0716666666666665
+GMB,Potatoes (Irish),3,1.082
+GMB,Potatoes (Irish),4,0.9259999999999999
+GMB,Potatoes (Irish),5,0.9774999999999999
+GMB,Potatoes (Irish),6,0.9575
+GMB,Potatoes (Irish),7,1.1500000000000001
+GMB,Potatoes (Irish),8,0.86
+GMB,Potatoes (Irish),9,1.0033333333333332
+GMB,Potatoes (Irish),10,1.19
+GMB,Potatoes (Irish),11,1.145
+GMB,Potatoes (Irish),12,1.05
+GMB,"Rice (basmati, broken)",1,3.515
+GMB,"Rice (basmati, broken)",3,3.2100000000000004
+GMB,"Rice (basmati, broken)",4,3.0300000000000002
+GMB,"Rice (basmati, broken)",5,3.02
+GMB,"Rice (basmati, broken)",6,2.3200000000000003
+GMB,"Rice (basmati, broken)",7,2.38
+GMB,"Rice (basmati, broken)",8,2.46
+GMB,"Rice (basmati, broken)",9,2.56
+GMB,"Rice (basmati, broken)",10,2.38
+GMB,"Rice (basmati, broken)",11,2.555
+GMB,"Rice (long grain, imported)",1,0.6749999999999999
+GMB,"Rice (long grain, imported)",3,0.7066666666666667
+GMB,"Rice (long grain, imported)",4,0.65
+GMB,"Rice (long grain, imported)",5,0.7060000000000001
+GMB,"Rice (long grain, imported)",6,0.7225
+GMB,"Rice (long grain, imported)",7,0.6833333333333332
+GMB,"Rice (long grain, imported)",8,0.725
+GMB,"Rice (long grain, imported)",9,0.67
+GMB,"Rice (long grain, imported)",11,0.6950000000000001
+GMB,"Rice (long grain, imported)",12,0.78
+GMB,"Rice (medium grain, imported)",1,0.62
+GMB,"Rice (medium grain, imported)",3,0.6575
+GMB,"Rice (medium grain, imported)",4,0.584
+GMB,"Rice (medium grain, imported)",5,0.564
+GMB,"Rice (medium grain, imported)",6,0.625
+GMB,"Rice (medium grain, imported)",7,0.6020000000000001
+GMB,"Rice (medium grain, imported)",8,0.69
+GMB,"Rice (medium grain, imported)",9,0.622
+GMB,"Rice (medium grain, imported)",11,0.6066666666666666
+GMB,"Rice (medium grain, imported)",12,0.6266666666666666
+GMB,"Rice (paddy, long grain, local)",1,0.635
+GMB,"Rice (paddy, long grain, local)",3,0.5499999999999999
+GMB,"Rice (paddy, long grain, local)",4,0.47000000000000003
+GMB,"Rice (paddy, long grain, local)",5,0.5
+GMB,"Rice (paddy, long grain, local)",6,0.5128571428571428
+GMB,"Rice (paddy, long grain, local)",7,0.46833333333333327
+GMB,"Rice (paddy, long grain, local)",8,0.4033333333333333
+GMB,"Rice (paddy, long grain, local)",9,0.44400000000000006
+GMB,"Rice (paddy, long grain, local)",10,0.4
+GMB,"Rice (paddy, long grain, local)",11,0.5514285714285714
+GMB,"Rice (paddy, long grain, local)",12,0.5614285714285715
+GMB,"Rice (small grain, imported)",1,0.615
+GMB,"Rice (small grain, imported)",3,0.6233333333333334
+GMB,"Rice (small grain, imported)",4,0.5660000000000001
+GMB,"Rice (small grain, imported)",5,0.5559999999999999
+GMB,"Rice (small grain, imported)",6,0.58
+GMB,"Rice (small grain, imported)",7,0.5757142857142857
+GMB,"Rice (small grain, imported)",8,0.625
+GMB,"Rice (small grain, imported)",9,0.5925
+GMB,"Rice (small grain, imported)",10,0.57
+GMB,"Rice (small grain, imported)",11,0.6028571428571429
+GMB,"Rice (small grain, imported)",12,0.61
+GMB,Sorghum,1,0.685
+GMB,Sorghum,3,0.5433333333333333
+GMB,Sorghum,4,0.49000000000000005
+GMB,Sorghum,5,0.4716666666666667
+GMB,Sorghum,6,0.5325
+GMB,Sorghum,7,0.5014285714285714
+GMB,Sorghum,8,0.435
+GMB,Sorghum,9,0.49666666666666676
+GMB,Sorghum,10,0.45
+GMB,Sorghum,11,0.53
+GMB,Sorghum,12,0.535
+GMB,Sweet potatoes,1,0.4775
+GMB,Sweet potatoes,3,0.47333333333333333
+GMB,Sweet potatoes,4,0.445
+GMB,Sweet potatoes,5,0.462
+GMB,Sweet potatoes,6,0.395
+GMB,Sweet potatoes,7,0.4716666666666667
+GMB,Sweet potatoes,8,0.46499999999999997
+GMB,Sweet potatoes,9,0.49
+GMB,Sweet potatoes,11,0.49
+GMB,Sweet potatoes,12,0.576
+GNB,Fonio,3,0.68
+GNB,Fonio,4,1.72
+GNB,Fonio,5,1.04
+GNB,Fonio,7,1.01
+GNB,Fonio,8,1.7
+GNB,Fonio,9,1.71
+GNB,Fonio,10,2.09
+GNB,Fonio,11,1.775
+GNB,Fonio,12,1.84
+GNB,Maize,3,0.68
+GNB,Maize,4,0.6
+GNB,Maize,5,0.6
+GNB,Maize,8,0.68
+GNB,Maize,9,0.71
+GNB,Maize,10,0.84
+GNB,Maize,11,0.71
+GNB,Millet,3,0.85
+GNB,Millet,4,0.86
+GNB,Millet,5,0.69
+GNB,Millet,8,0.9066666666666666
+GNB,Millet,9,1.03
+GNB,Millet,10,0.84
+GNB,Millet,11,0.8933333333333332
+GNB,Millet,12,0.96
+GNB,Rice (imported),3,0.6799999999999999
+GNB,Rice (imported),4,0.64
+GNB,Rice (imported),5,0.885
+GNB,Rice (imported),6,0.73
+GNB,Rice (imported),7,0.8
+GNB,Rice (imported),8,0.68
+GNB,Rice (imported),9,0.765
+GNB,Rice (imported),10,0.635
+GNB,Rice (imported),11,0.6699999999999999
+GNB,Rice (local),3,0.5700000000000001
+GNB,Rice (local),5,0.69
+GNB,Rice (local),7,0.8
+GNB,Rice (local),8,0.8033333333333333
+GNB,Rice (local),9,0.785
+GNB,Rice (local),10,0.71
+GNB,Rice (local),11,0.7949999999999999
+GNB,Rice (local),12,0.82
+GNB,Sorghum,8,0.68
+GNB,Sorghum,9,0.69
+GNB,Sorghum,10,0.755
+GNB,Sorghum,11,0.7266666666666667
+GNB,Sorghum,12,0.82
+GNB,Wheat,8,0.68
+GNB,Wheat,9,0.9766666666666667
+GNB,Wheat,10,0.71
+GNB,Wheat,11,0.71
+GNB,Wheat,12,0.7
+IDN,Rice,2,1.0
+IDN,Rice,4,1.0
+IDN,Rice,6,0.98
+IDN,Rice,7,0.8336764705882352
+IDN,Rice,8,0.8466666666666668
+IDN,Rice,9,0.8435443037974684
+IDN,Rice,10,0.838139534883721
+IDN,Rice,11,0.8006410256410257
+IDN,Rice,12,0.8155555555555556
+IDN,Rice (high quality),7,0.9190625
+IDN,Rice (high quality),8,0.9342105263157895
+IDN,Rice (high quality),9,0.9266666666666666
+IDN,Rice (high quality),10,0.924179104477612
+IDN,Rice (high quality),11,0.8997560975609756
+IDN,Rice (high quality),12,0.8896296296296297
+IDN,Rice (low quality),7,0.7391666666666666
+IDN,Rice (low quality),8,0.7368852459016394
+IDN,Rice (low quality),9,0.7312121212121212
+IDN,Rice (low quality),10,0.732
+IDN,Rice (low quality),11,0.7130487804878048
+IDN,Rice (low quality),12,0.7257746478873239
+IDN,Rice (medium quality),7,0.8504651162790697
+IDN,Rice (medium quality),8,0.8460227272727273
+IDN,Rice (medium quality),9,0.8480681818181818
+IDN,Rice (medium quality),10,0.8544554455445544
+IDN,Rice (medium quality),11,0.829047619047619
+IDN,Rice (medium quality),12,0.8298148148148149
+IDN,Wheat flour,3,0.61
+IDN,Wheat flour,5,0.6
+IDN,Wheat flour,7,0.61
+IDN,Wheat flour,8,0.62
+IDN,Wheat flour,10,0.62
+IND,Potatoes,1,0.2131578947368421
+IND,Potatoes,2,0.19992307692307693
+IND,Potatoes,3,0.2262941176470588
+IND,Potatoes,4,0.24023809523809522
+IND,Potatoes,5,0.2797368421052632
+IND,Potatoes,6,0.31725
+IND,Potatoes,7,0.34285714285714286
+IND,Potatoes,8,0.33974358974358976
+IND,Potatoes,9,0.33756756756756756
+IND,Potatoes,10,0.3402702702702703
+IND,Potatoes,11,0.3064705882352941
+IND,Potatoes,12,0.2518421052631579
+IND,Rice,1,0.3997058823529412
+IND,Rice,2,0.39628571428571424
+IND,Rice,3,0.4047368421052632
+IND,Rice,4,0.4068421052631579
+IND,Rice,5,0.4035
+IND,Rice,6,0.4
+IND,Rice,7,0.39971428571428574
+IND,Rice,8,0.4077777777777778
+IND,Rice,9,0.409
+IND,Rice,10,0.4227027027027027
+IND,Rice,11,0.4145945945945946
+IND,Rice,12,0.40939393939393937
+IND,Wheat,1,0.3325
+IND,Wheat,2,0.3234782608695652
+IND,Wheat,3,0.33379310344827584
+IND,Wheat,4,0.35
+IND,Wheat,5,0.341304347826087
+IND,Wheat,6,0.35206896551724143
+IND,Wheat,7,0.3393548387096774
+IND,Wheat,8,0.3464285714285715
+IND,Wheat,9,0.3629032258064516
+IND,Wheat,10,0.35419354838709677
+IND,Wheat,11,0.3482142857142857
+IND,Wheat,12,0.37037037037037035
+IND,Wheat flour,1,0.37125
+IND,Wheat flour,2,0.37135135135135133
+IND,Wheat flour,3,0.3715151515151515
+IND,Wheat flour,4,0.37026315789473685
+IND,Wheat flour,5,0.3640625
+IND,Wheat flour,6,0.37470588235294117
+IND,Wheat flour,7,0.3611111111111111
+IND,Wheat flour,8,0.3628125
+IND,Wheat flour,9,0.38189189189189193
+IND,Wheat flour,10,0.3851428571428572
+IND,Wheat flour,11,0.39486486486486483
+IND,Wheat flour,12,0.4162857142857143
+IRN,Rice,3,2.22
+IRN,Rice,5,2.21
+IRN,Rice,6,2.24
+IRN,Rice,7,2.7
+IRN,Rice,8,2.86
+IRN,Rice,9,2.89
+IRN,Rice,10,3.12
+IRN,Rice,11,3.09
+IRQ,Rice,1,2.0685714285714285
+IRQ,Rice,2,1.5733333333333333
+IRQ,Rice,3,1.5619999999999998
+IRQ,Rice,4,1.8942857142857144
+IRQ,Rice,5,1.502857142857143
+IRQ,Rice,6,1.673
+IRQ,Rice,7,1.5938461538461537
+IRQ,Rice,8,1.5710000000000002
+IRQ,Rice,9,1.5516666666666667
+IRQ,Rice,10,1.565
+IRQ,Rice,11,1.5284615384615385
+IRQ,Rice,12,1.4438461538461538
+IRQ,Wheat flour,1,0.975
+IRQ,Wheat flour,2,0.7918181818181818
+IRQ,Wheat flour,3,0.8145454545454546
+IRQ,Wheat flour,4,0.8177777777777778
+IRQ,Wheat flour,5,0.7922222222222222
+IRQ,Wheat flour,6,0.9775
+IRQ,Wheat flour,7,0.9427272727272729
+IRQ,Wheat flour,8,0.8833333333333333
+IRQ,Wheat flour,9,0.9309090909090909
+IRQ,Wheat flour,10,0.87
+IRQ,Wheat flour,11,0.8922222222222224
+IRQ,Wheat flour,12,0.8918181818181818
+JOR,Bread (pita),1,0.23
+JOR,Bread (pita),3,0.23
+JOR,Bread (pita),4,0.23
+JOR,Bread (pita),5,0.23
+JOR,Bread (pita),6,0.23500000000000001
+JOR,Bread (pita),7,0.23
+JOR,Bread (pita),8,0.23
+JOR,Bread (pita),9,0.23
+JOR,Bread (pita),10,0.23
+JOR,Bread (pita),11,0.23
+JOR,Bread (pita),12,0.23
+JOR,Bulgur,6,1.272
+JOR,Bulgur,11,1.31
+JOR,Bulgur,12,1.28
+JOR,Pasta,12,0.48
+JOR,Potatoes,1,1.23
+JOR,Potatoes,2,1.01
+JOR,Potatoes,3,0.82
+JOR,Potatoes,5,0.79
+JOR,Potatoes,6,0.747
+JOR,Potatoes,8,0.97
+JOR,Potatoes,9,1.12
+JOR,Potatoes,10,1.09
+JOR,Potatoes,11,1.02
+JOR,Potatoes,12,1.11
+JOR,Rice (imported),4,1.7
+JOR,Rice (imported),5,1.62
+JOR,Rice (imported),6,1.6833333333333333
+JOR,Rice (imported),7,1.71
+JOR,Rice (imported),9,1.74
+JOR,Rice (imported),11,1.75
+JOR,Rice (imported),12,1.74
+JPN,Potatoes,1,2.8049999999999997
+JPN,Potatoes,2,3.09
+JPN,Potatoes,3,3.31
+JPN,Potatoes,4,3.975
+JPN,Potatoes,5,3.87
+JPN,Potatoes,6,5.07
+JPN,Potatoes,7,4.164999999999999
+JPN,Potatoes,8,4.61
+JPN,Potatoes,9,3.885
+JPN,Potatoes,11,3.44
+JPN,Potatoes,12,3.195
+JPN,"Rice (glutinous, unmilled)",1,5.0600000000000005
+JPN,"Rice (glutinous, unmilled)",2,4.98
+JPN,"Rice (glutinous, unmilled)",3,4.97
+JPN,"Rice (glutinous, unmilled)",4,5.51
+JPN,"Rice (glutinous, unmilled)",5,5.545
+JPN,"Rice (glutinous, unmilled)",6,5.645
+JPN,"Rice (glutinous, unmilled)",7,5.73
+JPN,"Rice (glutinous, unmilled)",8,5.775
+JPN,"Rice (glutinous, unmilled)",9,6.12
+JPN,"Rice (glutinous, unmilled)",10,5.75
+JPN,"Rice (glutinous, unmilled)",11,5.36
+JPN,"Rice (glutinous, unmilled)",12,5.14
+JPN,Wheat flour,1,2.11
+JPN,Wheat flour,2,2.11
+JPN,Wheat flour,3,2.145
+JPN,Wheat flour,4,2.245
+JPN,Wheat flour,5,2.215
+JPN,Wheat flour,6,2.25
+JPN,Wheat flour,7,2.275
+JPN,Wheat flour,8,2.3899999999999997
+JPN,Wheat flour,9,2.355
+JPN,Wheat flour,10,2.33
+JPN,Wheat flour,11,2.2300000000000004
+JPN,Wheat flour,12,2.06
+KAZ,Potatoes,1,0.245
+KAZ,Potatoes,2,0.21666666666666667
+KAZ,Potatoes,3,0.25
+KAZ,Potatoes,4,0.2425
+KAZ,Potatoes,5,0.25
+KAZ,Potatoes,6,0.3375
+KAZ,Potatoes,7,0.325
+KAZ,Potatoes,8,0.23
+KAZ,Potatoes,9,0.2475
+KAZ,Potatoes,10,0.22999999999999998
+KAZ,Potatoes,11,0.26
+KAZ,Potatoes,12,0.30000000000000004
+KAZ,Wheat flour (first grade),1,0.3666666666666667
+KAZ,Wheat flour (first grade),2,0.355
+KAZ,Wheat flour (first grade),3,0.3825
+KAZ,Wheat flour (first grade),4,0.44
+KAZ,Wheat flour (first grade),5,0.4
+KAZ,Wheat flour (first grade),6,0.39749999999999996
+KAZ,Wheat flour (first grade),7,0.39999999999999997
+KAZ,Wheat flour (first grade),8,0.39
+KAZ,Wheat flour (first grade),9,0.415
+KAZ,Wheat flour (first grade),10,0.4175
+KAZ,Wheat flour (first grade),11,0.4266666666666667
+KAZ,Wheat flour (first grade),12,0.39999999999999997
+KEN,Maize,1,0.275
+KEN,Maize,2,0.27999999999999997
+KEN,Maize,3,0.27
+KEN,Maize,4,0.27
+KEN,Maize,5,0.295
+KEN,Maize,6,0.29
+KEN,Maize,7,0.32
+KEN,Maize,8,0.308
+KEN,Maize,9,0.3
+KEN,Maize,10,0.2933333333333334
+KEN,Maize,11,0.3075
+KEN,Maize,12,0.315
+KEN,Maize (white),1,0.47333333333333333
+KEN,Maize (white),2,0.4685714285714285
+KEN,Maize (white),3,0.4825
+KEN,Maize (white),4,0.29
+KEN,Maize (white),5,0.47285714285714286
+KEN,Maize (white),6,0.4844444444444444
+KEN,Maize (white),7,0.4822222222222222
+KEN,Maize (white),8,0.4575
+KEN,Maize (white),9,0.4633333333333333
+KEN,Maize (white),10,0.495
+KEN,Maize (white),11,0.5044444444444445
+KEN,Maize (white),12,0.458
+KGZ,Bread,1,0.6900000000000001
+KGZ,Bread,2,0.74
+KGZ,Bread,3,0.7025
+KGZ,Bread,4,0.7275
+KGZ,Bread,5,0.744
+KGZ,Bread,6,0.775
+KGZ,Bread,7,0.756
+KGZ,Bread,8,0.7324999999999999
+KGZ,Bread,9,0.7725
+KGZ,Bread,10,0.7475
+KGZ,Bread,11,0.71
+KGZ,Bread,12,0.7000000000000001
+KGZ,Potatoes,1,0.19499999999999998
+KGZ,Potatoes,2,0.1975
+KGZ,Potatoes,3,0.18133333333333335
+KGZ,Potatoes,4,0.18666666666666668
+KGZ,Potatoes,5,0.22714285714285715
+KGZ,Potatoes,6,0.35000000000000003
+KGZ,Potatoes,7,0.3244444444444444
+KGZ,Potatoes,8,0.2757142857142857
+KGZ,Potatoes,9,0.22428571428571428
+KGZ,Potatoes,10,0.21800000000000003
+KGZ,Potatoes,11,0.26
+KGZ,Potatoes,12,0.294
+KGZ,Rice,1,1.08625
+KGZ,Rice,2,1.1014285714285714
+KGZ,Rice,3,1.1366666666666667
+KGZ,Rice,4,1.1583333333333334
+KGZ,Rice,5,1.1371428571428572
+KGZ,Rice,6,1.055
+KGZ,Rice,7,1.1442857142857144
+KGZ,Rice,9,0.9885714285714285
+KGZ,Rice,10,1.0971428571428572
+KGZ,Rice,11,1.0466666666666666
+KGZ,Rice,12,0.9457142857142857
+KGZ,Rice (medium grain),1,1.0342857142857143
+KGZ,Rice (medium grain),2,1.0442857142857143
+KGZ,Rice (medium grain),3,1.11375
+KGZ,Rice (medium grain),4,1.1185714285714285
+KGZ,Rice (medium grain),5,1.2300000000000002
+KGZ,Rice (medium grain),6,1.1157142857142859
+KGZ,Rice (medium grain),7,1.1314285714285715
+KGZ,Rice (medium grain),8,1.1133333333333333
+KGZ,Rice (medium grain),9,1.0783333333333334
+KGZ,Rice (medium grain),10,1.0
+KGZ,Rice (medium grain),11,0.9425
+KGZ,Rice (medium grain),12,1.0699999999999998
+KGZ,Wheat flour (first grade),1,0.43333333333333335
+KGZ,Wheat flour (first grade),2,0.422
+KGZ,Wheat flour (first grade),3,0.445
+KGZ,Wheat flour (first grade),4,0.44999999999999996
+KGZ,Wheat flour (first grade),5,0.45999999999999996
+KGZ,Wheat flour (first grade),6,0.47500000000000003
+KGZ,Wheat flour (first grade),7,0.42000000000000004
+KGZ,Wheat flour (first grade),8,0.43142857142857144
+KGZ,Wheat flour (first grade),9,0.39
+KGZ,Wheat flour (first grade),10,0.43
+KGZ,Wheat flour (first grade),11,0.41
+KGZ,Wheat flour (first grade),12,0.41
+KHM,"Rice (mixed, low quality)",1,0.4116666666666667
+KHM,"Rice (mixed, low quality)",2,0.4175
+KHM,"Rice (mixed, low quality)",3,0.41578947368421054
+KHM,"Rice (mixed, low quality)",4,0.4285
+KHM,"Rice (mixed, low quality)",5,0.421875
+KHM,"Rice (mixed, low quality)",6,0.4407142857142857
+KHM,"Rice (mixed, low quality)",7,0.43347826086956526
+KHM,"Rice (mixed, low quality)",8,0.4358823529411765
+KHM,"Rice (mixed, low quality)",9,0.42400000000000004
+KHM,"Rice (mixed, low quality)",10,0.4309090909090909
+KHM,"Rice (mixed, low quality)",11,0.43
+KHM,"Rice (mixed, low quality)",12,0.42214285714285715
+LAO,"Rice (glutinous, first quality)",1,0.89625
+LAO,"Rice (glutinous, first quality)",2,0.8250000000000001
+LAO,"Rice (glutinous, first quality)",3,0.8353846153846154
+LAO,"Rice (glutinous, first quality)",4,0.8269230769230769
+LAO,"Rice (glutinous, first quality)",5,0.858
+LAO,"Rice (glutinous, first quality)",6,0.846875
+LAO,"Rice (glutinous, first quality)",7,0.8490909090909091
+LAO,"Rice (glutinous, first quality)",8,0.8433333333333334
+LAO,"Rice (glutinous, first quality)",9,0.745
+LAO,"Rice (glutinous, first quality)",10,0.7999999999999999
+LAO,"Rice (glutinous, first quality)",11,0.772
+LAO,"Rice (glutinous, first quality)",12,0.882
+LAO,"Rice (glutinous, second quality)",1,0.7442857142857143
+LAO,"Rice (glutinous, second quality)",2,0.7316666666666666
+LAO,"Rice (glutinous, second quality)",3,0.7777777777777778
+LAO,"Rice (glutinous, second quality)",4,0.7083333333333334
+LAO,"Rice (glutinous, second quality)",5,0.692
+LAO,"Rice (glutinous, second quality)",6,0.744
+LAO,"Rice (glutinous, second quality)",7,0.7073333333333333
+LAO,"Rice (glutinous, second quality)",8,0.7390909090909091
+LAO,"Rice (glutinous, second quality)",9,0.73
+LAO,"Rice (glutinous, second quality)",10,0.808
+LAO,"Rice (glutinous, second quality)",11,0.6866666666666666
+LAO,"Rice (glutinous, second quality)",12,0.675
+LAO,"Rice (glutinous, unmilled)",1,0.39999999999999997
+LAO,"Rice (glutinous, unmilled)",2,0.35083333333333333
+LAO,"Rice (glutinous, unmilled)",3,0.362
+LAO,"Rice (glutinous, unmilled)",4,0.34545454545454546
+LAO,"Rice (glutinous, unmilled)",5,0.4083333333333334
+LAO,"Rice (glutinous, unmilled)",6,0.3427272727272727
+LAO,"Rice (glutinous, unmilled)",7,0.355
+LAO,"Rice (glutinous, unmilled)",8,0.36000000000000004
+LAO,"Rice (glutinous, unmilled)",10,0.43
+LAO,"Rice (glutinous, unmilled)",11,0.41000000000000003
+LAO,"Rice (glutinous, unmilled)",12,0.384
+LAO,"Rice (ordinary, first quality)",1,0.9385714285714286
+LAO,"Rice (ordinary, first quality)",2,0.9284615384615384
+LAO,"Rice (ordinary, first quality)",3,0.9992307692307693
+LAO,"Rice (ordinary, first quality)",4,0.975625
+LAO,"Rice (ordinary, first quality)",5,1.026
+LAO,"Rice (ordinary, first quality)",6,0.9941666666666666
+LAO,"Rice (ordinary, first quality)",7,1.3858823529411763
+LAO,"Rice (ordinary, first quality)",8,1.026
+LAO,"Rice (ordinary, first quality)",9,1.24
+LAO,"Rice (ordinary, first quality)",10,0.8925000000000001
+LAO,"Rice (ordinary, first quality)",11,0.82
+LAO,"Rice (ordinary, first quality)",12,0.98
+LAO,"Rice (ordinary, second quality)",1,0.75
+LAO,"Rice (ordinary, second quality)",2,0.7807142857142857
+LAO,"Rice (ordinary, second quality)",3,0.784
+LAO,"Rice (ordinary, second quality)",4,0.7883333333333334
+LAO,"Rice (ordinary, second quality)",5,0.6950000000000001
+LAO,"Rice (ordinary, second quality)",6,0.8046153846153847
+LAO,"Rice (ordinary, second quality)",7,1.172857142857143
+LAO,"Rice (ordinary, second quality)",8,0.8153333333333334
+LAO,"Rice (ordinary, second quality)",9,1.06
+LAO,"Rice (ordinary, second quality)",10,0.7866666666666667
+LAO,"Rice (ordinary, second quality)",11,0.6733333333333333
+LAO,"Rice (ordinary, second quality)",12,0.8133333333333334
+LAO,"Rice (ordinary, unmilled)",1,0.435
+LAO,"Rice (ordinary, unmilled)",2,0.41250000000000003
+LAO,"Rice (ordinary, unmilled)",3,0.41625
+LAO,"Rice (ordinary, unmilled)",4,0.394
+LAO,"Rice (ordinary, unmilled)",5,0.4575
+LAO,"Rice (ordinary, unmilled)",6,0.4164285714285714
+LAO,"Rice (ordinary, unmilled)",7,0.425
+LAO,"Rice (ordinary, unmilled)",8,0.41733333333333333
+LAO,"Rice (ordinary, unmilled)",10,0.44
+LAO,"Rice (ordinary, unmilled)",11,0.4625
+LAO,"Rice (ordinary, unmilled)",12,0.4325
+LKA,Rice (long grain),1,0.6
+LKA,Rice (long grain),2,0.49800000000000005
+LKA,Rice (long grain),3,0.48533333333333334
+LKA,Rice (long grain),4,0.4977777777777778
+LKA,Rice (long grain),5,0.505
+LKA,Rice (long grain),6,0.5169230769230769
+LKA,Rice (long grain),7,0.5146153846153847
+LKA,Rice (long grain),8,0.5044444444444445
+LKA,Rice (long grain),9,0.45222222222222225
+LKA,Rice (long grain),10,0.47454545454545455
+LKA,Rice (long grain),11,0.5042857142857143
+LKA,Rice (long grain),12,0.5428571428571429
+LKA,Rice (white),2,0.48
+LKA,Rice (white),5,0.48
+LKA,Rice (white),7,0.49
+LKA,Rice (white),8,0.48
+LKA,Rice (white),9,0.48
+LKA,Rice (white),10,0.51
+LKA,Rice (white),11,0.53
+LKA,Rice (white),12,0.6
+LKA,Wheat flour,1,0.65
+LKA,Wheat flour,2,0.594
+LKA,Wheat flour,3,0.6068749999999999
+LKA,Wheat flour,4,0.633125
+LKA,Wheat flour,5,0.63
+LKA,Wheat flour,6,0.6283333333333334
+LKA,Wheat flour,7,0.6406666666666666
+LKA,Wheat flour,8,0.6175
+LKA,Wheat flour,10,0.61
+LKA,Wheat flour,11,0.63
+MDA,Maize,1,0.19
+MDA,Maize,2,0.195
+MDA,Maize,3,0.2
+MDA,Maize,5,0.24
+MDA,Maize,6,0.16
+MDA,Maize,7,0.15
+MDA,Maize,9,0.22
+MDA,Maize,10,0.23
+MDA,Maize,11,0.175
+MDA,Maize,12,0.14
+MDA,Potatoes,1,0.33
+MDA,Potatoes,2,0.36
+MDA,Potatoes,3,0.27
+MDA,Potatoes,4,0.335
+MDA,Potatoes,5,0.585
+MDA,Potatoes,6,0.37
+MDA,Potatoes,7,0.255
+MDA,Potatoes,8,0.22
+MDA,Potatoes,10,0.22
+MDA,Potatoes,11,0.22
+MDA,Potatoes,12,0.245
+MDA,Wheat,2,0.21
+MDA,Wheat,4,0.23
+MDA,Wheat,6,0.23
+MDA,Wheat,7,0.22
+MDA,Wheat,9,0.21
+MDA,Wheat,10,0.23
+MDA,Wheat flour,1,0.43500000000000005
+MDA,Wheat flour,2,0.445
+MDA,Wheat flour,3,0.455
+MDA,Wheat flour,4,0.46499999999999997
+MDA,Wheat flour,6,0.455
+MDA,Wheat flour,7,0.455
+MDA,Wheat flour,8,0.36
+MDA,Wheat flour,9,0.46
+MDA,Wheat flour,10,0.57
+MDA,Wheat flour,11,0.56
+MDA,Wheat flour,12,0.42
+MDG,Rice (local),1,0.42769230769230765
+MDG,Rice (local),2,0.42411764705882354
+MDG,Rice (local),4,0.39
+MDG,Rice (local),8,0.48750000000000004
+MDG,Rice (local),9,0.4475
+MDG,Rice (local),10,0.47428571428571425
+MDG,Rice (local),11,0.49
+MDG,Rice (local),12,0.4655555555555556
+MDG,Wheat flour,1,0.6799999999999999
+MDG,Wheat flour,2,0.6958333333333333
+MDG,Wheat flour,4,0.6537499999999999
+MDG,Wheat flour,8,0.6616666666666667
+MDG,Wheat flour,9,0.9
+MDG,Wheat flour,10,0.6814285714285714
+MDG,Wheat flour,11,0.665
+MDG,Wheat flour,12,0.658
+MEX,Maize (white),1,0.29000000000000004
+MEX,Maize (white),2,0.2575
+MEX,Maize (white),3,0.29333333333333333
+MEX,Maize (white),4,0.29000000000000004
+MEX,Maize (white),5,0.2733333333333334
+MEX,Maize (white),6,0.26749999999999996
+MEX,Maize (white),7,0.27
+MEX,Maize (white),8,0.2875
+MEX,Maize (white),9,0.30500000000000005
+MEX,Maize (white),10,0.26666666666666666
+MEX,Maize (white),11,0.25666666666666665
+MEX,Maize (white),12,0.25
+MEX,"Rice (long grain, Sinaloa)",1,0.6499999999999999
+MEX,"Rice (long grain, Sinaloa)",2,0.635
+MEX,"Rice (long grain, Sinaloa)",3,0.69
+MEX,"Rice (long grain, Sinaloa)",4,0.7050000000000001
+MEX,"Rice (long grain, Sinaloa)",5,0.6699999999999999
+MEX,"Rice (long grain, Sinaloa)",6,0.645
+MEX,"Rice (long grain, Sinaloa)",7,0.64
+MEX,"Rice (long grain, Sinaloa)",8,0.6950000000000001
+MEX,"Rice (long grain, Sinaloa)",9,0.655
+MEX,"Rice (long grain, Sinaloa)",10,0.6699999999999999
+MEX,"Rice (long grain, Sinaloa)",11,0.635
+MEX,"Rice (long grain, Sinaloa)",12,0.645
+MEX,"Rice (small grain, Morelos)",1,1.205
+MEX,"Rice (small grain, Morelos)",2,1.19
+MEX,"Rice (small grain, Morelos)",3,1.23
+MEX,"Rice (small grain, Morelos)",4,1.23
+MEX,"Rice (small grain, Morelos)",5,1.18
+MEX,"Rice (small grain, Morelos)",6,1.135
+MEX,"Rice (small grain, Morelos)",7,1.1549999999999998
+MEX,"Rice (small grain, Morelos)",8,1.19
+MEX,"Rice (small grain, Morelos)",9,1.12
+MEX,"Rice (small grain, Morelos)",10,1.135
+MEX,"Rice (small grain, Morelos)",11,0.96
+MEX,"Rice (small grain, Morelos)",12,1.03
+MEX,Tortilla,1,0.61
+MEX,Tortilla,3,0.63
+MEX,Tortilla,5,0.61
+MEX,Tortilla,6,0.59
+MEX,Tortilla,7,0.6
+MEX,Tortilla,8,0.62
+MEX,Tortilla,10,0.59
+MLI,Maize,1,0.2602564102564103
+MLI,Maize,2,0.277
+MLI,Maize,3,0.2817142857142857
+MLI,Maize,4,0.28342105263157896
+MLI,Maize,5,0.2860975609756098
+MLI,Maize,6,0.29292682926829267
+MLI,Maize,7,0.29666666666666663
+MLI,Maize,8,0.29944444444444446
+MLI,Maize,9,0.2883783783783784
+MLI,Maize,10,0.28025641025641024
+MLI,Maize,11,0.2712195121951219
+MLI,Maize,12,0.25785714285714284
+MLI,Millet,1,0.2983333333333333
+MLI,Millet,2,0.3054545454545455
+MLI,Millet,3,0.3063333333333333
+MLI,Millet,4,0.31666666666666665
+MLI,Millet,5,0.32687499999999997
+MLI,Millet,6,0.3278125
+MLI,Millet,7,0.3238888888888889
+MLI,Millet,8,0.3277777777777778
+MLI,Millet,9,0.3102857142857143
+MLI,Millet,10,0.31625
+MLI,Millet,11,0.3361290322580645
+MLI,Millet,12,0.31499999999999995
+MLI,Rice (imported),1,0.5976470588235294
+MLI,Rice (imported),2,0.6122857142857143
+MLI,Rice (imported),3,0.6018918918918919
+MLI,Rice (imported),4,0.615952380952381
+MLI,Rice (imported),5,0.6165853658536585
+MLI,Rice (imported),6,0.6169444444444445
+MLI,Rice (imported),7,0.6094285714285714
+MLI,Rice (imported),8,0.6146874999999999
+MLI,Rice (imported),9,0.6226829268292683
+MLI,Rice (imported),10,0.6125
+MLI,Rice (imported),11,0.6045945945945945
+MLI,Rice (imported),12,0.583030303030303
+MLI,Rice (local),1,0.5783673469387756
+MLI,Rice (local),2,0.6011363636363636
+MLI,Rice (local),3,0.5946938775510204
+MLI,Rice (local),4,0.6069565217391305
+MLI,Rice (local),5,0.6182608695652174
+MLI,Rice (local),6,0.624
+MLI,Rice (local),7,0.6055555555555555
+MLI,Rice (local),8,0.6191489361702128
+MLI,Rice (local),9,0.64025
+MLI,Rice (local),10,0.6079629629629629
+MLI,Rice (local),11,0.5970212765957447
+MLI,Rice (local),12,0.5922727272727273
+MLI,Rice (paddy),1,0.2725
+MLI,Rice (paddy),2,0.25333333333333335
+MLI,Rice (paddy),3,0.2816666666666667
+MLI,Rice (paddy),4,0.315
+MLI,Rice (paddy),5,0.33999999999999997
+MLI,Rice (paddy),6,0.29333333333333333
+MLI,Rice (paddy),7,0.33571428571428574
+MLI,Rice (paddy),8,0.25
+MLI,Rice (paddy),9,0.2866666666666667
+MLI,Rice (paddy),10,0.30333333333333334
+MLI,Rice (paddy),11,0.284
+MLI,Rice (paddy),12,0.2825
+MLI,Sorghum,1,0.27636363636363637
+MLI,Sorghum,2,0.28244444444444444
+MLI,Sorghum,3,0.28808510638297874
+MLI,Sorghum,4,0.2822
+MLI,Sorghum,5,0.30124999999999996
+MLI,Sorghum,6,0.3008
+MLI,Sorghum,7,0.2957142857142857
+MLI,Sorghum,8,0.3023404255319149
+MLI,Sorghum,9,0.3061111111111111
+MLI,Sorghum,10,0.299375
+MLI,Sorghum,11,0.2918
+MLI,Sorghum,12,0.2783333333333333
+MMR,Rice (Emata),1,0.36
+MMR,Rice (Emata),2,0.4
+MMR,Rice (Emata),4,0.42
+MMR,Rice (Emata),6,0.47
+MMR,Rice (Emata),7,0.46
+MMR,Rice (Emata),8,0.44
+MMR,Rice (Emata),9,0.39
+MMR,Rice (Emata),10,0.26
+MMR,Rice (Emata),11,0.26
+MMR,Rice (Emata),12,0.28
+MMR,Rice (low quality),1,0.492
+MMR,Rice (low quality),2,0.5144
+MMR,Rice (low quality),3,0.53625
+MMR,Rice (low quality),4,0.5072727272727273
+MMR,Rice (low quality),5,0.5166666666666667
+MMR,Rice (low quality),6,0.5252941176470588
+MMR,Rice (low quality),7,0.5153333333333333
+MMR,Rice (low quality),8,0.5473684210526316
+MMR,Rice (low quality),9,0.5860000000000001
+MMR,Rice (low quality),10,0.4822222222222222
+MMR,Rice (low quality),11,0.5278260869565218
+MMR,Rice (low quality),12,0.5052941176470588
+MNG,Potatoes,1,0.4720000000000001
+MNG,Potatoes,2,0.42
+MNG,Potatoes,3,0.4375
+MNG,Potatoes,4,0.4675
+MNG,Potatoes,5,0.4425
+MNG,Potatoes,6,0.45
+MNG,Potatoes,7,0.5820000000000001
+MNG,Potatoes,8,0.41500000000000004
+MNG,Potatoes,9,0.3325
+MNG,Potatoes,10,0.3433333333333333
+MNG,Potatoes,11,0.288
+MNG,Potatoes,12,0.266
+MNG,Rice,1,1.27
+MNG,Rice,2,1.25
+MNG,Rice,3,1.23
+MNG,Rice,5,1.25
+MNG,Rice,6,1.28
+MNG,Rice,7,1.26
+MNG,Rice,8,1.17
+MNG,Rice,9,1.15
+MNG,Rice,10,1.13
+MNG,Rice,11,1.07
+MNG,Rice,12,1.05
+MNG,Wheat flour,1,0.5275
+MNG,Wheat flour,2,0.49666666666666676
+MNG,Wheat flour,3,0.4666666666666666
+MNG,Wheat flour,4,0.516
+MNG,Wheat flour,5,0.51
+MNG,Wheat flour,6,0.538
+MNG,Wheat flour,7,0.53
+MNG,Wheat flour,8,0.48600000000000004
+MNG,Wheat flour,9,0.47
+MNG,Wheat flour,10,0.4333333333333333
+MNG,Wheat flour,11,0.435
+MNG,Wheat flour,12,0.4033333333333333
+MOZ,Cassava (dry),1,0.52
+MOZ,Cassava (dry),2,0.48
+MOZ,Cassava (dry),3,0.12
+MOZ,Cassava flour,1,0.395
+MOZ,Cassava flour,2,0.23
+MOZ,Cassava flour,3,0.48333333333333334
+MOZ,Cassava flour,4,0.38
+MOZ,Cassava flour,5,0.55
+MOZ,Cassava flour,6,0.51
+MOZ,Cassava flour,7,0.635
+MOZ,Cassava flour,8,0.53
+MOZ,Cassava flour,9,0.32
+MOZ,Cassava flour,10,0.495
+MOZ,Cassava flour,11,0.4766666666666666
+MOZ,Cassava flour,12,0.37
+MOZ,Maize (white),1,0.4563636363636363
+MOZ,Maize (white),2,0.47692307692307695
+MOZ,Maize (white),3,0.4707692307692308
+MOZ,Maize (white),4,0.399375
+MOZ,Maize (white),5,0.35571428571428576
+MOZ,Maize (white),6,0.3464285714285714
+MOZ,Maize (white),7,0.35083333333333333
+MOZ,Maize (white),8,0.35692307692307695
+MOZ,Maize (white),9,0.3484615384615385
+MOZ,Maize (white),10,0.3541666666666667
+MOZ,Maize (white),11,0.37636363636363634
+MOZ,Maize (white),12,0.4046153846153846
+MOZ,"Maize meal (white, first grade)",1,0.8472727272727273
+MOZ,"Maize meal (white, first grade)",2,0.9269230769230768
+MOZ,"Maize meal (white, first grade)",3,1.056
+MOZ,"Maize meal (white, first grade)",4,1.0091666666666665
+MOZ,"Maize meal (white, first grade)",5,0.9672727272727273
+MOZ,"Maize meal (white, first grade)",6,0.9442857142857143
+MOZ,"Maize meal (white, first grade)",7,0.8911111111111111
+MOZ,"Maize meal (white, first grade)",8,0.8336363636363636
+MOZ,"Maize meal (white, first grade)",9,0.8327272727272728
+MOZ,"Maize meal (white, first grade)",10,0.836
+MOZ,"Maize meal (white, first grade)",11,0.7071428571428572
+MOZ,"Maize meal (white, first grade)",12,0.9
+MOZ,"Maize meal (white, with bran)",1,0.8833333333333333
+MOZ,"Maize meal (white, with bran)",2,0.8400000000000001
+MOZ,"Maize meal (white, with bran)",3,0.8374999999999999
+MOZ,"Maize meal (white, with bran)",4,0.8400000000000001
+MOZ,"Maize meal (white, with bran)",5,0.8266666666666667
+MOZ,"Maize meal (white, with bran)",6,0.42400000000000004
+MOZ,"Maize meal (white, with bran)",7,0.6275
+MOZ,"Maize meal (white, with bran)",8,0.6116666666666667
+MOZ,"Maize meal (white, with bran)",9,0.5433333333333334
+MOZ,"Maize meal (white, with bran)",10,0.5357142857142857
+MOZ,"Maize meal (white, with bran)",11,0.63
+MOZ,"Maize meal (white, with bran)",12,0.636
+MOZ,"Maize meal (white, without bran)",1,0.64
+MOZ,"Maize meal (white, without bran)",2,0.815
+MOZ,"Maize meal (white, without bran)",3,0.78
+MOZ,"Maize meal (white, without bran)",4,0.7112499999999999
+MOZ,"Maize meal (white, without bran)",5,0.73125
+MOZ,"Maize meal (white, without bran)",6,0.6914285714285714
+MOZ,"Maize meal (white, without bran)",7,0.6433333333333334
+MOZ,"Maize meal (white, without bran)",8,0.6228571428571429
+MOZ,"Maize meal (white, without bran)",9,0.6316666666666667
+MOZ,"Maize meal (white, without bran)",10,0.6111111111111112
+MOZ,"Maize meal (white, without bran)",11,0.5754545454545454
+MOZ,"Maize meal (white, without bran)",12,0.6628571428571428
+MOZ,Rice,1,0.785
+MOZ,Rice,2,0.7514285714285714
+MOZ,Rice,3,0.7383333333333333
+MOZ,Rice,4,0.76
+MOZ,Rice,5,0.7228571428571428
+MOZ,Rice,6,0.714
+MOZ,Rice,7,0.735
+MOZ,Rice,8,0.6666666666666666
+MOZ,Rice,9,0.66
+MOZ,Rice,10,0.63375
+MOZ,Rice,11,0.63625
+MOZ,Rice,12,0.647142857142857
+MOZ,Rice (imported),1,0.745
+MOZ,Rice (imported),2,0.7425
+MOZ,Rice (imported),3,0.7625
+MOZ,Rice (imported),4,0.7391666666666667
+MOZ,Rice (imported),5,0.7414285714285714
+MOZ,Rice (imported),6,0.761
+MOZ,Rice (imported),7,0.6988888888888889
+MOZ,Rice (imported),8,0.7044444444444444
+MOZ,Rice (imported),9,0.646
+MOZ,Rice (imported),10,0.6607142857142857
+MOZ,Rice (imported),11,0.725
+MOZ,Rice (imported),12,0.741111111111111
+MOZ,Rice (local),1,1.0133333333333334
+MOZ,Rice (local),2,0.84
+MOZ,Rice (local),3,0.8320000000000001
+MOZ,Rice (local),4,0.72
+MOZ,Rice (local),5,0.8560000000000001
+MOZ,Rice (local),6,0.7140000000000001
+MOZ,Rice (local),7,0.6275
+MOZ,Rice (local),8,0.7166666666666667
+MOZ,Rice (local),9,0.6566666666666666
+MOZ,Rice (local),10,0.6825
+MOZ,Rice (local),11,0.47
+MOZ,Rice (local),12,0.6699999999999999
+MOZ,Wheat flour (local),1,0.9158333333333334
+MOZ,Wheat flour (local),2,0.8971428571428571
+MOZ,Wheat flour (local),3,0.7976923076923076
+MOZ,Wheat flour (local),4,0.8214285714285714
+MOZ,Wheat flour (local),5,0.7140000000000001
+MOZ,Wheat flour (local),6,0.6791666666666667
+MOZ,Wheat flour (local),7,0.6483333333333333
+MOZ,Wheat flour (local),8,0.625
+MOZ,Wheat flour (local),9,0.5966666666666667
+MOZ,Wheat flour (local),10,0.6136363636363636
+MOZ,Wheat flour (local),11,0.615
+MOZ,Wheat flour (local),12,0.628
+MRT,Couscous,4,0.14
+MRT,Couscous,8,0.14
+MRT,Couscous,9,0.14
+MRT,Couscous,10,0.14
+MRT,Couscous,11,0.13
+MRT,Couscous,12,0.14
+MRT,Rice (imported),1,0.895
+MRT,Rice (imported),2,0.8833333333333333
+MRT,Rice (imported),3,0.8028571428571428
+MRT,Rice (imported),4,0.84375
+MRT,Rice (imported),5,0.84
+MRT,Rice (imported),6,0.8188888888888889
+MRT,Rice (imported),7,0.7955555555555556
+MRT,Rice (imported),8,0.775
+MRT,Rice (imported),9,0.8099999999999999
+MRT,Rice (imported),10,0.7533333333333333
+MRT,Rice (imported),11,0.7671428571428571
+MRT,Rice (imported),12,0.8277777777777778
+MRT,Rice (local),1,0.718
+MRT,Rice (local),2,0.646
+MRT,Rice (local),3,0.6516666666666667
+MRT,Rice (local),4,0.654
+MRT,Rice (local),5,0.6366666666666666
+MRT,Rice (local),6,0.722
+MRT,Rice (local),7,0.6074999999999999
+MRT,Rice (local),8,0.635
+MRT,Rice (local),9,0.6628571428571428
+MRT,Rice (local),10,0.7042857142857143
+MRT,Rice (local),11,0.67125
+MRT,Rice (local),12,0.6566666666666666
+MRT,Sorghum (taghalit),1,0.6083333333333333
+MRT,Sorghum (taghalit),2,0.588
+MRT,Sorghum (taghalit),3,0.5533333333333333
+MRT,Sorghum (taghalit),4,0.61
+MRT,Sorghum (taghalit),5,0.51
+MRT,Sorghum (taghalit),6,0.5033333333333333
+MRT,Sorghum (taghalit),7,0.6716666666666667
+MRT,Sorghum (taghalit),8,0.505
+MRT,Sorghum (taghalit),9,0.6316666666666667
+MRT,Sorghum (taghalit),10,0.622
+MRT,Sorghum (taghalit),11,0.496
+MRT,Sorghum (taghalit),12,0.6799999999999999
+MRT,Wheat,1,0.41333333333333333
+MRT,Wheat,2,0.45375
+MRT,Wheat,3,0.433
+MRT,Wheat,4,0.4266666666666667
+MRT,Wheat,5,0.37285714285714283
+MRT,Wheat,6,0.4028571428571429
+MRT,Wheat,7,0.3725
+MRT,Wheat,8,0.41
+MRT,Wheat,9,0.3525
+MRT,Wheat,10,0.3685714285714286
+MRT,Wheat,11,0.392
+MRT,Wheat,12,0.33
+MRT,Wheat flour,4,0.53
+MRT,Wheat flour,8,0.5
+MRT,Wheat flour,9,0.52
+MWI,Cassava,3,0.29
+MWI,Cassava,5,0.33
+MWI,Cassava,6,0.3
+MWI,Cassava,8,0.36
+MWI,Cassava,10,0.49
+MWI,Cassava,12,0.47
+MWI,Maize,1,0.3049090909090909
+MWI,Maize,2,0.31793103448275867
+MWI,Maize,3,0.35209677419354835
+MWI,Maize,4,0.25
+MWI,Maize,5,0.2543137254901961
+MWI,Maize,6,0.3018867924528302
+MWI,Maize,7,0.3303389830508474
+MWI,Maize,8,0.32711538461538464
+MWI,Maize,9,0.31589285714285714
+MWI,Maize,10,0.31265625
+MWI,Maize,11,0.3305882352941176
+MWI,Maize,12,0.33166666666666667
+MWI,Maize (white),5,13.47
+MWI,Maize (white),7,14.82
+MWI,Maize (white),8,12.61
+MWI,Rice,1,0.7867647058823529
+MWI,Rice,2,0.7627906976744185
+MWI,Rice,3,0.901388888888889
+MWI,Rice,4,1.0118518518518518
+MWI,Rice,5,0.9709090909090908
+MWI,Rice,6,0.9275
+MWI,Rice,7,0.95
+MWI,Rice,8,0.9784615384615385
+MWI,Rice,9,1.0029166666666667
+MWI,Rice,10,1.018095238095238
+MWI,Rice,11,1.0229166666666667
+MWI,Rice,12,1.0477272727272728
+MWI,Rice (imported),1,22.54
+MWI,Rice (imported),2,22.84
+MWI,Rice (imported),3,22.91
+MWI,Rice (imported),4,23.14
+MWI,Rice (imported),5,23.57
+MWI,Rice (imported),6,23.93
+MWI,Rice (imported),7,24.05
+MWI,Rice (imported),12,25.26
+MWI,Sorghum (red),1,12.88
+MWI,Sorghum (red),3,10.56
+MWI,Sorghum (red),5,11.11
+MWI,Sorghum (red),6,11.28
+MWI,Sorghum (red),7,11.34
+MWI,Sorghum (red),8,11.4
+NAM,Maize meal,1,0.6942857142857143
+NAM,Maize meal,2,0.76
+NAM,Maize meal,3,0.8216666666666667
+NAM,Maize meal,4,0.9425
+NAM,Maize meal,5,0.8425
+NAM,Maize meal,6,0.8914285714285715
+NAM,Maize meal,7,0.9385714285714286
+NAM,Maize meal,8,1.0266666666666666
+NAM,Maize meal,9,0.9333333333333332
+NAM,Maize meal,10,0.8925
+NAM,Maize meal,11,0.9099999999999999
+NAM,Maize meal,12,0.9916666666666667
+NAM,Millet,1,0.64
+NAM,Millet,2,0.7600000000000001
+NAM,Millet,3,0.63
+NAM,Millet,4,0.9166666666666666
+NAM,Millet,5,0.8333333333333334
+NAM,Millet,6,0.85
+NAM,Millet,7,0.81
+NAM,Millet,8,0.99
+NAM,Millet,9,0.92
+NAM,Millet,10,0.9466666666666667
+NAM,Millet,11,0.875
+NAM,Millet,12,0.9233333333333333
+NAM,Rice,1,1.0225
+NAM,Rice,2,1.2
+NAM,Rice,3,1.14625
+NAM,Rice,4,1.2366666666666666
+NAM,Rice,5,1.17875
+NAM,Rice,6,1.2066666666666668
+NAM,Rice,7,1.3499999999999999
+NAM,Rice,8,1.518
+NAM,Rice,9,1.346
+NAM,Rice,10,1.4440000000000002
+NAM,Rice,11,1.3980000000000001
+NAM,Rice,12,1.3900000000000001
+NAM,Sorghum,1,1.4566666666666668
+NAM,Sorghum,2,2.285
+NAM,Sorghum,3,0.94
+NAM,Sorghum,4,1.7300000000000002
+NAM,Sorghum,5,1.73
+NAM,Sorghum,6,1.5933333333333335
+NAM,Sorghum,7,1.98
+NAM,Sorghum,8,2.0825
+NAM,Sorghum,9,1.64
+NAM,Sorghum,10,1.8599999999999999
+NAM,Sorghum,11,1.9100000000000001
+NAM,Sorghum,12,2.2466666666666666
+NAM,Wheat flour,1,0.818
+NAM,Wheat flour,2,0.8683333333333333
+NAM,Wheat flour,3,0.9339999999999999
+NAM,Wheat flour,4,1.0266666666666666
+NAM,Wheat flour,5,0.9833333333333334
+NAM,Wheat flour,6,1.0
+NAM,Wheat flour,7,1.0450000000000002
+NAM,Wheat flour,8,1.1266666666666667
+NAM,Wheat flour,9,1.0766666666666667
+NAM,Wheat flour,10,1.065
+NAM,Wheat flour,11,1.048
+NAM,Wheat flour,12,1.0985714285714285
+NER,Maize,1,0.3332352941176471
+NER,Maize,2,0.34825
+NER,Maize,3,0.33852941176470586
+NER,Maize,4,0.35527777777777775
+NER,Maize,5,0.3655555555555556
+NER,Maize,6,0.37825
+NER,Maize,7,0.391
+NER,Maize,8,0.4147368421052631
+NER,Maize,9,0.41395348837209306
+NER,Maize,10,0.35914285714285715
+NER,Maize,11,0.3537837837837838
+NER,Maize,12,0.33
+NER,Millet,1,0.3035
+NER,Millet,2,0.3120512820512821
+NER,Millet,3,0.3285294117647059
+NER,Millet,4,0.3321428571428572
+NER,Millet,5,0.365
+NER,Millet,6,0.3725581395348837
+NER,Millet,7,0.38475000000000004
+NER,Millet,8,0.43086956521739134
+NER,Millet,9,0.4046808510638298
+NER,Millet,10,0.32175000000000004
+NER,Millet,11,0.305
+NER,Millet,12,0.33
+NER,Rice (imported),1,0.7690196078431373
+NER,Rice (imported),2,0.7980434782608696
+NER,Rice (imported),3,0.8018518518518518
+NER,Rice (imported),4,0.8300000000000001
+NER,Rice (imported),5,0.8037254901960784
+NER,Rice (imported),6,0.8086666666666666
+NER,Rice (imported),7,0.7873913043478261
+NER,Rice (imported),8,0.7981818181818181
+NER,Rice (imported),9,0.8
+NER,Rice (imported),10,0.7693333333333333
+NER,Rice (imported),11,0.7717073170731708
+NER,Rice (imported),12,0.7399999999999999
+NER,Sorghum,1,0.2910526315789474
+NER,Sorghum,2,0.28500000000000003
+NER,Sorghum,3,0.31029411764705883
+NER,Sorghum,4,0.3221428571428571
+NER,Sorghum,5,0.32921052631578945
+NER,Sorghum,6,0.3438235294117647
+NER,Sorghum,7,0.36150000000000004
+NER,Sorghum,8,0.4062790697674418
+NER,Sorghum,9,0.4007142857142857
+NER,Sorghum,10,0.3410526315789474
+NER,Sorghum,11,0.30923076923076925
+NGA,"Cassava meal (gari, yellow)",1,0.74
+NGA,"Cassava meal (gari, yellow)",2,0.64
+NGA,"Cassava meal (gari, yellow)",3,0.91
+NGA,"Cassava meal (gari, yellow)",5,1.06
+NGA,"Cassava meal (gari, yellow)",6,1.15
+NGA,"Cassava meal (gari, yellow)",8,0.72
+NGA,"Cassava meal (gari, yellow)",10,0.75
+NGA,"Cassava meal (gari, yellow)",11,0.75
+NGA,Gari (white),5,0.83
+NGA,Gari (white),6,0.94
+NGA,Gari (white),8,0.59
+NGA,Gari (white),11,0.67
+NGA,Gari (white),12,0.71
+NGA,Maize,1,0.7849999999999999
+NGA,Maize,2,0.6950000000000001
+NGA,Maize,3,0.745
+NGA,Maize,4,0.7533333333333334
+NGA,Maize,5,0.7766666666666667
+NGA,Maize,6,0.7333333333333334
+NGA,Maize,7,0.7
+NGA,Maize,8,0.75
+NGA,Maize,9,0.7
+NGA,Maize,10,0.7250000000000001
+NGA,Maize,11,0.6000000000000001
+NGA,Maize (white),2,0.49
+NGA,Maize (white),3,0.57
+NGA,Maize (white),4,0.66
+NGA,Maize (white),6,0.74
+NGA,Maize (white),7,0.52
+NGA,Maize (white),8,0.61
+NGA,Maize (yellow),1,1.36
+NGA,Maize (yellow),2,1.36
+NGA,Maize (yellow),4,0.7
+NGA,Maize (yellow),5,0.64
+NGA,Maize (yellow),7,0.5
+NGA,Maize (yellow),8,0.57
+NGA,Maize (yellow),9,0.6
+NGA,Maize (yellow),10,0.57
+NGA,Maize (yellow),11,0.53
+NGA,Maize (yellow),12,0.53
+NGA,Millet,2,0.635
+NGA,Millet,3,0.6950000000000001
+NGA,Millet,4,0.775
+NGA,Millet,5,0.675
+NGA,Millet,6,0.725
+NGA,Millet,7,0.49
+NGA,Millet,8,0.59
+NGA,Millet,9,0.74
+NGA,Millet,10,0.785
+NGA,Millet,11,0.51
+NGA,Rice (imported),1,1.565
+NGA,Rice (imported),2,1.3866666666666667
+NGA,Rice (imported),4,1.42
+NGA,Rice (imported),5,1.3633333333333333
+NGA,Rice (imported),6,1.495
+NGA,Rice (imported),7,0.935
+NGA,Rice (imported),8,0.9666666666666668
+NGA,Rice (imported),9,0.9700000000000001
+NGA,Rice (imported),10,0.7966666666666667
+NGA,Rice (imported),11,0.56
+NGA,Sorghum,1,0.655
+NGA,Sorghum,2,0.6433333333333333
+NGA,Sorghum,3,0.6799999999999999
+NGA,Sorghum,4,0.6833333333333332
+NGA,Sorghum,5,0.555
+NGA,Sorghum,6,0.6066666666666666
+NGA,Sorghum,7,0.505
+NGA,Sorghum,8,0.54
+NGA,Sorghum,9,0.705
+NGA,Sorghum,10,0.64
+NGA,Sorghum,11,0.5349999999999999
+NGA,Sorghum (brown),1,0.58
+NGA,Sorghum (brown),2,0.57
+NGA,Sorghum (brown),4,1.0
+NGA,Sorghum (brown),5,0.82
+NGA,Sorghum (brown),7,0.55
+NGA,Sorghum (brown),9,0.7
+NGA,Sorghum (brown),10,0.76
+NGA,Sorghum (brown),12,0.86
+NGA,Sorghum (white),1,0.68
+NGA,Sorghum (white),3,0.74
+NGA,Sorghum (white),5,0.81
+NGA,Sorghum (white),6,0.76
+NGA,Sorghum (white),7,0.53
+NGA,Sorghum (white),8,0.55
+NPL,Rice (coarse),1,0.4242857142857143
+NPL,Rice (coarse),2,0.4166666666666667
+NPL,Rice (coarse),3,0.41600000000000004
+NPL,Rice (coarse),4,0.37833333333333335
+NPL,Rice (coarse),5,0.38375000000000004
+NPL,Rice (coarse),6,0.41000000000000003
+NPL,Rice (coarse),7,0.42333333333333334
+NPL,Rice (coarse),8,0.3975
+NPL,Rice (coarse),9,0.45600000000000007
+NPL,Rice (coarse),10,0.395
+NPL,Rice (coarse),11,0.405
+NPL,Rice (coarse),12,0.38833333333333336
+NPL,Wheat flour,1,0.47000000000000003
+NPL,Wheat flour,2,0.42
+NPL,Wheat flour,3,0.4042857142857143
+NPL,Wheat flour,4,0.41777777777777775
+NPL,Wheat flour,5,0.42400000000000004
+NPL,Wheat flour,6,0.40166666666666667
+NPL,Wheat flour,7,0.455
+NPL,Wheat flour,8,0.405
+NPL,Wheat flour,9,0.4211111111111111
+NPL,Wheat flour,10,0.4385714285714286
+NPL,Wheat flour,11,0.42166666666666663
+NPL,Wheat flour,12,0.39571428571428574
+PAK,"Rice (basmati, broken)",1,0.6833333333333332
+PAK,"Rice (basmati, broken)",2,0.6033333333333334
+PAK,"Rice (basmati, broken)",3,0.6025
+PAK,"Rice (basmati, broken)",4,0.6066666666666667
+PAK,"Rice (basmati, broken)",5,0.61
+PAK,"Rice (basmati, broken)",6,0.61
+PAK,"Rice (basmati, broken)",7,0.6075
+PAK,"Rice (basmati, broken)",8,0.625
+PAK,"Rice (basmati, broken)",9,0.6325000000000001
+PAK,"Rice (basmati, broken)",10,0.6066666666666666
+PAK,"Rice (basmati, broken)",11,0.61
+PAK,"Rice (basmati, broken)",12,0.655
+PAK,Rice (coarse),1,0.48
+PAK,Rice (coarse),2,0.4166666666666667
+PAK,Rice (coarse),3,0.44333333333333336
+PAK,Rice (coarse),4,0.418
+PAK,Rice (coarse),5,0.4166666666666667
+PAK,Rice (coarse),6,0.435
+PAK,Rice (coarse),7,0.43
+PAK,Rice (coarse),8,0.45499999999999996
+PAK,Rice (coarse),9,0.44
+PAK,Rice (coarse),10,0.45499999999999996
+PAK,Rice (coarse),11,0.45
+PAK,Rice (coarse),12,0.446
+PAK,Wheat,1,0.36
+PAK,Wheat,2,0.345
+PAK,Wheat,3,0.3466666666666667
+PAK,Wheat,4,0.32
+PAK,Wheat,5,0.325
+PAK,Wheat,6,0.33
+PAK,Wheat,7,0.32666666666666666
+PAK,Wheat,8,0.335
+PAK,Wheat,9,0.325
+PAK,Wheat,10,0.3333333333333333
+PAK,Wheat,11,0.335
+PAK,Wheat,12,0.3325
+PAK,Wheat flour,1,0.3875
+PAK,Wheat flour,2,0.382
+PAK,Wheat flour,3,0.378
+PAK,Wheat flour,4,0.3775
+PAK,Wheat flour,5,0.35000000000000003
+PAK,Wheat flour,6,0.364
+PAK,Wheat flour,7,0.368
+PAK,Wheat flour,8,0.36000000000000004
+PAK,Wheat flour,9,0.3725
+PAK,Wheat flour,10,0.375
+PAK,Wheat flour,11,0.3825
+PAK,Wheat flour,12,0.3675
+PER,Bread,2,1.87
+PER,Bread,3,1.96
+PER,Bread,4,2.0
+PER,Bread,5,1.97
+PER,Bread,6,1.99
+PER,Bread,8,1.99
+PER,Bread,9,1.94
+PER,Bread,10,1.93
+PER,Bread,11,1.93
+PER,Maize (local),1,1.34
+PER,Maize (local),2,1.31
+PER,Maize (local),3,1.39
+PER,Maize (local),4,1.43
+PER,Maize (local),7,1.43
+PER,Maize (local),8,1.43
+PER,Maize (local),9,1.4
+PER,Maize (local),10,1.39
+PER,Maize (white),1,1.34
+PER,Maize (white),2,1.31
+PER,Maize (white),3,1.39
+PER,Maize (white),4,1.43
+PER,Maize (white),5,1.4
+PER,Maize (white),6,1.43
+PER,Maize (white),8,1.43
+PER,Maize (white),11,1.39
+PER,Maize (white),12,1.4
+PER,Maize (yellow),1,0.34
+PER,Maize (yellow),2,0.33
+PER,Maize (yellow),3,0.36
+PER,Maize (yellow),4,0.41
+PER,Maize (yellow),5,0.43
+PER,Maize (yellow),6,0.44
+PER,Maize (yellow),8,0.43
+PER,Maize (yellow),10,0.42
+PER,Maize (yellow),11,0.41
+PER,Maize (yellow),12,0.4
+PER,Potatoes,1,0.78
+PER,Potatoes,2,0.42
+PER,Potatoes,3,0.61
+PER,Potatoes,4,0.53
+PER,Potatoes,5,0.355
+PER,Potatoes,6,0.25
+PER,Potatoes,7,0.45
+PER,Potatoes,8,0.48
+PER,Potatoes,9,0.615
+PER,Potatoes,10,0.615
+PER,Potatoes,11,0.73
+PER,Potatoes,12,0.575
+PER,Rice (local),3,0.77
+PER,Rice (local),4,0.79
+PER,Rice (local),5,0.77
+PER,Rice (local),7,0.79
+PER,Rice (local),8,0.78
+PER,Rice (local),9,0.76
+PER,Rice (local),10,0.76
+PER,Rice (local),11,0.76
+PER,Rice (local),12,0.76
+PER,"Rice (milled, superior)",1,1.11
+PER,"Rice (milled, superior)",2,1.09
+PER,"Rice (milled, superior)",3,0.66
+PER,"Rice (milled, superior)",4,0.915
+PER,"Rice (milled, superior)",5,1.15
+PER,"Rice (milled, superior)",6,1.17
+PER,"Rice (milled, superior)",7,1.18
+PER,"Rice (milled, superior)",8,0.68
+PER,"Rice (milled, superior)",9,0.9149999999999999
+PER,"Rice (milled, superior)",10,1.14
+PER,"Rice (milled, superior)",11,0.9199999999999999
+PER,"Rice (regular, milled)",1,0.75
+PER,"Rice (regular, milled)",2,0.6599999999999999
+PER,"Rice (regular, milled)",3,0.61
+PER,"Rice (regular, milled)",4,0.79
+PER,"Rice (regular, milled)",5,0.61
+PER,"Rice (regular, milled)",6,0.63
+PER,"Rice (regular, milled)",7,0.63
+PER,"Rice (regular, milled)",8,0.63
+PER,"Rice (regular, milled)",9,0.6950000000000001
+PER,"Rice (regular, milled)",10,0.6950000000000001
+PER,"Rice (regular, milled)",11,0.6950000000000001
+PER,Wheat flour,1,0.845
+PER,Wheat flour,2,0.49
+PER,Wheat flour,3,0.87
+PER,Wheat flour,4,0.53
+PER,Wheat flour,5,0.52
+PER,Wheat flour,6,0.53
+PER,Wheat flour,7,1.28
+PER,Wheat flour,8,0.9
+PER,Wheat flour,9,1.26
+PER,Wheat flour,10,0.875
+PER,Wheat flour,11,0.88
+PER,Wheat flour,12,0.885
+PER,Wheat flour (locally processed),2,1.17
+PER,Wheat flour (locally processed),4,1.26
+PER,Wheat flour (locally processed),6,1.27
+PER,Wheat flour (locally processed),8,1.28
+PER,Wheat flour (locally processed),9,1.26
+PER,Wheat flour (locally processed),10,1.25
+PER,Wheat flour (locally processed),11,1.26
+PHL,Maize (white),1,0.26
+PHL,Maize (white),2,0.31
+PHL,Maize (white),4,0.33
+PHL,Maize (white),5,0.35
+PHL,Maize (white),6,0.36
+PHL,Maize (white),7,0.33
+PHL,Maize (white),8,0.28
+PHL,Maize (white),9,0.24
+PHL,Maize (white),10,0.22
+PHL,Maize (white),11,0.2
+PHL,Maize (yellow),1,0.26
+PHL,Maize (yellow),2,0.27
+PHL,Maize (yellow),4,0.31
+PHL,Maize (yellow),5,0.31
+PHL,Maize (yellow),6,0.31
+PHL,Maize (yellow),8,0.28
+PHL,Maize (yellow),9,0.24
+PHL,Maize (yellow),11,0.22
+PHL,Maize (yellow),12,0.21
+PHL,Maize flour (white),1,0.515
+PHL,Maize flour (white),2,0.565
+PHL,Maize flour (white),3,0.605
+PHL,Maize flour (white),4,0.6466666666666666
+PHL,Maize flour (white),5,0.62
+PHL,Maize flour (white),6,0.65
+PHL,Maize flour (white),7,0.6133333333333333
+PHL,Maize flour (white),8,0.5800000000000001
+PHL,Maize flour (white),9,0.44
+PHL,Maize flour (white),10,0.48333333333333334
+PHL,Maize flour (yellow),1,0.5333333333333333
+PHL,Maize flour (yellow),2,0.54
+PHL,Maize flour (yellow),3,0.5900000000000001
+PHL,Maize flour (yellow),4,0.63
+PHL,Maize flour (yellow),5,0.54
+PHL,Maize flour (yellow),6,0.52
+PHL,Maize flour (yellow),7,0.52
+PHL,Maize flour (yellow),8,0.575
+PHL,Maize flour (yellow),9,0.5233333333333333
+PHL,Maize flour (yellow),10,0.49666666666666665
+PHL,Maize flour (yellow),11,0.47
+PHL,Maize flour (yellow),12,0.38
+PHL,Potatoes (Irish),1,1.6855555555555555
+PHL,Potatoes (Irish),2,1.5714285714285714
+PHL,Potatoes (Irish),3,1.63
+PHL,Potatoes (Irish),4,1.4318181818181819
+PHL,Potatoes (Irish),5,1.4575
+PHL,Potatoes (Irish),6,1.6316666666666666
+PHL,Potatoes (Irish),7,1.5591666666666668
+PHL,Potatoes (Irish),8,1.6408333333333334
+PHL,Potatoes (Irish),9,1.5436363636363637
+PHL,Potatoes (Irish),10,1.921
+PHL,Potatoes (Irish),11,1.8941666666666668
+PHL,Potatoes (Irish),12,1.8145454545454547
+PHL,"Rice (milled, superior)",1,0.8422222222222222
+PHL,"Rice (milled, superior)",2,0.82375
+PHL,"Rice (milled, superior)",3,0.842
+PHL,"Rice (milled, superior)",4,0.8342857142857143
+PHL,"Rice (milled, superior)",5,0.8633333333333333
+PHL,"Rice (milled, superior)",6,0.8971428571428571
+PHL,"Rice (milled, superior)",7,0.8999999999999999
+PHL,"Rice (milled, superior)",8,0.8825000000000001
+PHL,"Rice (milled, superior)",9,0.8685714285714285
+PHL,"Rice (milled, superior)",10,0.8485714285714285
+PHL,"Rice (milled, superior)",11,0.8075
+PHL,"Rice (milled, superior)",12,0.8039999999999999
+PHL,"Rice (regular, milled)",1,0.7291666666666666
+PHL,"Rice (regular, milled)",2,0.7314285714285714
+PHL,"Rice (regular, milled)",3,0.758125
+PHL,"Rice (regular, milled)",4,0.7707142857142857
+PHL,"Rice (regular, milled)",5,0.7969230769230768
+PHL,"Rice (regular, milled)",6,0.7823076923076923
+PHL,"Rice (regular, milled)",7,0.7844444444444444
+PHL,"Rice (regular, milled)",8,0.7941666666666666
+PHL,"Rice (regular, milled)",9,0.7763636363636363
+PHL,"Rice (regular, milled)",10,0.754
+PHL,"Rice (regular, milled)",11,0.7381818181818182
+PHL,"Rice (regular, milled)",12,0.7029411764705882
+PHL,Sweet potatoes,1,0.558
+PHL,Sweet potatoes,2,0.6845454545454546
+PHL,Sweet potatoes,3,0.5844444444444444
+PHL,Sweet potatoes,4,0.665
+PHL,Sweet potatoes,5,0.7000000000000001
+PHL,Sweet potatoes,6,0.8230000000000001
+PHL,Sweet potatoes,7,0.8315384615384616
+PHL,Sweet potatoes,8,0.7133333333333334
+PHL,Sweet potatoes,9,0.8381818181818183
+PHL,Sweet potatoes,10,0.7118181818181818
+PHL,Sweet potatoes,11,0.607
+PHL,Sweet potatoes,12,0.7377777777777779
+PRY,Cassava,1,0.16
+PRY,Cassava,2,0.17
+PRY,Cassava,3,0.15
+PRY,Cassava,4,0.15
+PRY,Cassava,5,0.14
+PRY,Cassava,6,0.14
+PRY,Cassava,7,0.15
+PRY,Cassava,8,0.19
+PRY,Cassava,9,0.19
+PRY,Cassava,10,0.23
+PRY,Cassava,11,0.24
+PRY,Cassava,12,0.28
+PRY,Cassava flour,1,0.72
+PRY,Cassava flour,2,0.82
+PRY,Cassava flour,3,0.84
+PRY,Cassava flour,4,0.87
+PRY,Cassava flour,5,0.81
+PRY,Cassava flour,6,0.76
+PRY,Cassava flour,7,0.8
+PRY,Cassava flour,8,0.77
+PRY,Cassava flour,9,0.82
+PRY,Cassava flour,10,0.89
+PRY,Cassava flour,11,0.82
+PRY,Cassava flour,12,0.8
+PRY,Maize (white),1,0.67
+PRY,Maize (white),2,0.7
+PRY,Maize (white),3,0.69
+PRY,Maize (white),4,0.78
+PRY,Maize (white),5,0.77
+PRY,Maize (white),6,0.68
+PRY,Maize (white),7,0.73
+PRY,Maize (white),8,0.77
+PRY,Maize (white),9,0.78
+PRY,Maize (white),10,0.86
+PRY,Maize (white),11,0.87
+PRY,Maize (white),12,0.86
+PRY,Maize flour,1,0.99
+PRY,Maize flour,2,1.02
+PRY,Maize flour,3,1.18
+PRY,Maize flour,4,1.15
+PRY,Maize flour,5,1.14
+PRY,Maize flour,6,1.05
+PRY,Maize flour,7,1.17
+PRY,Maize flour,8,1.22
+PRY,Maize flour,9,1.25
+PRY,Maize flour,10,1.18
+PRY,Maize flour,11,1.18
+PRY,Maize flour,12,1.08
+PRY,Rice,1,0.6
+PRY,Rice,2,0.57
+PRY,Rice,3,0.65
+PRY,Rice,4,0.7
+PRY,Rice,5,0.71
+PRY,Rice,6,0.71
+PRY,Rice,7,0.72
+PRY,Rice,8,0.72
+PRY,Rice,9,0.72
+PRY,Rice,10,0.71
+PRY,Rice,11,0.7
+PRY,Rice,12,0.71
+PSE,Bread,1,1.01
+PSE,Bread,2,0.965
+PSE,Bread,3,0.9866666666666668
+PSE,Bread,4,0.9928571428571429
+PSE,Bread,5,1.05
+PSE,Bread,6,0.9880000000000001
+PSE,Bread,7,0.93875
+PSE,Bread,8,0.9962500000000001
+PSE,Bread,9,0.8933333333333334
+PSE,Bread,10,0.925
+PSE,Bread,11,0.9685714285714286
+PSE,Bread,12,0.8400000000000001
+PSE,Potatoes (medium size),2,0.8300000000000001
+PSE,Potatoes (medium size),5,0.7
+PSE,Potatoes (medium size),6,0.89
+PSE,Potatoes (medium size),8,0.87
+PSE,Potatoes (medium size),9,0.83
+PSE,Potatoes (medium size),10,0.87
+PSE,Potatoes (medium size),11,1.0150000000000001
+PSE,Potatoes (medium size),12,1.135
+PSE,Rice (long grain),1,2.78
+PSE,Rice (long grain),3,2.83
+PSE,Rice (long grain),4,2.91
+PSE,Rice (long grain),5,2.89
+PSE,Rice (long grain),6,2.86
+PSE,Rice (long grain),7,2.85
+PSE,Rice (long grain),8,2.9
+PSE,Rice (long grain),9,2.92
+PSE,Rice (long grain),12,2.86
+PSE,"Rice (short grain, low quality, local)",1,1.98
+PSE,"Rice (short grain, low quality, local)",2,2.01
+PSE,"Rice (short grain, low quality, local)",5,2.06
+PSE,"Rice (short grain, low quality, local)",6,2.08
+PSE,"Rice (short grain, low quality, local)",7,2.03
+PSE,"Rice (short grain, low quality, local)",8,2.07
+PSE,"Rice (short grain, low quality, local)",9,2.12
+PSE,"Rice (short grain, low quality, local)",10,2.05
+PSE,"Rice (short grain, low quality, local)",11,2.06
+PSE,"Rice (short grain, low quality, local)",12,1.99
+PSE,Semolina,1,1.24
+PSE,Semolina,4,1.24
+PSE,Semolina,5,1.23
+PSE,Semolina,6,1.21
+PSE,Semolina,7,1.21
+PSE,Semolina,8,1.23
+PSE,Semolina,9,1.24
+PSE,Semolina,11,1.22
+PSE,Semolina,12,1.21
+PSE,Wheat flour,1,1.01
+PSE,Wheat flour,5,1.05
+PSE,Wheat flour,6,0.91
+PSE,Wheat flour,7,0.97
+PSE,Wheat flour,8,0.92
+PSE,Wheat flour,9,0.86
+PSE,Wheat flour,10,0.78
+PSE,Wheat flour,11,0.85
+PSE,Wheat flour,12,0.82
+RUS,Wheat flour (high grade),1,0.2175
+RUS,Wheat flour (high grade),2,0.22125
+RUS,Wheat flour (high grade),3,0.24
+RUS,Wheat flour (high grade),4,0.255
+RUS,Wheat flour (high grade),5,0.2575
+RUS,Wheat flour (high grade),6,0.2725
+RUS,Wheat flour (high grade),7,0.28833333333333333
+RUS,Wheat flour (high grade),8,0.27
+RUS,Wheat flour (high grade),9,0.2625
+RUS,Wheat flour (high grade),10,0.268
+RUS,Wheat flour (high grade),11,0.264
+RUS,Wheat flour (high grade),12,0.276
+RWA,Cassava,9,0.28
+RWA,Cassava,10,0.33
+RWA,Cassava,11,0.33499999999999996
+RWA,Cassava,12,0.3566666666666667
+RWA,Cassava flour,8,0.65
+RWA,Cassava flour,9,0.47000000000000003
+RWA,Cassava flour,10,0.5485714285714286
+RWA,Cassava flour,11,0.4957142857142857
+RWA,Cassava flour,12,0.55
+RWA,Maize,1,0.41
+RWA,Maize,2,0.42
+RWA,Maize,3,0.38
+RWA,Maize,5,0.37
+RWA,Maize,6,0.39
+RWA,Maize,8,0.39
+RWA,Maize,9,0.41500000000000004
+RWA,Maize,10,0.425
+RWA,Maize,11,0.45999999999999996
+RWA,Maize,12,0.5033333333333334
+RWA,Potatoes,8,0.23
+RWA,Potatoes,9,0.26
+RWA,Potatoes,10,0.302
+RWA,Potatoes,11,0.25555555555555554
+RWA,Potatoes,12,0.27375
+RWA,Potatoes (Irish),9,0.3666666666666667
+RWA,Potatoes (Irish),10,0.354
+RWA,Potatoes (Irish),11,0.32599999999999996
+RWA,Potatoes (Irish),12,0.2688888888888889
+RWA,Rice,2,0.93
+RWA,Rice,5,0.97
+RWA,Rice,6,0.96
+RWA,Rice,7,0.9
+RWA,Rice,8,0.91
+RWA,Rice,10,1.01
+RWA,Rice,12,0.98
+RWA,Rice (imported),8,0.91
+RWA,Rice (imported),9,1.08
+RWA,Rice (imported),10,1.0933333333333335
+RWA,Rice (imported),11,1.01125
+RWA,Rice (imported),12,1.0
+RWA,Rice (local),8,0.78
+RWA,Rice (local),9,0.8675
+RWA,Rice (local),10,0.906
+RWA,Rice (local),11,0.89375
+RWA,Rice (local),12,0.8566666666666666
+RWA,Sorghum,8,0.58
+RWA,Sorghum,9,0.41
+RWA,Sorghum,10,0.45428571428571424
+RWA,Sorghum,11,0.47818181818181815
+RWA,Sorghum,12,0.49833333333333335
+SEN,Maize (imported),1,0.34
+SEN,Maize (imported),2,0.35200000000000004
+SEN,Maize (imported),3,0.34777777777777774
+SEN,Maize (imported),4,0.362
+SEN,Maize (imported),5,0.37875000000000003
+SEN,Maize (imported),6,0.3706666666666667
+SEN,Maize (imported),7,0.37
+SEN,Maize (imported),8,0.4107692307692308
+SEN,Maize (imported),9,0.42250000000000004
+SEN,Maize (imported),10,0.3869230769230769
+SEN,Maize (imported),11,0.3875
+SEN,Maize (imported),12,0.358
+SEN,Maize (local),1,0.3151428571428571
+SEN,Maize (local),2,0.3231428571428572
+SEN,Maize (local),3,0.324
+SEN,Maize (local),4,0.3393103448275862
+SEN,Maize (local),5,0.34941176470588237
+SEN,Maize (local),6,0.35393939393939394
+SEN,Maize (local),7,0.35083333333333333
+SEN,Maize (local),8,0.3662068965517241
+SEN,Maize (local),9,0.3858620689655172
+SEN,Maize (local),10,0.3843478260869565
+SEN,Maize (local),11,0.3772
+SEN,Maize (local),12,0.35
+SEN,Millet,1,0.3112820512820513
+SEN,Millet,2,0.3128947368421053
+SEN,Millet,3,0.3154054054054054
+SEN,Millet,4,0.31909090909090915
+SEN,Millet,5,0.325
+SEN,Millet,6,0.3489473684210526
+SEN,Millet,7,0.3470967741935484
+SEN,Millet,8,0.3558064516129032
+SEN,Millet,9,0.37714285714285717
+SEN,Millet,10,0.37857142857142856
+SEN,Millet,11,0.3839393939393939
+SEN,Millet,12,0.35526315789473684
+SEN,Rice (imported),1,0.46842105263157896
+SEN,Rice (imported),2,0.48000000000000004
+SEN,Rice (imported),3,0.46205128205128204
+SEN,Rice (imported),4,0.4803225806451613
+SEN,Rice (imported),5,0.4754054054054054
+SEN,Rice (imported),6,0.4702941176470588
+SEN,Rice (imported),7,0.4703333333333333
+SEN,Rice (imported),8,0.47270270270270265
+SEN,Rice (imported),9,0.4777142857142857
+SEN,Rice (imported),10,0.4658064516129032
+SEN,Rice (imported),11,0.46516129032258063
+SEN,Rice (imported),12,0.4554054054054054
+SEN,Rice (local),1,0.4492857142857143
+SEN,Rice (local),2,0.46529411764705886
+SEN,Rice (local),3,0.43235294117647055
+SEN,Rice (local),4,0.465
+SEN,Rice (local),5,0.4869230769230769
+SEN,Rice (local),6,0.4566666666666667
+SEN,Rice (local),7,0.4763636363636364
+SEN,Rice (local),8,0.442
+SEN,Rice (local),9,0.4563636363636363
+SEN,Rice (local),10,0.43285714285714283
+SEN,Rice (local),11,0.43285714285714283
+SEN,Rice (local),12,0.418
+SEN,Sorghum,1,0.3373333333333333
+SEN,Sorghum,2,0.35629629629629633
+SEN,Sorghum,3,0.3725
+SEN,Sorghum,4,0.36952380952380953
+SEN,Sorghum,5,0.3873913043478261
+SEN,Sorghum,6,0.3817391304347826
+SEN,Sorghum,7,0.3871428571428572
+SEN,Sorghum,8,0.3814285714285714
+SEN,Sorghum,9,0.39
+SEN,Sorghum,10,0.38666666666666666
+SEN,Sorghum,11,0.39888888888888885
+SEN,Sorghum,12,0.37269230769230766
+SLE,Cassava,12,0.17377777777777778
+SLE,Rice (imported),6,1.1518181818181819
+SLE,Rice (imported),7,0.8466666666666667
+SLE,Rice (imported),8,0.9709090909090908
+SLE,Rice (imported),9,0.9441666666666667
+SLE,Rice (imported),10,0.8981818181818183
+SLE,Rice (imported),11,0.7572727272727273
+SLE,Rice (imported),12,0.7776923076923077
+SLE,Rice (local),6,1.0954545454545455
+SLE,Rice (local),7,0.8044444444444445
+SLE,Rice (local),8,0.9259999999999999
+SLE,Rice (local),9,0.943
+SLE,Rice (local),10,0.901
+SLE,Rice (local),11,0.844
+SLE,Rice (local),12,0.8266666666666667
+SLE,Sweet potatoes,12,0.256
+SOM,Maize (white),1,18.86285714285714
+SOM,Maize (white),2,20.73
+SOM,Maize (white),3,21.4575
+SOM,Maize (white),4,18.41
+SOM,Maize (white),5,19.997142857142855
+SOM,Maize (white),6,23.375714285714285
+SOM,Maize (white),7,24.035
+SOM,Maize (white),8,32.22
+SOM,Maize (white),9,32.92166666666667
+SOM,Maize (white),10,26.737777777777776
+SOM,Maize (white),11,28.92142857142857
+SOM,Maize (white),12,30.965714285714284
+SOM,Rice (imported),1,21.51625
+SOM,Rice (imported),2,21.934545454545454
+SOM,Rice (imported),3,25.538999999999998
+SOM,Rice (imported),4,22.315
+SOM,Rice (imported),5,26.250999999999998
+SOM,Rice (imported),6,25.950000000000003
+SOM,Rice (imported),7,28.09
+SOM,Rice (imported),8,27.119999999999997
+SOM,Rice (imported),9,25.854444444444443
+SOM,Rice (imported),10,27.5675
+SOM,Rice (imported),11,28.022222222222226
+SOM,Rice (imported),12,27.22
+SOM,Sorghum (red),1,10.04375
+SOM,Sorghum (red),2,15.909999999999998
+SOM,Sorghum (red),3,13.108333333333334
+SOM,Sorghum (red),4,19.695999999999998
+SOM,Sorghum (red),5,13.755714285714285
+SOM,Sorghum (red),6,15.9825
+SOM,Sorghum (red),7,14.1275
+SOM,Sorghum (red),8,12.976666666666667
+SOM,Sorghum (red),9,12.025
+SOM,Sorghum (red),10,17.456666666666667
+SOM,Sorghum (red),11,21.588
+SOM,Sorghum (red),12,13.82
+SOM,Sorghum (white),1,32.21
+SOM,Sorghum (white),2,33.93
+SOM,Sorghum (white),3,33.96
+SOM,Sorghum (white),4,35.54
+SOM,Sorghum (white),5,37.04
+SOM,Sorghum (white),6,35.9
+SOM,Sorghum (white),7,36.94
+SOM,Sorghum (white),8,38.0
+SOM,Sorghum (white),9,38.06
+SOM,Sorghum (white),10,38.26
+SOM,Sorghum (white),12,39.63
+SOM,Wheat flour,1,23.054
+SOM,Wheat flour,2,23.655
+SOM,Wheat flour,3,27.825000000000003
+SOM,Wheat flour,4,29.42
+SOM,Wheat flour,5,26.41
+SOM,Wheat flour,6,26.8525
+SOM,Wheat flour,7,25.8875
+SOM,Wheat flour,8,27.0925
+SOM,Wheat flour,9,26.179999999999996
+SOM,Wheat flour,10,27.895999999999997
+SOM,Wheat flour,11,26.8325
+SOM,Wheat flour,12,25.93
+SSD,Wheat flour,1,1.602857142857143
+SSD,Wheat flour,2,1.52
+SSD,Wheat flour,3,1.374
+SSD,Wheat flour,4,1.198
+SSD,Wheat flour,5,1.2433333333333334
+SSD,Wheat flour,6,1.2266666666666668
+SSD,Wheat flour,7,1.4733333333333334
+SSD,Wheat flour,8,1.9899999999999998
+SSD,Wheat flour,9,2.004
+SSD,Wheat flour,10,1.7675
+SSD,Wheat flour,11,1.7850000000000001
+SSD,Wheat flour,12,1.8275
+SWZ,Maize meal,1,0.5
+SWZ,Maize meal,2,0.7525
+SWZ,Maize meal,3,0.8175
+SWZ,Maize meal,4,0.8620000000000001
+SWZ,Maize meal,5,0.815
+SWZ,Maize meal,6,0.765
+SWZ,Maize meal,7,0.8266666666666667
+SWZ,Maize meal,8,0.89
+SWZ,Maize meal,9,0.8799999999999999
+SWZ,Maize meal,10,0.8300000000000001
+SWZ,Maize meal,11,0.826
+SWZ,Maize meal,12,0.87
+SWZ,Rice,1,0.7033333333333335
+SWZ,Rice,2,0.752
+SWZ,Rice,3,0.735
+SWZ,Rice,4,0.8275
+SWZ,Rice,5,0.775
+SWZ,Rice,6,0.7975
+SWZ,Rice,7,0.915
+SWZ,Rice,8,0.9400000000000001
+SWZ,Rice,9,0.95
+SWZ,Rice,10,0.9400000000000001
+SWZ,Rice,11,0.975
+SWZ,Rice,12,0.985
+SWZ,Wheat flour,1,0.74
+SWZ,Wheat flour,2,0.8975
+SWZ,Wheat flour,3,0.875
+SWZ,Wheat flour,4,0.92
+SWZ,Wheat flour,5,0.9
+SWZ,Wheat flour,6,0.9366666666666666
+SWZ,Wheat flour,7,0.9325
+SWZ,Wheat flour,8,1.0375
+SWZ,Wheat flour,9,0.9266666666666666
+SWZ,Wheat flour,10,0.885
+SWZ,Wheat flour,11,0.9
+SWZ,Wheat flour,12,1.035
+SYR,Bulgur,1,0.7183333333333334
+SYR,Bulgur,2,1.4728571428571429
+SYR,Bulgur,3,0.805
+SYR,Bulgur,4,1.13125
+SYR,Bulgur,5,1.92625
+SYR,Bulgur,6,1.1199999999999999
+SYR,Bulgur,7,1.10375
+SYR,Bulgur,8,1.2428571428571427
+SYR,Bulgur,9,1.4130769230769231
+SYR,Bulgur,10,0.5127272727272727
+SYR,Bulgur,11,0.63
+SYR,Bulgur,12,0.605625
+SYR,Pasta,11,1.0195833333333333
+SYR,Pasta,12,1.034074074074074
+SYR,Rice,1,2.0044444444444443
+SYR,Rice,2,1.8255
+SYR,Rice,3,2.5838888888888887
+SYR,Rice,4,2.4360000000000004
+SYR,Rice,5,2.0900000000000003
+SYR,Rice,6,2.4315384615384614
+SYR,Rice,7,2.375
+SYR,Rice,8,2.391
+SYR,Rice,9,2.4107692307692306
+SYR,Rice,10,1.0495652173913044
+SYR,Rice,11,1.1652
+SYR,Rice,12,1.202
+SYR,Wheat flour,1,1.2095238095238094
+SYR,Wheat flour,2,1.2185714285714286
+SYR,Wheat flour,3,0.9628571428571429
+SYR,Wheat flour,4,1.133846153846154
+SYR,Wheat flour,5,1.03375
+SYR,Wheat flour,6,1.0618181818181818
+SYR,Wheat flour,7,1.12
+SYR,Wheat flour,8,1.170689655172414
+SYR,Wheat flour,9,1.1722222222222223
+SYR,Wheat flour,10,0.45249999999999996
+SYR,Wheat flour,11,0.6323529411764706
+SYR,Wheat flour,12,0.5765
+TCD,Maize,1,0.41333333333333333
+TCD,Maize,2,0.395
+TCD,Maize,3,0.45499999999999996
+TCD,Maize,4,0.47
+TCD,Maize,5,0.44
+TCD,Maize,6,0.42
+TCD,Maize,7,0.42000000000000004
+TCD,Maize,8,0.385
+TCD,Maize,9,0.38
+TCD,Maize,10,0.35000000000000003
+TCD,Maize,11,0.36
+TCD,Maize,12,0.39
+TCD,Maize (white),1,0.3663636363636364
+TCD,Maize (white),2,0.3875
+TCD,Maize (white),3,0.39875
+TCD,Maize (white),4,0.44166666666666665
+TCD,Maize (white),5,0.40099999999999997
+TCD,Maize (white),6,0.394
+TCD,Maize (white),7,0.38625
+TCD,Maize (white),8,0.38875
+TCD,Maize (white),9,0.3922222222222222
+TCD,Maize (white),10,0.31833333333333336
+TCD,Maize (white),11,0.31125
+TCD,Maize (white),12,0.21600000000000003
+TCD,Millet,1,0.35555555555555557
+TCD,Millet,2,0.3227777777777778
+TCD,Millet,3,0.3378571428571428
+TCD,Millet,4,0.3884
+TCD,Millet,5,0.401875
+TCD,Millet,6,0.4080952380952381
+TCD,Millet,7,0.3923809523809524
+TCD,Millet,8,0.3880952380952381
+TCD,Millet,9,0.36550000000000005
+TCD,Millet,10,0.33555555555555555
+TCD,Millet,11,0.3128571428571429
+TCD,Millet,12,0.27349999999999997
+TCD,Rice (imported),1,0.9833333333333334
+TCD,Rice (imported),2,1.0225
+TCD,Rice (imported),3,1.0075
+TCD,Rice (imported),4,0.9333333333333332
+TCD,Rice (imported),5,1.0533333333333335
+TCD,Rice (imported),6,1.0233333333333334
+TCD,Rice (imported),7,1.0166666666666666
+TCD,Rice (imported),8,0.9066666666666666
+TCD,Rice (imported),9,1.025
+TCD,Rice (imported),10,1.0333333333333334
+TCD,Rice (imported),11,0.875
+TCD,Rice (imported),12,0.8266666666666667
+TCD,Rice (local),1,0.9083333333333333
+TCD,Rice (local),2,0.84
+TCD,Rice (local),3,1.0242857142857142
+TCD,Rice (local),4,0.9570000000000001
+TCD,Rice (local),5,1.0171428571428571
+TCD,Rice (local),6,1.0539999999999998
+TCD,Rice (local),7,0.94875
+TCD,Rice (local),8,0.8214285714285714
+TCD,Rice (local),9,0.9077777777777778
+TCD,Rice (local),10,0.8966666666666666
+TCD,Rice (local),11,0.8371428571428572
+TCD,Rice (local),12,0.9257142857142858
+TCD,Sorghum,1,0.33
+TCD,Sorghum,2,0.29
+TCD,Sorghum,3,0.29
+TCD,Sorghum,4,0.30000000000000004
+TCD,Sorghum,5,0.29
+TCD,Sorghum,6,0.32666666666666666
+TCD,Sorghum,7,0.24
+TCD,Sorghum,8,0.29000000000000004
+TCD,Sorghum,9,0.24
+TCD,Sorghum,10,0.27
+TCD,Sorghum,11,0.26333333333333336
+TCD,Sorghum,12,0.19333333333333333
+TCD,Sorghum (berbere),1,0.26666666666666666
+TCD,Sorghum (berbere),2,0.3133333333333333
+TCD,Sorghum (berbere),3,0.3
+TCD,Sorghum (berbere),4,0.28500000000000003
+TCD,Sorghum (berbere),5,0.29666666666666663
+TCD,Sorghum (berbere),6,0.25
+TCD,Sorghum (berbere),7,0.30666666666666664
+TCD,Sorghum (berbere),8,0.25
+TCD,Sorghum (berbere),9,0.265
+TCD,Sorghum (berbere),10,0.24333333333333332
+TCD,Sorghum (berbere),11,0.238
+TCD,Sorghum (berbere),12,0.235
+TCD,Sorghum (red),1,0.276
+TCD,Sorghum (red),2,0.2888888888888889
+TCD,Sorghum (red),3,0.30315789473684207
+TCD,Sorghum (red),4,0.3023529411764706
+TCD,Sorghum (red),5,0.29888888888888887
+TCD,Sorghum (red),6,0.32842105263157895
+TCD,Sorghum (red),7,0.308
+TCD,Sorghum (red),8,0.295
+TCD,Sorghum (red),9,0.285
+TCD,Sorghum (red),10,0.24941176470588236
+TCD,Sorghum (red),11,0.20894736842105263
+TCD,Sorghum (red),12,0.21214285714285716
+TCD,Sorghum (white),1,0.26
+TCD,Sorghum (white),2,0.30500000000000005
+TCD,Sorghum (white),3,0.3166666666666667
+TCD,Sorghum (white),4,0.315
+TCD,Sorghum (white),5,0.32
+TCD,Sorghum (white),6,0.34
+TCD,Sorghum (white),7,0.34
+TCD,Sorghum (white),8,0.29
+TCD,Sorghum (white),9,0.31
+TCD,Sorghum (white),11,0.17333333333333334
+TCD,Sorghum (white),12,0.24
+TGO,Cassava meal (gari),1,0.352
+TGO,Cassava meal (gari),2,0.39999999999999997
+TGO,Cassava meal (gari),3,0.43333333333333335
+TGO,Cassava meal (gari),4,0.47333333333333333
+TGO,Cassava meal (gari),5,0.53
+TGO,Cassava meal (gari),6,0.624
+TGO,Cassava meal (gari),7,0.505
+TGO,Cassava meal (gari),8,0.6766666666666667
+TGO,Cassava meal (gari),9,0.5533333333333333
+TGO,Cassava meal (gari),10,0.625
+TGO,Cassava meal (gari),11,0.546
+TGO,Cassava meal (gari),12,0.6166666666666667
+TGO,Maize (white),1,0.24666666666666667
+TGO,Maize (white),2,0.28500000000000003
+TGO,Maize (white),3,0.3075
+TGO,Maize (white),4,0.31
+TGO,Maize (white),5,0.3075
+TGO,Maize (white),6,0.3725
+TGO,Maize (white),7,0.3
+TGO,Maize (white),8,0.26
+TGO,Maize (white),9,0.21
+TGO,Maize (white),10,0.22666666666666668
+TGO,Maize (white),11,0.23200000000000004
+TGO,Maize (white),12,0.2375
+TGO,Rice (imported),1,0.804
+TGO,Rice (imported),2,0.8025
+TGO,Rice (imported),3,0.8160000000000001
+TGO,Rice (imported),4,0.842
+TGO,Rice (imported),5,0.8116666666666666
+TGO,Rice (imported),6,0.8433333333333333
+TGO,Rice (imported),7,0.7766666666666667
+TGO,Rice (imported),8,0.8140000000000001
+TGO,Rice (imported),9,0.744
+TGO,Rice (imported),10,0.7859999999999999
+TGO,Rice (imported),11,0.77
+TGO,Rice (imported),12,0.764
+TGO,Sorghum,1,0.35333333333333333
+TGO,Sorghum,2,0.3075
+TGO,Sorghum,3,0.31
+TGO,Sorghum,4,0.3275
+TGO,Sorghum,5,0.355
+TGO,Sorghum,6,0.405
+TGO,Sorghum,7,0.372
+TGO,Sorghum,8,0.41500000000000004
+TGO,Sorghum,9,0.3375
+TGO,Sorghum,10,0.19
+TGO,Sorghum,11,0.32666666666666666
+TGO,Sorghum,12,0.29
+THA,Cassava flour,1,0.33
+THA,Cassava flour,2,0.33
+THA,Cassava flour,3,0.35
+THA,Cassava flour,4,0.36
+THA,Cassava flour,5,0.36
+THA,Cassava flour,6,0.36
+THA,Cassava flour,7,0.35
+THA,Cassava flour,8,0.33
+THA,Cassava flour,9,0.29
+THA,Cassava flour,10,0.28
+THA,Cassava flour,11,0.29
+THA,Cassava flour,12,0.3
+THA,Maize,1,0.24
+THA,Maize,2,0.24
+THA,Maize,3,0.24
+THA,Maize,4,0.24
+THA,Maize,5,0.24
+THA,Maize,6,0.27
+THA,Maize,7,0.26
+THA,Maize,8,0.25
+THA,Maize,9,0.23
+THA,Maize,10,0.23
+THA,Maize,11,0.23
+THA,Maize,12,0.22
+THA,Rice,1,0.32
+THA,Rice,2,0.33
+THA,Rice,3,0.33
+THA,Rice,4,0.34
+THA,Rice,5,0.36
+THA,Rice,6,0.37
+THA,Rice,7,0.37
+THA,Rice,8,0.35
+THA,Rice,9,0.33
+THA,Rice,10,0.32
+THA,Rice,11,0.31
+THA,Rice,12,0.32
+TJK,Maize,1,0.27
+TJK,Maize,2,0.27
+TJK,Maize,3,0.30666666666666664
+TJK,Maize,4,0.33
+TJK,Maize,5,0.30666666666666664
+TJK,Maize,6,0.3233333333333333
+TJK,Maize,7,0.30333333333333334
+TJK,Maize,8,0.3
+TJK,Maize,9,0.2866666666666667
+TJK,Maize,10,0.245
+TJK,Maize,11,0.2966666666666667
+TJK,Maize,12,0.315
+TJK,Potatoes,1,0.28
+TJK,Potatoes,2,0.27749999999999997
+TJK,Potatoes,3,0.254
+TJK,Potatoes,4,0.255
+TJK,Potatoes,5,0.22
+TJK,Potatoes,6,0.26
+TJK,Potatoes,7,0.26
+TJK,Potatoes,8,0.27749999999999997
+TJK,Potatoes,9,0.24
+TJK,Potatoes,10,0.28500000000000003
+TJK,Potatoes,11,0.2775
+TJK,Potatoes,12,0.29333333333333333
+TJK,Rice,1,0.97
+TJK,Rice,2,1.2333333333333334
+TJK,Rice,3,1.125
+TJK,Rice,4,1.5133333333333334
+TJK,Rice,5,1.5466666666666666
+TJK,Rice,6,1.145
+TJK,Rice,7,1.22
+TJK,Rice,8,1.145
+TJK,Rice,9,1.38
+TJK,Rice,10,1.6549999999999998
+TJK,Rice,11,1.065
+TJK,Rice,12,1.13
+TJK,Wheat,1,0.36
+TJK,Wheat,2,0.29500000000000004
+TJK,Wheat,3,0.33
+TJK,Wheat,4,0.3233333333333333
+TJK,Wheat,5,0.32
+TJK,Wheat,6,0.29333333333333333
+TJK,Wheat,7,0.325
+TJK,Wheat,8,0.30333333333333334
+TJK,Wheat,9,0.28
+TJK,Wheat,10,0.27
+TJK,Wheat,11,0.3025
+TJK,Wheat,12,0.32
+TJK,Wheat flour (first grade),1,0.44999999999999996
+TJK,Wheat flour (first grade),2,0.45
+TJK,Wheat flour (first grade),3,0.45
+TJK,Wheat flour (first grade),4,0.435
+TJK,Wheat flour (first grade),5,0.43
+TJK,Wheat flour (first grade),6,0.44333333333333336
+TJK,Wheat flour (first grade),7,0.41500000000000004
+TJK,Wheat flour (first grade),8,0.426
+TJK,Wheat flour (first grade),9,0.4466666666666667
+TJK,Wheat flour (first grade),10,0.43
+TJK,Wheat flour (first grade),11,0.44
+TJK,Wheat flour (first grade),12,0.42400000000000004
+TJK,Wheat flour (high quality),1,0.48333333333333334
+TJK,Wheat flour (high quality),2,0.48
+TJK,Wheat flour (high quality),3,0.49333333333333335
+TJK,Wheat flour (high quality),4,0.4825
+TJK,Wheat flour (high quality),5,0.4975
+TJK,Wheat flour (high quality),6,0.47
+TJK,Wheat flour (high quality),7,0.51
+TJK,Wheat flour (high quality),8,0.495
+TJK,Wheat flour (high quality),9,0.44999999999999996
+TJK,Wheat flour (high quality),10,0.48
+TJK,Wheat flour (high quality),11,0.4466666666666666
+TJK,Wheat flour (high quality),12,0.46499999999999997
+TJK,Wheat flour (local),1,0.43
+TJK,Wheat flour (local),2,0.4
+TJK,Wheat flour (local),3,0.4066666666666667
+TJK,Wheat flour (local),4,0.39666666666666667
+TJK,Wheat flour (local),5,0.38
+TJK,Wheat flour (local),6,0.3666666666666667
+TJK,Wheat flour (local),7,0.3666666666666667
+TJK,Wheat flour (local),8,0.37
+TJK,Wheat flour (local),9,0.3666666666666667
+TJK,Wheat flour (local),10,0.36
+TJK,Wheat flour (local),11,0.385
+TJK,Wheat flour (local),12,0.3833333333333333
+TLS,Maize,2,1.5
+TLS,Maize,3,1.5
+TLS,Maize,4,1.5
+TLS,Maize,5,1.5
+TLS,Maize,6,1.5
+TLS,Maize,7,1.5
+TLS,Maize,8,1.5
+TLS,Maize,9,1.5
+TLS,Maize,11,1.5
+TLS,"Rice (white, imported)",1,1.0
+TLS,"Rice (white, imported)",3,1.01
+TLS,"Rice (white, imported)",12,1.01
+TLS,"Rice (white, local)",2,2.0
+TLS,"Rice (white, local)",3,2.0
+TLS,"Rice (white, local)",5,2.0
+TLS,"Rice (white, local)",6,2.0
+TLS,"Rice (white, local)",7,2.0
+TLS,"Rice (white, local)",8,2.0
+TLS,"Rice (white, local)",9,2.0
+TLS,"Rice (white, local)",10,2.0
+TLS,"Rice (white, local)",11,2.0
+TLS,"Rice (white, local)",12,2.0
+TUR,Bread (common),1,1.04
+TUR,Bread (common),2,1.09
+TUR,Bread (common),4,1.12
+TUR,Bread (common),6,1.14
+TUR,Bread (common),8,1.16
+TUR,Bread (common),10,1.13
+TUR,Bread (common),11,1.08
+TUR,Bread (pita),1,0.77
+TUR,Bread (pita),2,0.8
+TUR,Bread (pita),3,0.81
+TUR,Bread (pita),4,0.85
+TUR,Bread (pita),5,0.83
+TUR,Bread (pita),7,0.83
+TUR,Bread (pita),10,0.76
+TUR,Bulgur,1,0.9
+TUR,Bulgur,2,0.93
+TUR,Bulgur,4,0.97
+TUR,Bulgur,5,0.94
+TUR,Bulgur,6,0.94
+TUR,Bulgur,7,0.92
+TUR,Bulgur,8,0.94
+TUR,Bulgur,9,0.93
+TUR,Bulgur,10,0.89
+TUR,Bulgur,12,0.82
+TUR,Pasta,2,1.01
+TUR,Pasta,3,1.02
+TUR,Pasta,4,1.03
+TUR,Pasta,6,1.02
+TUR,Pasta,9,1.0
+TUR,Pasta,12,0.87
+TUR,Potatoes,1,0.43
+TUR,Potatoes,2,0.47
+TUR,Potatoes,3,0.42
+TUR,Potatoes,4,0.48
+TUR,Potatoes,5,0.36
+TUR,Potatoes,6,0.33
+TUR,Potatoes,7,0.31
+TUR,Potatoes,8,0.31
+TUR,Potatoes,9,0.31
+TUR,Potatoes,10,0.29
+TUR,Potatoes,11,0.29
+TUR,Potatoes,12,0.34
+TUR,Rice,1,2.09
+TUR,Rice,3,2.16
+TUR,Rice,6,2.03
+TUR,Rice,8,2.0
+TUR,Rice,10,1.87
+TUR,Rice,11,1.78
+TUR,Rice,12,1.73
+TUR,Wheat flour,2,0.95
+TUR,Wheat flour,3,0.98
+TUR,Wheat flour,4,0.98
+TUR,Wheat flour,10,0.91
+TUR,Wheat flour,11,0.87
+TUR,Wheat flour,12,0.83
+TZA,Maize (white),1,0.38875000000000004
+TZA,Maize (white),2,0.4095238095238095
+TZA,Maize (white),3,0.4373333333333333
+TZA,Maize (white),4,0.42157894736842105
+TZA,Maize (white),5,0.42388888888888887
+TZA,Maize (white),6,0.3961111111111111
+TZA,Maize (white),7,0.39444444444444443
+TZA,Maize (white),8,0.4014285714285714
+TZA,Maize (white),9,0.4013333333333334
+TZA,Maize (white),10,0.37941176470588234
+TZA,Maize (white),11,0.429
+TZA,Maize (white),12,0.425
+TZA,Maize flour (white),1,0.5605
+TZA,Maize flour (white),2,0.5910526315789474
+TZA,Maize flour (white),3,0.6027272727272728
+TZA,Maize flour (white),4,0.575
+TZA,Maize flour (white),5,0.6033333333333333
+TZA,Maize flour (white),6,0.5564705882352942
+TZA,Maize flour (white),7,0.6453846153846154
+TZA,Maize flour (white),8,0.6000000000000001
+TZA,Maize flour (white),9,0.529375
+TZA,Maize flour (white),10,0.5290909090909092
+TZA,Maize flour (white),11,0.5185714285714286
+TZA,Maize flour (white),12,0.5886666666666667
+TZA,Potatoes (Irish),1,0.455
+TZA,Potatoes (Irish),2,0.44047619047619047
+TZA,Potatoes (Irish),3,0.45083333333333336
+TZA,Potatoes (Irish),4,0.49523809523809526
+TZA,Potatoes (Irish),5,0.5108333333333334
+TZA,Potatoes (Irish),6,0.511875
+TZA,Potatoes (Irish),7,0.51625
+TZA,Potatoes (Irish),8,0.505
+TZA,Potatoes (Irish),9,0.5313333333333333
+TZA,Potatoes (Irish),10,0.5
+TZA,Potatoes (Irish),11,0.48
+TZA,Potatoes (Irish),12,0.4857142857142857
+TZA,Rice,1,0.9492857142857142
+TZA,Rice,2,0.9091666666666667
+TZA,Rice,3,0.91125
+TZA,Rice,4,0.8836363636363637
+TZA,Rice,5,0.8736842105263158
+TZA,Rice,6,0.849375
+TZA,Rice,7,0.8018181818181819
+TZA,Rice,8,0.8007692307692308
+TZA,Rice,9,0.8116666666666666
+TZA,Rice,10,0.8253333333333334
+TZA,Rice,11,0.7514285714285714
+TZA,Rice,12,0.788
+TZA,Sweet potatoes,1,0.44588235294117645
+TZA,Sweet potatoes,2,0.445
+TZA,Sweet potatoes,3,0.39692307692307693
+TZA,Sweet potatoes,4,0.42066666666666663
+TZA,Sweet potatoes,5,0.375
+TZA,Sweet potatoes,6,0.3488888888888889
+TZA,Sweet potatoes,7,0.370625
+TZA,Sweet potatoes,8,0.32416666666666666
+TZA,Sweet potatoes,9,0.3194444444444444
+TZA,Sweet potatoes,10,0.38769230769230767
+TZA,Sweet potatoes,11,0.43333333333333335
+TZA,Sweet potatoes,12,0.45722222222222225
+TZA,Wheat flour,1,0.7129411764705882
+TZA,Wheat flour,2,0.7673684210526316
+TZA,Wheat flour,3,0.7400000000000001
+TZA,Wheat flour,4,0.6883333333333332
+TZA,Wheat flour,5,0.6676923076923077
+TZA,Wheat flour,6,0.7775
+TZA,Wheat flour,7,0.6775
+TZA,Wheat flour,8,0.752
+TZA,Wheat flour,9,0.7636363636363637
+TZA,Wheat flour,10,0.6686666666666666
+TZA,Wheat flour,11,0.6966666666666667
+TZA,Wheat flour,12,0.695
+UGA,Cassava flour,1,0.41125
+UGA,Cassava flour,2,0.426
+UGA,Cassava flour,3,0.44999999999999996
+UGA,Cassava flour,4,0.49666666666666665
+UGA,Cassava flour,5,0.575
+UGA,Cassava flour,6,0.5499999999999999
+UGA,Cassava flour,7,0.5733333333333334
+UGA,Cassava flour,8,0.4033333333333333
+UGA,Cassava flour,9,0.495
+UGA,Cassava flour,10,0.5085714285714286
+UGA,Cassava flour,11,0.485
+UGA,Cassava flour,12,0.466
+UGA,Maize,1,0.235
+UGA,Maize,2,0.22666666666666666
+UGA,Maize,3,0.21500000000000002
+UGA,Maize,4,0.275
+UGA,Maize,5,0.27666666666666667
+UGA,Maize,6,0.28
+UGA,Maize,7,0.27
+UGA,Maize,8,0.245
+UGA,Maize,9,0.275
+UGA,Maize,11,0.32
+UGA,Maize,12,0.35
+UGA,Maize (white),1,0.26333333333333336
+UGA,Maize (white),2,0.265
+UGA,Maize (white),3,0.3033333333333333
+UGA,Maize (white),4,0.35
+UGA,Maize (white),5,0.32999999999999996
+UGA,Maize (white),6,0.355
+UGA,Maize (white),7,0.33
+UGA,Maize (white),8,0.3275
+UGA,Maize (white),9,0.3175
+UGA,Maize (white),10,0.3575
+UGA,Maize (white),11,0.3466666666666667
+UGA,Maize (white),12,0.3375
+UGA,Maize flour,1,0.5433333333333333
+UGA,Maize flour,2,0.5359999999999999
+UGA,Maize flour,3,0.5333333333333333
+UGA,Maize flour,4,0.5475
+UGA,Maize flour,5,0.59
+UGA,Maize flour,6,0.5675
+UGA,Maize flour,7,0.6025
+UGA,Maize flour,8,0.64
+UGA,Maize flour,9,0.6033333333333334
+UGA,Maize flour,10,0.5575
+UGA,Maize flour,11,0.5975
+UGA,Maize flour,12,0.6166666666666667
+UGA,Millet,1,0.5575
+UGA,Millet,2,0.522
+UGA,Millet,3,0.6275
+UGA,Millet,4,0.56
+UGA,Millet,5,0.5
+UGA,Millet,6,0.48
+UGA,Millet,7,0.5349999999999999
+UGA,Millet,8,0.5566666666666666
+UGA,Millet,9,0.562
+UGA,Millet,10,0.56
+UGA,Millet,11,0.632
+UGA,Millet,12,0.6375000000000001
+UGA,Rice,1,0.87
+UGA,Rice,5,0.99
+UGA,Rice,6,0.82
+UGA,Rice,8,0.83
+UGA,Rice,11,0.82
+UGA,Rice,12,0.89
+UGA,Sorghum,1,0.4566666666666666
+UGA,Sorghum,2,0.522
+UGA,Sorghum,3,0.5725
+UGA,Sorghum,4,0.52
+UGA,Sorghum,5,0.462
+UGA,Sorghum,6,0.48599999999999993
+UGA,Sorghum,7,0.5575
+UGA,Sorghum,8,0.508
+UGA,Sorghum,9,0.43
+UGA,Sorghum,10,0.87
+UGA,Sorghum,11,0.63
+UGA,Sorghum,12,0.5375
+UKR,Buckwheat grits,1,1.0336363636363637
+UKR,Buckwheat grits,2,1.02
+UKR,Buckwheat grits,3,1.107222222222222
+UKR,Buckwheat grits,4,1.2386666666666666
+UKR,Buckwheat grits,5,1.2855555555555556
+UKR,Buckwheat grits,6,1.5
+UKR,Buckwheat grits,7,1.5143478260869565
+UKR,Buckwheat grits,8,1.360625
+UKR,Buckwheat grits,9,1.0825
+UKR,Buckwheat grits,10,1.043125
+UKR,Buckwheat grits,11,1.0507692307692307
+UKR,Buckwheat grits,12,1.0644444444444445
+UKR,Pasta,1,0.40923076923076923
+UKR,Pasta,2,0.3668181818181818
+UKR,Pasta,3,0.36466666666666664
+UKR,Pasta,4,0.38411764705882356
+UKR,Pasta,5,0.378125
+UKR,Pasta,6,0.385
+UKR,Pasta,7,0.3794444444444445
+UKR,Pasta,8,0.3641176470588235
+UKR,Pasta,9,0.3547058823529412
+UKR,Pasta,10,0.35904761904761906
+UKR,Pasta,11,0.3547368421052632
+UKR,Pasta,12,0.364
+UKR,Potatoes,1,0.25384615384615383
+UKR,Potatoes,2,0.22000000000000003
+UKR,Potatoes,3,0.19
+UKR,Potatoes,4,0.19555555555555557
+UKR,Potatoes,5,0.2233333333333333
+UKR,Potatoes,6,0.25933333333333336
+UKR,Potatoes,7,0.20823529411764707
+UKR,Potatoes,8,0.18368421052631578
+UKR,Potatoes,9,0.17
+UKR,Potatoes,10,0.1688888888888889
+UKR,Potatoes,11,0.18166666666666667
+UKR,Potatoes,12,0.1936842105263158
+UKR,Rice,1,0.7030769230769232
+UKR,Rice,2,0.6138888888888889
+UKR,Rice,3,0.6029411764705882
+UKR,Rice,4,0.622
+UKR,Rice,5,0.6095454545454545
+UKR,Rice,6,0.6136842105263158
+UKR,Rice,7,0.62
+UKR,Rice,8,0.616842105263158
+UKR,Rice,9,0.6135294117647059
+UKR,Rice,10,0.625
+UKR,Rice,11,0.618
+UKR,Rice,12,0.62
+UKR,Wheat flour (first grade),1,0.356875
+UKR,Wheat flour (first grade),2,0.3186666666666667
+UKR,Wheat flour (first grade),3,0.32076923076923075
+UKR,Wheat flour (first grade),4,0.33176470588235296
+UKR,Wheat flour (first grade),5,0.3333333333333333
+UKR,Wheat flour (first grade),6,0.34125
+UKR,Wheat flour (first grade),7,0.3373333333333334
+UKR,Wheat flour (first grade),8,0.3392857142857143
+UKR,Wheat flour (first grade),9,0.3170588235294117
+UKR,Wheat flour (first grade),10,0.3275
+UKR,Wheat flour (first grade),11,0.3266666666666667
+UKR,Wheat flour (first grade),12,0.326875
+VNM,Rice,1,0.33
+VNM,Rice,2,0.325
+VNM,Rice,3,0.33
+VNM,Rice,4,0.335
+VNM,Rice,5,0.33
+VNM,Rice,6,0.32
+VNM,Rice,7,0.31
+VNM,Rice,8,0.31
+VNM,Rice,9,0.3
+VNM,Rice,10,0.3
+VNM,Rice,11,0.31
+VNM,Rice,12,0.305
+YEM,Millet,1,1.105
+YEM,Millet,2,1.21
+YEM,Millet,3,1.1925
+YEM,Millet,4,0.84
+YEM,Millet,5,0.9650000000000001
+YEM,Millet,6,0.8766666666666666
+YEM,Millet,7,0.8833333333333333
+YEM,Millet,8,1.1
+YEM,Millet,9,0.946
+YEM,Millet,10,0.8333333333333334
+YEM,Millet,11,0.9899999999999999
+YEM,Millet,12,1.0033333333333332
+YEM,Potatoes,1,1.417142857142857
+YEM,Potatoes,2,1.5975000000000001
+YEM,Potatoes,3,1.3728571428571428
+YEM,Potatoes,4,1.2457142857142858
+YEM,Potatoes,5,1.065
+YEM,Potatoes,6,1.159375
+YEM,Potatoes,7,1.1033333333333333
+YEM,Potatoes,8,1.0
+YEM,Potatoes,9,1.475
+YEM,Potatoes,10,1.4800000000000002
+YEM,Potatoes,11,1.364
+YEM,Potatoes,12,1.1566666666666667
+YEM,Rice (imported),1,2.0175
+YEM,Rice (imported),2,1.7566666666666666
+YEM,Rice (imported),3,1.6933333333333334
+YEM,Rice (imported),4,1.5166666666666666
+YEM,Rice (imported),6,1.6341666666666665
+YEM,Rice (imported),7,1.643529411764706
+YEM,Rice (imported),8,1.7354545454545454
+YEM,Rice (imported),9,1.5964285714285715
+YEM,Rice (imported),10,1.663529411764706
+YEM,Rice (imported),11,1.6975
+YEM,Rice (imported),12,1.628125
+YEM,Sorghum,1,1.5274999999999999
+YEM,Sorghum,2,1.32
+YEM,Sorghum,3,1.455
+YEM,Sorghum,4,1.2666666666666666
+YEM,Sorghum,5,1.33
+YEM,Sorghum,6,1.01
+YEM,Sorghum,7,1.072
+YEM,Sorghum,8,1.1500000000000001
+YEM,Sorghum,9,1.1400000000000001
+YEM,Sorghum,10,1.018
+YEM,Sorghum,11,1.028
+YEM,Sorghum,12,1.0575
+YEM,Wheat,1,0.5750000000000001
+YEM,Wheat,2,0.445
+YEM,Wheat,3,0.51125
+YEM,Wheat,4,0.4575
+YEM,Wheat,5,0.545
+YEM,Wheat,6,0.585
+YEM,Wheat,7,0.5
+YEM,Wheat,8,0.5642857142857143
+YEM,Wheat,9,0.545
+YEM,Wheat,10,0.567
+YEM,Wheat,11,0.5741176470588235
+YEM,Wheat,12,0.5453333333333333
+YEM,Wheat flour,1,0.655
+YEM,Wheat flour,2,0.6877777777777777
+YEM,Wheat flour,3,0.6714285714285715
+YEM,Wheat flour,4,0.59
+YEM,Wheat flour,5,0.6185714285714285
+YEM,Wheat flour,6,0.758125
+YEM,Wheat flour,7,0.7188235294117648
+YEM,Wheat flour,8,0.708421052631579
+YEM,Wheat flour,9,0.7021052631578947
+YEM,Wheat flour,10,0.6758823529411765
+YEM,Wheat flour,11,0.7027777777777778
+YEM,Wheat flour,12,0.67625
+ZAF,Maize (white),1,0.29
+ZAF,Maize (white),2,0.32
+ZAF,Maize (white),3,0.3
+ZAF,Maize (white),4,0.31
+ZAF,Maize (white),5,0.31
+ZAF,Maize (white),6,0.31
+ZAF,Maize (white),7,0.31
+ZAF,Maize (white),8,0.31
+ZAF,Maize (white),9,0.28
+ZAF,Maize (white),10,0.25
+ZAF,Maize (white),11,0.27
+ZAF,Maize (white),12,0.29
+ZAF,Maize (yellow),1,0.23
+ZAF,Maize (yellow),2,0.24
+ZAF,Maize (yellow),3,0.21
+ZAF,Maize (yellow),4,0.21
+ZAF,Maize (yellow),5,0.22
+ZAF,Maize (yellow),6,0.24
+ZAF,Maize (yellow),7,0.23
+ZAF,Maize (yellow),8,0.24
+ZAF,Maize (yellow),9,0.22
+ZAF,Maize (yellow),10,0.22
+ZAF,Maize (yellow),11,0.23
+ZAF,Maize (yellow),12,0.23
+ZAF,Wheat,1,0.29
+ZAF,Wheat,2,0.3
+ZAF,Wheat,3,0.29
+ZAF,Wheat,4,0.31
+ZAF,Wheat,5,0.32
+ZAF,Wheat,6,0.32
+ZAF,Wheat,7,0.31
+ZAF,Wheat,8,0.32
+ZAF,Wheat,9,0.29
+ZAF,Wheat,10,0.29
+ZAF,Wheat,11,0.28
+ZAF,Wheat,12,0.28
+ZMB,Cassava meal,2,0.58
+ZMB,Maize (white),1,0.17815789473684213
+ZMB,Maize (white),2,0.1834375
+ZMB,Maize (white),3,0.23514285714285715
+ZMB,Maize (white),4,0.26620689655172414
+ZMB,Maize (white),5,0.19864864864864867
+ZMB,Maize (white),6,0.16137931034482758
+ZMB,Maize (white),7,0.1955263157894737
+ZMB,Maize (white),8,0.198
+ZMB,Maize (white),9,0.21525
+ZMB,Maize (white),10,0.2253846153846154
+ZMB,Maize (white),11,0.24342105263157895
+ZMB,Maize (white),12,0.2615
+ZMB,"Maize meal (white, breakfast)",1,0.292972972972973
+ZMB,"Maize meal (white, breakfast)",2,0.29346153846153844
+ZMB,"Maize meal (white, breakfast)",3,0.312
+ZMB,"Maize meal (white, breakfast)",4,0.3959375
+ZMB,"Maize meal (white, breakfast)",5,0.3426829268292683
+ZMB,"Maize meal (white, breakfast)",6,0.31153846153846154
+ZMB,"Maize meal (white, breakfast)",7,0.3375
+ZMB,"Maize meal (white, breakfast)",8,0.334375
+ZMB,"Maize meal (white, breakfast)",9,0.34785714285714286
+ZMB,"Maize meal (white, breakfast)",10,0.3693939393939394
+ZMB,"Maize meal (white, breakfast)",11,0.3923076923076923
+ZMB,"Maize meal (white, breakfast)",12,0.4066666666666667
+ZMB,"Maize meal (white, roller)",1,0.22074074074074074
+ZMB,"Maize meal (white, roller)",2,0.22
+ZMB,"Maize meal (white, roller)",3,0.2444
+ZMB,"Maize meal (white, roller)",4,0.30814814814814817
+ZMB,"Maize meal (white, roller)",5,0.2759259259259259
+ZMB,"Maize meal (white, roller)",6,0.242962962962963
+ZMB,"Maize meal (white, roller)",7,0.2607407407407407
+ZMB,"Maize meal (white, roller)",8,0.2643333333333333
+ZMB,"Maize meal (white, roller)",9,0.2704347826086957
+ZMB,"Maize meal (white, roller)",10,0.29161290322580646
+ZMB,"Maize meal (white, roller)",11,0.316875
+ZMB,"Maize meal (white, roller)",12,0.32103448275862073
+ZMB,Millet,2,0.31
+ZMB,Rice (local),1,1.0714285714285714
+ZMB,Rice (local),2,1.0732
+ZMB,Rice (local),3,1.2926923076923076
+ZMB,Rice (local),4,1.6449999999999998
+ZMB,Rice (local),5,1.415
+ZMB,Rice (local),6,1.3299999999999998
+ZMB,Rice (local),7,1.3696000000000002
+ZMB,Rice (local),8,1.3644827586206896
+ZMB,Rice (local),9,1.4120000000000001
+ZMB,Rice (local),10,1.38125
+ZMB,Rice (local),11,1.3877777777777778
+ZMB,Rice (local),12,1.5308823529411764
+ZMB,Sorghum,2,0.4525
+ZWE,Maize,1,0.4825
+ZWE,Maize,2,0.4825
+ZWE,Maize,3,0.4975
+ZWE,Maize,4,0.47800000000000004
+ZWE,Maize,5,0.47800000000000004
+ZWE,Maize,6,0.466
+ZWE,Maize,7,0.4825
+ZWE,Maize,8,0.4125
+ZWE,Maize,9,0.42000000000000004
+ZWE,Maize,10,0.40750000000000003
+ZWE,Maize,11,0.41200000000000003
+ZWE,Maize,12,0.39555555555555555
+ZWE,"Maize meal (white, roller)",1,0.6625
+ZWE,"Maize meal (white, roller)",2,0.6328571428571428
+ZWE,"Maize meal (white, roller)",3,0.5700000000000001
+ZWE,"Maize meal (white, roller)",4,0.6433333333333333
+ZWE,"Maize meal (white, roller)",5,0.6042857142857142
+ZWE,"Maize meal (white, roller)",6,0.575
+ZWE,"Maize meal (white, roller)",7,0.5700000000000001
+ZWE,"Maize meal (white, roller)",8,0.562
+ZWE,"Maize meal (white, roller)",9,0.6016666666666667
+ZWE,"Maize meal (white, roller)",10,0.61
+ZWE,"Maize meal (white, roller)",11,0.6166666666666667
+ZWE,"Maize meal (white, roller)",12,0.595
+ZWE,Millet,1,0.34
+ZWE,Millet,2,0.34
+ZWE,Millet,3,0.34
+ZWE,Millet,4,0.34
+ZWE,Millet,8,0.34
+ZWE,Millet,10,0.39
+ZWE,Millet,11,0.39
+ZWE,Millet,12,0.39
+ZWE,Sorghum,1,0.49666666666666665
+ZWE,Sorghum,2,0.58
+ZWE,Sorghum,3,0.53
+ZWE,Sorghum,4,0.5449999999999999
+ZWE,Sorghum,5,0.49333333333333335
+ZWE,Sorghum,6,0.5399999999999999
+ZWE,Sorghum,7,0.49333333333333335
+ZWE,Sorghum,8,0.49333333333333335
+ZWE,Sorghum,9,0.51
+ZWE,Sorghum,10,0.39
+ZWE,Sorghum,11,0.42500000000000004
+ZWE,Sorghum,12,0.382
+ZWE,Wheat,1,0.49666666666666665
+ZWE,Wheat,3,0.46
+ZWE,Wheat,4,0.515
+ZWE,Wheat,5,0.57
+ZWE,Wheat,6,0.4
+ZWE,Wheat,7,0.57
+ZWE,Wheat,8,0.485
+ZWE,Wheat,9,0.45
+ZWE,Wheat,10,0.5
+ZWE,Wheat,11,0.55
+ZWE,Wheat,12,0.5
